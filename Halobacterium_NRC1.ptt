@@ -1,0 +1,2078 @@
+Halobacterium sp. NRC-1 chromosome, complete genome - 1..2014239
+2075 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+248..1453	+	401	15789341	-	VNG0001H	-	COG1361M	hypothetical protein
+1450..2115	+	221	15789342	yvrO	VNG0002G	-	COG1136V	amino acid ABC transporter ATP-binding protein
+2145..3254	+	369	15789343	-	VNG0003C	-	COG4591M	hypothetical protein
+3322..5643	+	773	15789344	-	VNG0005H	-	COG1287R	hypothetical protein
+5646..7451	-	601	15789345	glmS	VNG0006G	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+7454..8641	-	395	15789346	graD5	VNG0008G	-	COG1208MJ	glucose-1-phosphate thymidylyltransferase
+8655..9860	-	401	15789347	graD2	VNG0009G	-	COG1208MJ	glucose-1-phosphate thymidylyltransferase
+9980..11413	+	477	15789348	-	VNG0011C	-	COG2148M	hypothetical protein
+11478..12614	-	378	15789349	-	VNG0013C	-	COG0675L	hypothetical protein
+12978..13187	+	69	15789350	-	VNG0014C	-	COG0065E	hypothetical protein
+13462..13644	-	60	15789351	-	VNG0015H	-	-	hypothetical protein
+13809..14180	-	123	15789352	-	VNG0016H	-	COG2524K	hypothetical protein
+14484..14780	+	98	15789353	-	VNG0017H	-	-	hypothetical protein
+14868..15131	+	87	15789354	-	VNG0018H	-	-	hypothetical protein
+15310..15408	+	32	15789355	-	VNG0019H	-	-	hypothetical protein
+15419..16051	-	210	15789356	-	VNG0020H	-	-	hypothetical protein
+16342..17706	+	454	15789357	-	VNG0021H	-	COG3436L	hypothetical protein
+18357..18902	+	181	15789358	-	VNG0022H	-	-	hypothetical protein
+18895..19530	+	211	15789359	-	VNG0023H	-	-	hypothetical protein
+19703..20023	-	106	15789360	-	VNG0024H	-	-	hypothetical protein
+20219..20482	-	87	15789361	-	VNG0025H	-	-	hypothetical protein
+20533..21456	-	307	15789362	-	VNG0026C	-	COG0675L	hypothetical protein
+22103..22750	-	215	15789363	-	VNG0027H	-	-	hypothetical protein
+23336..23890	+	184	15789364	-	VNG0028C	-	COG3415L	hypothetical protein
+24109..24564	-	151	15789365	-	VNG0029H	-	-	hypothetical protein
+26201..26596	+	131	15789366	-	VNG0030H	-	-	hypothetical protein
+26648..29008	+	786	15789367	-	VNG0031H	-	-	hypothetical protein
+29046..29429	+	127	15789368	-	VNG0032H	-	-	hypothetical protein
+29476..29913	-	145	15789369	-	VNG0033H	-	-	hypothetical protein
+29913..30014	-	33	15789370	-	VNG0034H	-	-	hypothetical protein
+30356..31168	-	270	15789371	-	VNG0035H	-	COG3039L	hypothetical protein
+31838..32086	+	82	15789372	-	VNG0037H	-	COG1598S	hypothetical protein
+32101..32355	+	84	15789373	-	VNG0038H	-	COG1724N	hypothetical protein
+32555..32890	-	111	15789374	-	VNG0039H	-	COG1497K	hypothetical protein
+33182..33628	-	148	15789375	-	VNG0040C	-	COG4190K	hypothetical protein
+33610..33915	-	101	15789376	-	VNG0041C	-	-	hypothetical protein
+34651..35931	-	426	15789377	ntp	VNG0042G	-	COG0675L	transposase
+36321..36713	+	130	15789378	-	VNG0043H	-	COG1943L	hypothetical protein
+36715..37971	+	418	15789379	-	VNG0044H	-	COG0675L	hypothetical protein
+38017..39432	+	471	15789380	-	VNG0045C	-	COG1474LO	hypothetical protein
+39611..40903	-	430	15789381	ugd	VNG0046G	-	COG1004M	UDP-glucose dehydrogenase
+40991..41719	+	242	16554457	graD6	VNG0047Gm	-	COG1209M	dTDP-glucose pyrophosphorylase
+41880..42659	+	259	15789383	-	VNG0049H	-	COG3897R	hypothetical protein
+42707..44149	+	480	15789384	-	VNG0050C	-	COG2244R	hypothetical protein
+44245..45456	-	403	15789385	rfbU1	VNG0051G	-	COG0438M	LPS biosynthesis protein
+47199..48473	-	424	15789386	-	VNG0052H	-	COG3385L	hypothetical protein
+48767..49222	+	151	15789387	-	VNG0053H	-	-	hypothetical protein
+49352..49972	-	206	15789388	-	VNG0054H	-	-	hypothetical protein
+49985..50251	+	88	15789389	-	VNG0055H	-	-	hypothetical protein
+50564..51970	-	468	15789390	-	VNG0056H	-	COG3436L	hypothetical protein
+53192..54367	+	391	15789391	-	VNG0057H	-	-	hypothetical protein
+54696..55745	-	349	15789392	-	VNG0058H	-	-	hypothetical protein
+56287..57561	+	424	15789393	-	VNG0059H	-	COG3385L	hypothetical protein
+57660..58661	-	333	15789394	lpg	VNG0060G	-	COG0438M	LPS glycosyltransferase
+58827..60182	+	451	15789395	-	VNG0061C	-	COG3119P	hypothetical protein
+60609..61625	-	338	15789396	lpb	VNG0062G	-	COG0438M	LPS biosynthesis protein
+61700..62686	-	328	15789397	galE2	VNG0063G	-	COG0451MG	UDP-glucose 4-epimerase
+62927..63643	+	238	15789398	graD3	VNG0064G	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+63881..64810	+	309	15789399	gmd	VNG0065G	-	COG0451MG	GDP-D-mannose dehydratase
+64976..65206	+	76	15789400	-	VNG0066H	-	COG2886S	hypothetical protein
+65203..65472	+	89	15789401	-	VNG0067H	-	COG2405R	hypothetical protein
+65671..65832	+	53	15789402	-	VNG0068H	-	-	hypothetical protein
+66054..66251	+	65	15789403	-	VNG0069H	-	-	hypothetical protein
+66241..66534	+	97	15789404	-	VNG0070H	-	COG2026JD	hypothetical protein
+67057..67491	-	144	15789405	-	VNG0072H	-	COG2402R	hypothetical protein
+67908..68204	+	98	15789406	-	VNG0073C	-	COG0451MG	hypothetical protein
+68290..68514	+	74	15789407	-	VNG0075H	-	COG1349KG	hypothetical protein
+69300..69419	-	39	15789408	-	VNG0076H	-	-	hypothetical protein
+69967..70749	+	260	15789409	-	VNG0077H	-	-	hypothetical protein
+71127..71342	-	71	15789410	-	VNG0079H	-	-	hypothetical protein
+71317..71748	+	143	15789411	-	VNG0080H	-	COG5652S	hypothetical protein
+71811..72704	+	297	15789412	moaE	VNG0081G	-	COG0314H	bifunctional molybdopterin-guanine dinucleotide biosynthesis protein MobB/MoaE
+72708..73544	-	278	15789413	moeB	VNG0084G	-	COG0476H	molybdenum cofactor biosynthesis protein
+73639..74742	+	367	15789414	moaA	VNG0085G	-	COG2896H	hypothetical protein
+74752..76647	-	631	16554458	moeA2	VNG0086Gm	-	COG0303H	LysR family transcriptional regulator
+76644..77867	-	407	15789416	moeA1	VNG0090G	-	COG0303H	molybdenum cofactor biosynthesis protein
+77923..78660	-	245	15789417	pimT1	VNG0089G	-	COG2518O	L-isoaspartyl protein carboxyl methyltransferase
+78683..79597	-	304	15789418	-	VNG0091C	-	-	hypothetical protein
+79662..80327	-	221	15789419	-	VNG0094C	-	COG1326R	hypothetical protein
+80387..81328	-	313	15789420	-	VNG0096C	-	COG2309E	hypothetical protein
+81452..82459	+	335	15789421	gapB	VNG0095G	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+82540..82926	+	128	15789422	hsp2	VNG0097G	-	COG0071O	Hsp2
+82932..83789	-	285	15789423	rimK	VNG0098G	-	COG0189HJ	RimK
+83885..84415	-	176	15789424	rpl10e	VNG0099G	-	COG0197J	50S ribosomal protein L10
+84617..84841	-	74	15789425	cspD1	VNG0101G	-	COG1278K	cold shock protein
+84927..85583	-	218	15789426	-	VNG0102C	-	COG0546R	hypothetical protein
+85640..86611	-	323	15789427	serA3	VNG0104G	-	COG0111HE	SerA3
+86734..87219	-	161	15789428	-	VNG0105H	-	-	hypothetical protein
+87668..89167	+	499	15789429	rmeM	VNG0106G	-	COG0286V	RmeM
+89160..90587	+	475	15789430	rmeS	VNG0107G	-	COG0732V	RmeS
+90639..93641	+	1000	15789431	rmeR	VNG0108G	-	COG0610V	RmeR
+93634..94359	+	241	15789432	-	VNG0110C	-	COG1451R	hypothetical protein
+96010..96543	-	177	15789433	-	VNG0112H	-	COG3385L	hypothetical protein
+97444..98121	+	225	15789434	-	VNG0113H	-	COG3413R	hypothetical protein
+98226..99008	+	260	15789435	yusZ1	VNG0115G	-	COG4221R	oxidoreductase
+100891..101715	-	274	15789436	-	VNG0116H	-	-	hypothetical protein
+102034..102309	-	91	15789437	-	VNG0117H	-	-	hypothetical protein
+102309..102692	-	127	15789438	-	VNG0118H	-	-	hypothetical protein
+102863..103021	-	52	15789439	-	VNG0119H	-	-	hypothetical protein
+103021..103146	-	41	15789440	-	VNG0120H	-	-	hypothetical protein
+103514..104005	+	163	15789441	-	VNG0121H	-	COG1430S	hypothetical protein
+104073..106001	+	642	15789442	trp1	VNG0123G	-	COG1132V	ABC transport protein
+106009..106791	+	260	15789443	-	VNG0124C	-	COG1402R	hypothetical protein
+106803..107189	-	128	15789444	-	VNG0125H	-	-	hypothetical protein
+107233..107562	-	109	15789445	-	VNG0127C	-	COG2098S	hypothetical protein
+107649..108428	+	259	15789446	-	VNG0128C	-	COG0451MG	hypothetical protein
+108694..109563	+	289	15789447	hsp4	VNG0129G	-	COG0501O	Hsp4
+109649..109831	+	60	15789448	-	VNG0130H	-	-	hypothetical protein
+109834..110448	-	204	15789449	-	VNG0132C	-	-	hypothetical protein
+110769..112193	+	474	15789450	rpa	VNG0133G	-	COG1599L	replication factor A
+112247..112699	+	150	15789451	hpyA	VNG0134G	-	COG2036B	HpyA
+112696..113712	+	338	15789452	aup	VNG0136G	-	COG0123BQ	acetoin utilization protein
+113691..115049	-	452	15789453	cca	VNG0137G	-	COG1746J	tRNA CCA-pyrophosphorylase
+115898..116149	+	83	15789454	-	VNG0138H	-	-	hypothetical protein
+116234..116758	+	174	15789455	-	VNG0139H	-	-	hypothetical protein
+116881..117093	+	70	15789456	-	VNG0140H	-	-	hypothetical protein
+117313..117579	-	88	15789457	-	VNG0141H	-	-	hypothetical protein
+117867..118271	-	134	15789458	-	VNG0142C	-	COG3355K	hypothetical protein
+118287..118700	-	137	15789459	-	VNG0143H	-	-	hypothetical protein
+118615..119052	+	145	15789460	-	VNG0144H	-	COG3439S	hypothetical protein
+119518..119754	+	78	15789461	-	VNG0146H	-	-	hypothetical protein
+119759..120226	-	155	15789462	-	VNG0147C	-	COG0864K	hypothetical protein
+120254..120364	-	36	15789463	-	VNG0148H	-	-	hypothetical protein
+120602..122875	+	757	15789464	zntA	VNG0149G	-	COG2217P	hypothetical protein
+122890..123561	-	223	15789465	-	VNG0150H	-	COG0785O	hypothetical protein
+123558..123839	-	93	15789466	-	VNG0151C	-	-	hypothetical protein
+124088..124756	-	222	15789467	prrC	VNG0152G	-	COG1999R	regulatory protein
+125012..126100	-	362	15789468	-	VNG0153C	-	COG1077D	hypothetical protein
+126179..127576	-	465	15789469	merA	VNG0154G	-	COG1249C	mercury(II) reductase
+127692..128390	+	232	15789470	-	VNG0156C	-	COG3413R	hypothetical protein
+128484..129716	+	410	15789471	oxlT	VNG0157G	-	COG2223P	oxalate/formate antiporter
+129737..130693	-	318	15789472	kdgK	VNG0158G	-	COG0524G	2-keto-3-deoxygluconate kinase
+130717..132696	-	659	15789473	mutL	VNG0159G	-	COG0323L	DNA mismatch repair protein
+132683..135277	+	864	15789474	boa1	VNG0160G	-	COG3413R	bacterio-opsin activator-like protein
+135504..136793	+	429	15789475	gdhB	VNG0161G	-	COG0334E	glutamate dehydrogenase
+136676..138478	+	600	15789476	alkK	VNG0162G	-	COG0318IQ	AlkK
+138494..141109	-	871	15789477	mutS1	VNG0163G	-	COG0249L	DNA mismatch repair protein MutS
+141181..142200	-	339	15789478	hef	VNG0164G	-	COG0309O	hydrogenase expression/formation
+142335..143096	+	253	15789479	psmB	VNG0166G	-	COG0638O	proteasome subunit alpha
+143339..143497	+	52	15789480	-	VNG0167H	-	-	hypothetical protein
+143498..144202	-	234	15789481	-	VNG0168H	-	-	hypothetical protein
+144354..144983	-	209	16554459	-	VNG0170Cm	-	COG2761Q	polyketide biosynthesis dithiol-disulfide isomerase
+145185..145907	+	240	15789483	-	VNG0171C	-	COG1637L	hypothetical protein
+145879..148470	-	863	15789484	mutS2	VNG0172G	-	COG0249L	DNA mismatch repair protein MutS
+148838..151168	+	776	15789485	cat1	VNG0174G	-	COG0531E	cationic amino acid transporter
+151174..151860	+	228	15789486	trkA1	VNG0175G	-	COG0569P	TRK potassium uptake system protein
+151875..152615	-	246	15789487	-	VNG0176H	-	COG1247M	hypothetical protein
+152767..153357	-	196	15789488	rpl15e	VNG0177G	-	COG1632J	50S ribosomal protein L15
+153490..154470	-	326	15789489	-	VNG0178H	-	-	hypothetical protein
+154694..155596	-	300	15789490	-	VNG0179C	-	COG0478T	hypothetical protein
+155681..156505	-	274	15789491	hop	VNG0180G	-	COG5524R	Hop
+156613..157431	+	272	15789492	lpl	VNG0181G	-	COG0095H	Lpl
+157481..158308	+	275	15789493	xthA	VNG0183G	-	COG0648L	hypothetical protein
+158525..159292	+	255	15789494	-	VNG0184H	-	COG2226H	hypothetical protein
+159342..160433	+	363	15789495	pepB1	VNG0186G	-	COG2309E	aminopeptidase
+160464..161201	-	245	15789496	-	VNG0187H	-	-	hypothetical protein
+161207..162586	+	459	15789497	-	VNG0188H	-	-	hypothetical protein
+162656..164095	+	479	15789498	-	VNG0189C	-	COG1078R	hypothetical protein
+164151..165113	+	320	15789499	-	VNG0190C	-	COG0037D	hypothetical protein
+165152..166279	-	375	15789500	ftsZ2	VNG0192G	-	COG0206D	cell division protein FtsZ
+166336..166503	-	55	15789501	-	VNG0194H	-	COG0864K	hypothetical protein
+166681..167121	-	146	15789502	-	VNG0195H	-	COG1040R	hypothetical protein
+167794..168054	-	86	15789503	-	VNG0196H	-	-	hypothetical protein
+168184..169212	-	342	15789504	-	VNG0197C	-	COG0392S	hypothetical protein
+169721..170389	-	222	15789505	-	VNG0198H	-	-	hypothetical protein
+170386..170754	-	122	15789506	-	VNG0199H	-	-	hypothetical protein
+170747..171424	-	225	15789507	-	VNG0200C	-	-	hypothetical protein
+171924..172646	-	240	15789508	-	VNG0204H	-	-	hypothetical protein
+172643..173506	-	287	15789509	-	VNG0203C	-	-	hypothetical protein
+173537..173824	-	95	15789510	-	VNG0205H	-	-	hypothetical protein
+175115..175471	+	118	15789511	-	VNG0207H	-	-	hypothetical protein
+175471..175920	+	149	15789512	-	VNG0208H	-	-	hypothetical protein
+175913..176947	+	344	15789513	-	VNG0209H	-	COG4974L	hypothetical protein
+177093..177296	-	67	15789514	-	VNG0210H	-	COG0864K	hypothetical protein
+177587..178354	+	255	15789515	-	VNG0212H	-	-	hypothetical protein
+178317..179321	+	334	15789516	-	VNG0213H	-	-	hypothetical protein
+179707..180366	-	219	15789517	-	VNG0214C	-	-	hypothetical protein
+180916..183489	-	857	15789518	-	VNG0215C	-	COG4983S	hypothetical protein
+183649..183858	-	69	15789519	-	VNG0216H	-	-	hypothetical protein
+184345..184965	+	206	15789520	-	VNG0217H	-	-	hypothetical protein
+184985..186631	-	548	15789521	gspE1	VNG0218G	-	COG0630NU	type II secretion system protein
+187174..187731	+	185	15789522	-	VNG0219H	-	-	hypothetical protein
+187731..188303	+	190	15789523	-	VNG0220H	-	-	hypothetical protein
+188303..189565	+	420	15789524	-	VNG0222C	-	COG1721R	hypothetical protein
+190053..191009	-	318	15789525	moxR	VNG0223G	-	COG0714R	methanol dehydrogenase regulatory protein
+191310..192380	+	356	15789526	htrA	VNG0226G	-	COG0265O	hypothetical protein
+192372..192635	-	87	15789527	-	VNG0227H	-	COG1430S	hypothetical protein
+192826..193377	+	183	15789528	guaAa	VNG0228G	-	COG0518F	GMP synthase subunit A
+193384..195258	+	624	15789529	-	VNG0230C	-	COG3356S	hypothetical protein
+195274..195984	+	236	15789530	-	VNG0231C	-	COG0491R	hypothetical protein
+196042..196281	-	79	15789531	-	VNG0233H	-	-	hypothetical protein
+196288..196665	-	125	15789532	-	VNG0234C	-	COG1382O	hypothetical protein
+197052..197186	-	44	15789533	-	VNG0237H	-	COG1996K	DNA-directed RNA polymerase subunit P
+197195..197512	-	105	15789534	rpl37ae	VNG0239C	-	COG1997J	50S ribosomal protein L37
+197630..197848	+	72	15789535	-	VNG0238H	-	-	hypothetical protein
+197876..198598	-	240	15789536	-	VNG0240C	-	COG4031R	hypothetical protein
+198651..199955	-	434	16554460	truD	VNG0243Cm	-	COG0585S	tRNA pseudouridine synthase D
+199955..200293	-	112	16554461	-	VNG0240a	-	COG1990S	peptidyl-tRNA hydrolase
+200377..200991	+	204	15789538	-	VNG0244H	-	COG2881S	hypothetical protein
+201025..201612	+	195	15789539	dcd	VNG0245G	-	COG0717F	deoxycytidine triphosphate deaminase
+201609..202517	+	302	15789540	-	VNG0247C	-	COG1992S	hypothetical protein
+202509..203273	-	254	15789541	-	VNG0248C	-	-	hypothetical protein
+203276..205708	-	810	15789542	fbr	VNG0249G	-	COG3794C	cytochrome-like protein
+205790..206539	-	249	15789543	-	VNG0250C	-	COG1701S	hypothetical protein
+206579..207418	-	279	15789544	-	VNG0251C	-	COG1829R	hypothetical protein
+207474..208184	-	236	161349986	-	VNG0252C	-	COG1646R	geranylgeranylglyceryl phosphate synthase-like protein
+208286..209257	-	323	15789546	tfbG	VNG0254G	-	COG1405K	transcription initiation factor IIB
+209439..210038	+	199	15789547	-	VNG0255C	-	COG0328L	hypothetical protein
+210031..210582	+	183	15789548	-	VNG0256H	-	-	hypothetical protein
+210639..210989	-	116	15789549	-	VNG0258H	-	COG1695K	hypothetical protein
+211101..211634	+	177	15789550	ipp	VNG0259G	-	COG0221C	inorganic pyrophosphatase
+211694..211852	+	52	15789551	-	VNG0261H	-	-	hypothetical protein
+211896..213011	+	371	15789552	-	VNG0262C	-	COG0618R	hypothetical protein
+213067..214425	+	452	15789553	-	VNG0264H	-	COG3379S	hypothetical protein
+214442..215515	-	357	15789554	ftsZ4	VNG0265G	-	COG0206D	cell division protein
+215499..216068	+	189	15789555	-	VNG0266H	-	-	hypothetical protein
+216068..216961	+	297	15789556	-	VNG0267H	-	COG0451MG	hypothetical protein
+216982..218070	+	362	15789557	-	VNG0268C	-	COG0667C	hypothetical protein
+218415..219332	+	305	15789558	-	VNG0270C	-	COG2814G	hypothetical protein
+219360..220454	+	364	15789559	-	VNG0271C	-	-	hypothetical protein
+220482..220949	+	155	15789560	-	VNG0272H	-	-	hypothetical protein
+221005..221610	+	201	15789561	-	VNG0274C	-	COG0494LR	hypothetical protein
+221649..223274	+	541	15789562	crtI3	VNG0277G	-	COG3349S	phytoene dehydrogenase
+223518..224468	-	316	15789563	-	VNG0280H	-	-	hypothetical protein
+224467..225588	+	373	15789564	soxB	VNG0281G	-	COG0665E	sarcosine oxidase
+225590..226024	-	144	15789565	-	VNG0283C	-	COG0071O	hypothetical protein
+226021..226179	-	52	15789566	-	VNG0282H	-	-	hypothetical protein
+227135..228829	+	564	15789567	-	VNG0284C	-	COG1031C	hypothetical protein
+229052..229441	+	129	15789568	-	VNG0285C	-	COG1943L	hypothetical protein
+229443..230597	+	384	15789569	-	VNG0286C	-	COG0675L	hypothetical protein
+230650..231078	-	142	16554462	-	VNG0287a	-	COG3269R	hypothetical protein
+231155..231817	-	220	15789571	-	VNG0289H	-	COG0727R	hypothetical protein
+231863..232645	-	260	15789572	-	VNG0291H	-	COG0491R	hypothetical protein
+232683..232952	-	89	15789573	-	VNG0293H	-	-	hypothetical protein
+233317..233841	+	174	15789574	pnm	VNG0294G	-	COG2226H	N-methyltransferase-like protein
+233894..234811	+	305	15789575	-	VNG0296H	-	COG0463M	hypothetical protein
+234808..235626	-	272	15789576	-	VNG0297H	-	COG2159R	hypothetical protein
+235698..236303	-	201	15789577	-	VNG0298H	-	COG2860S	hypothetical protein
+236318..237037	-	239	15789578	-	VNG0300C	-	COG1912S	hypothetical protein
+237133..237666	-	177	15789579	-	VNG0301C	-	COG1056H	nicotinamide-nucleotide adenylyltransferase
+237843..239951	+	702	15789580	lon	VNG0303G	-	COG1067O	ATP-dependent protease Lon
+240007..240528	-	173	15789581	-	VNG0306C	-	COG0350L	hypothetical protein
+240541..241296	+	251	15789582	trpC	VNG0305G	-	COG0134E	hypothetical protein
+241293..242585	+	430	15789583	trpB	VNG0307G	-	COG0133E	tryptophan synthase subunit beta
+242582..243412	+	276	16554463	trpA	VNG0308Gm	-	COG0159E	tryptophan synthase subunit alpha
+243437..244234	+	265	15789585	-	VNG0309C	-	COG1830G	fructose-bisphosphate aldolase
+244231..244632	-	133	15789586	-	VNG0311H	-	-	hypothetical protein
+244639..245802	+	387	15789587	-	VNG0310C	-	COG1465E	3-dehydroquinate synthase
+245809..246108	-	99	15789588	-	VNG0312H	-	-	hypothetical protein
+246267..246854	-	195	15789589	aroD	VNG0314G	-	COG0710E	3-dehydroquinate dehydratase
+247008..247967	-	319	15789590	tfbF	VNG0315G	-	COG1405K	transcription initiation factor IIB
+248258..248971	+	237	15789591	-	VNG0316C	-	COG0614P	hypothetical protein
+248973..250817	-	614	15789592	dpg	VNG0318G	-	COG0392S	dolichol-P-glucose synthetase
+251021..251263	+	80	15789593	-	VNG0319H	-	-	hypothetical protein
+251273..251884	-	203	15789594	-	VNG0320H	-	COG3398S	hypothetical protein
+251940..253118	-	392	15789595	ids	VNG0321G	-	COG0330O	Ids
+253158..253667	-	169	15789596	-	VNG0322H	-	COG1585OU	hypothetical protein
+253700..253876	-	58	15789597	-	VNG0323H	-	-	hypothetical protein
+253914..255653	-	579	15789598	pykA	VNG0324G	-	COG0469G	pyruvate kinase
+255742..257811	-	689	15789599	metG	VNG0326G	-	COG0143J	methionyl-tRNA synthetase
+257872..258939	-	355	15789600	gadD	VNG0327G	-	COG0076E	L-tyrosine decarboxylase
+258965..260251	-	428	15789601	caaX	VNG0329G	-	COG0501O	zinc metalloproteinase-like protein
+260291..262549	-	752	15789602	ppsA	VNG0330G	-	COG0574G	phosphoenolpyruvate synthase
+262683..263072	+	129	15789603	-	VNG0331H	-	-	hypothetical protein
+263073..263978	-	301	15789604	-	VNG0332C	-	COG0384R	hypothetical protein
+264253..264945	+	230	15789605	gptA1	VNG0335G	-	COG2236R	purine phosphoribosyltransferase
+265000..265620	+	206	16554464	-	VNG0335a	-	COG0005F	purine nucleoside phosphorylase
+265595..266869	-	424	15789606	-	VNG0337H	-	COG3385L	hypothetical protein
+266878..267267	+	129	16554465	-	VNG0335b	-	COG0005F	purine nucleoside phosphorylase
+267340..268041	+	233	15789607	-	VNG0339H	-	-	hypothetical protein
+268046..268906	-	286	15789608	-	VNG0340C	-	COG1354S	hypothetical protein
+268899..272471	-	1190	15789609	smc1	VNG0342G	-	COG1196D	chromosome segregation protein
+272493..272777	-	94	15789610	-	VNG0343H	-	-	hypothetical protein
+272907..274394	+	495	15789611	gatB	VNG0345G	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+274440..274601	-	53	15789612	-	VNG0346H	-	-	hypothetical protein
+274891..275373	-	160	15789613	-	VNG0347H	-	-	hypothetical protein
+275494..277983	+	829	16554466	topA	VNG0349Gm	-	COG0550L	DNA topoisomerase I
+278123..279412	+	429	15789615	-	VNG0351C	-	COG1602S	hypothetical protein
+279446..279664	+	72	15789616	-	VNG0352H	-	-	hypothetical protein
+279704..280474	+	256	15789617	-	VNG0354C	-	COG1266R	hypothetical protein
+280487..282370	-	627	15789618	htr14	VNG0355G	-	COG0840NT	Htr14
+282398..282826	+	142	15789619	-	VNG0357H	-	-	hypothetical protein
+282823..283725	+	300	15789620	-	VNG0359C	-	COG0785O	hypothetical protein
+283764..284243	-	159	15789621	-	VNG0360C	-	-	hypothetical protein
+284272..285273	+	333	15789622	-	VNG0361C	-	COG3582R	hypothetical protein
+285278..286072	+	264	15789623	nfi	VNG0363G	-	COG1515L	hypothetical protein
+286131..286952	+	273	15789624	yusZ3	VNG0364G	-	COG4221R	oxidoreductase
+286968..288011	-	347	15789625	arsA1	VNG0365G	-	COG0003P	arsenical pump-driving ATPase
+288101..288445	+	114	15789626	-	VNG0367H	-	COG3631R	hypothetical protein
+288491..289006	+	171	15789627	-	VNG0368C	-	COG1546R	hypothetical protein
+289515..290222	-	235	16554467	-	VNG0370Hm	-	COG0613R	metal-dependent phosphoesterase
+290169..291539	+	456	15789629	acd1	VNG0371G	-	COG1960I	acyl-CoA dehydrogenase
+291616..291984	+	122	15789630	-	VNG0373H	-	-	hypothetical protein
+291994..292431	-	145	15789631	nusG	VNG0374G	-	COG0250K	transcription antitermination protein NusG
+292433..292606	-	57	15789632	secE	VNG0375G	-	COG2443U	preprotein translocase subunit SecE
+292670..293860	-	396	15789633	ftsZ1	VNG0376G	-	COG0206D	cell division protein FtsZ
+293888..295060	-	390	15789634	-	VNG0378C	-	COG1650S	hypothetical protein
+295310..296266	-	318	15789635	caa	VNG0380G	-	COG0530P	cation antiporter
+296344..297144	+	266	15789636	aroE	VNG0382G	-	COG0169E	hypothetical protein
+297162..297530	+	122	15789637	-	VNG0383H	-	COG3743S	hypothetical protein
+297545..299011	+	488	15789638	trpE2	VNG0384G	-	COG0147EH	anthranilate synthase subunit alpha
+299008..299583	+	191	16554468	trpG2	VNG0386Gm	-	COG0512EH	anthranilate synthase subunit beta
+299568..300425	+	285	15789640	ilvE1	VNG0387G	-	COG0115EH	branched-chain amino acid aminotransferase
+300471..300941	+	156	15789641	-	VNG0388C	-	COG2146PR	hypothetical protein
+300938..301228	-	96	15789642	-	VNG0389C	-	COG3357K	hypothetical protein
+301248..302276	+	342	15789643	graD1	VNG0390G	-	COG1208MJ	glucose-1-phosphate thymidylyltransferase
+302277..302999	-	240	15789644	-	VNG0391C	-	COG0018J	hypothetical protein
+303046..304194	-	382	15789645	-	VNG0393C	-	COG2237S	hypothetical protein
+304268..305170	-	300	15789646	-	VNG0394C	-	COG1340S	hypothetical protein
+305431..305844	+	137	15789647	-	VNG0396C	-	COG2090S	hypothetical protein
+305902..306699	+	265	15789648	nthA1	VNG0398G	-	COG0177L	endonuclease III
+306701..307168	-	155	15789649	-	VNG0399H	-	-	hypothetical protein
+307290..309215	-	641	15789650	epf2	VNG0401G	-	COG0054H	mRNA 3'-end processing factor-like protein
+309533..309685	-	50	15789651	-	VNG0402H	-	-	hypothetical protein
+309807..311312	+	501	161349985	proS	VNG0403G	-	COG0442J	prolyl-tRNA synthetase
+311391..311921	+	176	15789653	-	VNG0404H	-	-	hypothetical protein
+311957..312946	+	329	15789654	-	VNG0405C	-	COG0451MG	hypothetical protein
+313105..314163	+	352	15789655	egsA	VNG0406C	-	COG0371C	NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+314156..314971	-	271	15789656	-	VNG0407H	-	COG0392S	hypothetical protein
+315206..316276	-	356	15789657	-	VNG0408H	-	COG0501O	hypothetical protein
+316309..318105	-	598	15789658	-	VNG0409C	-	COG1506E	hypothetical protein
+318208..319275	+	355	15789659	rfbU2	VNG0410G	-	COG0438M	LPS biosynthesis protein
+319297..321744	-	815	15789660	folP	VNG0412G	-	COG0285H	hypothetical protein
+321793..323580	-	595	15789661	purH	VNG0414G	-	COG0138F	hypothetical protein
+323468..324955	+	495	15789662	purB	VNG0415G	-	COG0015F	adenylosuccinate lyase
+325020..325661	+	213	15789663	-	VNG0417H	-	COG2129R	hypothetical protein
+325698..326195	+	165	15789664	-	VNG0419C	-	COG1432S	hypothetical protein
+326196..326384	-	62	15789665	-	VNG0420H	-	-	hypothetical protein
+326468..326947	+	159	15789666	-	VNG0421C	-	COG1370O	hypothetical protein
+326955..328172	-	405	15789667	cyc	VNG0422G	-	COG2124Q	cytochrome P450
+328415..328807	+	130	15789668	nac	VNG0424C	-	COG1308K	nascent polypeptide-associated complex protein
+328807..329523	+	238	15789669	pimT2	VNG0425G	-	COG2519J	L-isoaspartyl protein carboxyl methyltransferase
+329653..329967	-	104	15789670	rpoM	VNG0426G	-	COG1594K	DNA-directed RNA-polymerase subunit M
+330079..331341	+	420	15789671	yfmO2	VNG0427G	-	COG2814G	multidrug resistance protein-like protein
+331342..332112	-	256	15789672	fad2	VNG0428G	-	COG1024I	enoyl-CoA hydratase
+332196..332681	+	161	15789673	-	VNG0429H	-	-	hypothetical protein
+332688..333338	-	216	15789674	-	VNG0430H	-	-	hypothetical protein
+333816..334244	-	142	15789675	apa	VNG0431G	-	COG0494LR	diadenosine tetraphosphate pyrophosphohydrolase
+334368..334703	+	111	15789676	-	VNG0433C	-	COG0051J	hypothetical protein
+334798..335064	-	88	15789677	-	VNG0435H	-	-	hypothetical protein
+335061..336626	-	521	15789678	nhaC1	VNG0436G	-	COG1757C	Na+/H+ antiporter
+336723..338003	+	426	15789679	-	VNG0437C	-	COG1473R	hypothetical protein
+338014..339384	-	456	15789680	-	VNG0439C	-	COG0644C	hypothetical protein
+339490..339819	+	109	15789681	ferA3	VNG0438G	-	COG0633C	ferredoxin
+339822..340952	-	376	15789682	-	VNG0440C	-	COG0491R	hypothetical protein
+341012..341647	+	211	15789683	-	VNG0441H	-	-	hypothetical protein
+341670..342908	-	412	15789684	rspA	VNG0442G	-	COG4948MR	hypothetical protein
+342946..343887	-	313	15789685	dapA	VNG0444G	-	COG0329EM	hypothetical protein
+343909..345117	-	402	15789686	-	VNG0447H	-	COG0561R	hypothetical protein
+345205..346275	+	356	15789687	gcd	VNG0446G	-	COG1063ER	glucose dehydrogenase
+346272..346910	+	212	15789688	pyrE1	VNG0448G	-	COG0856F	orotate phosphoribosyltransferase-like protein
+346978..347355	+	125	15789689	-	VNG0450C	-	COG0278O	hypothetical protein
+347367..347990	-	207	15789690	phoU	VNG0451G	-	COG0704P	hypothetical protein
+348053..348898	-	281	15789691	pstB2	VNG0452G	-	COG1117P	phosphate ABC transporter ATP-binding protein
+348905..350605	-	566	15789692	pstA2	VNG0453G	-	COG0581P	phosphate ABC transporter permease
+350607..351566	-	319	15789693	pstC2	VNG0455G	-	COG0573P	phosphate ABC transporter permease
+351622..352656	-	344	15789694	phoX	VNG0457G	-	COG0226P	phosphate ABC transporter periplasmic phosphate-binding protein
+352883..353887	+	334	15789695	prp1	VNG0458G	-	COG0704P	phosphate regulatory protein-like protein
+353960..354931	+	323	15789696	nodP	VNG0459G	-	COG0175EH	nodulation protein
+355258..356568	+	436	15789697	aspS	VNG0461G	-	COG0017J	aspartyl-tRNA synthetase
+356605..356889	-	94	15789698	-	VNG0462C	-	COG1846K	hypothetical protein
+356891..357508	-	205	15789699	-	VNG0463C	-	-	hypothetical protein
+357501..358391	-	296	16554469	nosF2	VNG0465Gm	-	COG1131V	copper transport ATP-binding protein
+358388..359239	-	283	15789701	-	VNG0466C	-	-	hypothetical protein
+359388..360221	-	277	15789702	yafB	VNG0467G	-	COG0656R	aldehyde reductase
+360279..361511	-	410	15789703	-	VNG0468C	-	COG0644C	hypothetical protein
+361705..363387	-	560	15789704	-	VNG0469H	-	-	hypothetical protein
+363359..364117	-	252	15789705	trp3	VNG0470G	-	COG1131V	daunorubicin resistance ABC transporter ATP-binding protein
+364276..364476	-	66	15789706	-	VNG0471C	-	COG1476K	hypothetical protein
+364473..364889	-	138	15789707	-	VNG0472H	-	-	hypothetical protein
+365304..366173	-	289	15789708	porB	VNG0473G	-	COG1013C	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+366170..367918	-	582	15789709	porA	VNG0474G	-	COG0674C	hypothetical protein
+368167..368811	+	214	15789710	-	VNG0475C	-	COG1018C	hypothetical protein
+369003..369404	+	133	16554470	-	VNG0475a	-	COG1051F	NTP pyrophosphohydrolase
+369409..369825	-	138	15789711	-	VNG0478C	-	COG3185ER	hypothetical protein
+369837..370787	-	316	15789712	yajO1	VNG0479G	-	COG1028IQR	oxidoreductase
+370841..372802	-	653	15789713	mcmA1	VNG0481G	-	COG1884I	methylmalonyl-CoA mutase subunit alpha
+372939..373508	-	189	15789714	-	VNG0482H	-	COG1246E	hypothetical protein
+373577..374761	-	394	15789715	-	VNG0483C	-	COG2834M	hypothetical protein
+374853..376823	+	656	15789716	acs1	VNG0484G	-	COG0365I	acetyl-CoA synthetase
+376820..377209	-	129	15789717	-	VNG0485H	-	-	hypothetical protein
+377233..377808	-	191	15789718	hat1	VNG0486G	-	COG1670J	acetyltransferase
+377808..378581	-	257	15789719	-	VNG0487H	-	COG1670J	hypothetical protein
+378529..379233	-	234	15789720	-	VNG0488H	-	COG0318IQ	hypothetical protein
+379302..380477	-	391	15789721	dnaJ	VNG0489G	-	COG0484O	hypothetical protein
+380553..382442	-	629	15789722	dnaK	VNG0491G	-	COG0443O	heat shock protein
+382599..383294	-	231	15789723	-	VNG0492H	-	COG3208Q	hypothetical protein
+383334..383987	-	217	15789724	grpE	VNG0494G	-	COG0576O	hypothetical protein
+384063..384446	-	127	15789725	-	VNG0496H	-	-	hypothetical protein
+384499..385005	-	168	15789726	-	VNG0498C	-	COG3270S	hypothetical protein
+385002..385913	-	303	15789727	cna	VNG0499G	-	COG0144J	proliferating-cell nucleolar antigen
+386009..386755	+	248	15789728	ppd	VNG0500G	-	COG1938R	3-isopropylmalate dehydratase
+386766..388004	-	412	15789729	yfmO1	VNG0501G	-	COG2814G	multidrug resistance protein-like protein
+388169..389290	+	373	15789730	aspB1	VNG0502G	-	COG0436E	aspartate aminotransferase
+389355..390143	+	262	15789731	-	VNG0503C	-	COG2226H	hypothetical protein
+390140..391321	-	393	15789732	gbp5	VNG0504G	-	COG0012J	translation-associated GTPase
+391432..392532	+	366	15789733	-	VNG0505C	-	COG1253R	hypothetical protein
+392529..392660	-	43	15789734	-	VNG0506H	-	-	hypothetical protein
+392861..393733	-	290	15789735	-	VNG0507C	-	COG4801R	hypothetical protein
+393802..393999	+	65	15789736	-	VNG0508H	-	-	hypothetical protein
+394049..394186	+	45	15789737	-	VNG0509H	-	-	hypothetical protein
+394230..395336	-	368	15789738	prrIV2	VNG0510G	-	COG1222O	proteasome-activating nucleotidase
+395657..395887	+	76	15789739	-	VNG0511H	-	-	hypothetical protein
+395945..397108	+	387	15789740	ppe	VNG0512G	-	COG0420L	DNA double-strand break repair protein
+397105..399756	+	883	15789741	-	VNG0514C	-	COG0419L	chromosome segregation protein
+399808..400059	+	83	15789742	-	VNG0516H	-	-	hypothetical protein
+400501..400614	-	37	15789743	-	VNG0518H	-	-	hypothetical protein
+400823..401008	-	61	15789744	-	VNG0520H	-	-	hypothetical protein
+401122..403827	+	901	15789745	polB1	VNG0521G	-	COG0417L	DNA polymerase B1
+403843..404586	-	247	15789746	inb	VNG0523G	-	COG4221R	oxidoreductase-like protein
+404888..405814	+	308	15789747	yurY	VNG0524G	-	COG0396O	ABC transporter ATP-binding protein
+405851..407275	+	474	15789748	-	VNG0525C	-	COG0719O	hypothetical protein
+407277..408491	+	404	15789749	-	VNG0527C	-	COG0719O	hypothetical protein
+408654..409160	-	168	15789750	-	VNG0529H	-	-	hypothetical protein
+409159..409593	+	144	15789751	troR	VNG0530G	-	COG1321K	hypothetical protein
+410039..410416	-	125	15789752	-	VNG0532H	-	-	hypothetical protein
+410415..411128	+	237	15789753	-	VNG0533H	-	COG2013S	hypothetical protein
+411371..412003	+	210	15789754	-	VNG0534C	-	COG1418R	hypothetical protein
+412027..412317	-	96	15789755	-	VNG0535C	-	COG2119S	hypothetical protein
+412713..413414	-	233	15789756	sirR	VNG0536G	-	COG1321K	transcription repressor
+413539..416253	-	904	15789757	-	VNG0537C	-	COG4666R	hypothetical protein
+416246..416737	-	163	15789758	-	VNG0539C	-	COG4729S	hypothetical protein
+416799..417755	-	318	15789759	imp	VNG0540G	-	COG2358R	hypothetical protein
+417903..419099	-	398	15789760	thrC2	VNG0541G	-	COG0498E	hypothetical protein
+419196..420488	+	430	15789761	-	VNG0542C	-	COG1233Q	hypothetical protein
+420476..420874	-	132	15789762	-	VNG0543H	-	COG1407R	hypothetical protein
+421208..421615	+	135	15789763	-	VNG0544H	-	-	hypothetical protein
+421905..422657	-	250	15789764	-	VNG0546C	-	COG2047R	hypothetical protein
+422662..422844	-	60	15789765	-	VNG0548C	-	COG2260J	H/ACA RNA-protein complex component Nop10p
+422844..423647	-	267	15789766	eif2a	VNG0549G	-	COG1093J	translation initiation factor IF-2 subunit alpha
+423644..423817	-	57	15789767	rps27e	VNG0550G	-	COG2051J	30S ribosomal protein S27
+423822..424007	-	61	15789768	rpl44e	VNG0551G	-	COG1631J	50S ribosomal protein L44E
+424253..425932	+	559	15789769	-	VNG0553C	-	-	hypothetical protein
+425790..428312	-	840	15789770	-	VNG0555C	-	COG5427S	hypothetical protein
+428425..429981	+	518	15789771	sgb	VNG0556G	-	COG2244R	succinoglycan biosynthesis transport protein
+430285..430965	-	226	15789772	-	VNG0557H	-	COG0693R	hypothetical protein
+431034..431600	-	188	15789773	apt	VNG0559G	-	COG0503F	adenine phosphoribosyltransferase
+431659..433443	-	594	15789774	-	VNG0560C	-	COG0651CP	monovalent cation/H+ antiporter subunit D
+433440..435059	-	539	161349984	-	VNG0562C	-	COG0651CP	monovalent cation/H+ antiporter subunit D
+435056..436198	-	380	15789776	ndhG2	VNG0563G	-	COG0651CP	NADH dehydrogenase/oxidoreductase
+436530..436886	-	118	15789777	-	VNG0565C	-	COG1006P	monovalent cation/H+ antiporter subunit C
+436883..437350	-	155	15789778	-	VNG0564H	-	COG2111P	monovalent cation/H+ antiporter subunit B
+437347..437877	-	176	15789779	-	VNG0566C	-	COG2111P	monovalent cation/H+ antiporter subunit B
+437874..438200	-	108	16554471	mnhG	VNG0570Hm	-	COG1320P	monovalent cation/H+ antiporter subunit G
+438197..438472	-	91	161349983	-	VNG0568C	-	COG2212P	monovalent cation/H+ antiporter subunit F
+438469..439563	-	364	15789782	-	VNG0571C	-	COG1863P	monovalent cation/H+ antiporter subunit E
+439733..440911	-	392	15789783	dfp	VNG0572G	-	COG0452H	hypothetical protein
+441519..442211	-	230	15789784	-	VNG0573C	-	COG3794C	hypothetical protein
+442210..442467	+	85	15789785	-	VNG0574C	-	COG4746S	hypothetical protein
+442518..443819	+	433	15789786	ywaD	VNG0575G	-	COG2234R	aminopeptidase
+444303..444683	+	126	15789787	-	VNG0576C	-	COG0061G	hypothetical protein
+444728..445168	+	146	15789788	-	VNG0578H	-	-	hypothetical protein
+445263..445523	-	86	15789789	-	VNG0579H	-	-	hypothetical protein
+445516..445803	-	95	15789790	-	VNG0581H	-	-	hypothetical protein
+445897..446661	-	254	15789791	-	VNG0582C	-	COG1290C	hypothetical protein
+446666..447478	-	270	15789792	cyb	VNG0583G	-	COG1290C	cytochrome b6
+447481..448311	-	276	15789793	-	VNG0584H	-	COG0723C	hypothetical protein
+448314..448700	-	128	15789794	-	VNG0585H	-	-	hypothetical protein
+448700..449389	-	229	15789795	-	VNG0586C	-	COG3794C	hypothetical protein
+449465..450376	-	303	15789796	-	VNG0587H	-	-	hypothetical protein
+450472..450960	+	162	15789797	-	VNG0590H	-	-	hypothetical protein
+450957..451601	-	214	15789798	-	VNG0591C	-	COG1777K	hypothetical protein
+451701..452384	-	227	15789799	nthA2	VNG0592G	-	COG0177L	endonuclease III
+452465..453469	+	334	15789800	dmd	VNG0593G	-	COG3407I	diphosphomevalonate decarboxylase
+454135..454461	+	108	15789801	-	VNG0594H	-	-	hypothetical protein
+454472..455086	-	204	15789802	-	VNG0595H	-	COG0346E	hypothetical protein
+455876..456031	+	51	15789803	-	VNG0596H	-	-	hypothetical protein
+456082..456483	+	133	15789804	-	VNG0597H	-	-	hypothetical protein
+456480..457472	-	330	15789805	-	VNG0598C	-	COG0438M	hypothetical protein
+457591..458676	-	361	15789806	-	VNG0600C	-	COG0438M	hypothetical protein
+458746..459027	+	93	15789807	-	VNG0599C	-	COG2023J	hypothetical protein
+459075..459317	+	80	15789808	-	VNG0601H	-	COG1534J	hypothetical protein
+459333..459794	-	153	15789809	-	VNG0602C	-	COG0589T	hypothetical protein
+460447..460728	+	93	15789810	-	VNG0604H	-	-	hypothetical protein
+460913..461737	+	274	15789811	yrhA	VNG0606G	-	COG0031E	cysteine synthase
+461747..462160	-	137	15789812	-	VNG0608C	-	COG1832R	hypothetical protein
+462193..462840	-	215	15789813	-	VNG0609C	-	COG0467T	hypothetical protein
+462955..463797	-	280	15789814	ubiA	VNG0610G	-	COG0382H	prenyltransferase
+464523..465503	+	326	15789815	-	VNG0611H	-	-	hypothetical protein
+466389..466583	-	64	15789816	-	VNG0612H	-	-	hypothetical protein
+466928..467362	-	144	15789817	-	VNG0613H	-	-	hypothetical protein
+467390..469276	-	628	15789818	htr16	VNG0614G	-	COG0840NT	Htr16
+469912..471549	-	545	15789819	-	VNG0615C	-	COG0569P	hypothetical protein
+471670..472527	-	285	15789820	-	VNG0617H	-	-	hypothetical protein
+472598..473500	-	300	15789821	edp	VNG0620G	-	COG0616OU	proteinase IV-like protein
+473684..474712	-	342	15789822	-	VNG0622H	-	COG3380R	hypothetical protein
+474797..476572	+	591	15789823	yngE	VNG0623G	-	COG4799I	propionyl-CoA carboxylase-like protein
+476591..476920	-	109	15789824	-	VNG0624H	-	-	hypothetical protein
+477027..477500	-	157	15789825	maoC2	VNG0626G	-	COG2030I	molybdenum cofactor biosynthesis protein
+477499..478410	+	303	15789826	citE	VNG0627G	-	COG2301G	hypothetical protein
+478615..479733	+	372	15789827	gdhA1	VNG0628G	-	COG0334E	glutamate dehydrogenase
+479857..480999	-	380	15789828	aspB2	VNG0629G	-	COG0436E	aspartate aminotransferase
+480996..481397	-	133	15789829	ribH	VNG0630G	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+481425..483239	+	604	15789830	-	VNG0631C	-	COG4745O	hypothetical protein
+483366..484460	+	364	15789831	purK	VNG0632G	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATP binding subunit
+484457..485068	+	203	15789832	purE	VNG0633G	-	COG0041F	hypothetical protein
+485194..485604	+	136	15789833	nolB	VNG0635G	-	COG0838C	NADH dehydrogenase/oxidoreductase-like protein
+485597..486304	+	235	15789834	ndhG1	VNG0636G	-	COG0377C	NADH dehydrogenase/oxidoreductase
+486301..487989	+	562	15789835	ndhG5	VNG0637G	-	COG0649C	NADH dehydrogenase/oxidoreductase
+488101..489045	+	314	15789836	ndhG4	VNG0639G	-	COG1005C	NADH dehydrogenase/oxidoreductase
+489042..489503	+	153	15789837	nolD	VNG0640G	-	COG1143C	NADH dehydrogenase/oxidoreductase-like protein
+489561..489821	+	86	15789838	-	VNG0641C	-	COG0839C	NADH dehydrogenase subunit J
+489893..490126	+	77	15789839	-	VNG0642C	-	COG0839C	hypothetical protein
+490126..490428	+	100	15789840	nolC	VNG0643G	-	COG0713C	NADH dehydrogenase/oxidoreductase-like protein
+490430..492508	+	692	15789841	nuoL	VNG0646G	-	COG1009CP	F420H2:quinone oxidoreductase subunit L
+492509..494068	+	519	15789842	nuoM	VNG0647G	-	COG1008C	F420H2:quinone oxidoreductase subunit M
+494341..495552	+	403	15789843	ndhG3	VNG0648G	-	COG1007C	NADH dehydrogenase/oxidoreductase
+495620..497053	+	477	15789844	-	VNG0650C	-	COG0618R	hypothetical protein
+497085..497903	+	272	15789845	imd1	VNG0651G	-	COG2239P	inosine-5'-monophosphate dehydrogenase
+498002..498151	+	49	15789846	-	VNG0652H	-	-	hypothetical protein
+498404..499984	+	526	15789847	mcmA1	VNG0653G	-	COG1884I	methylmalonyl-CoA mutase subunit alpha
+499989..500732	-	247	15789848	-	VNG0654C	-	COG0456R	hypothetical protein
+500787..501026	-	79	15789849	-	VNG0656H	-	-	hypothetical protein
+501272..503053	-	593	15789850	coxA2	VNG0657G	-	COG0843C	cytochrome c oxidase subunit I
+503179..503406	-	75	15789851	-	VNG0659H	-	-	hypothetical protein
+503448..503834	-	128	15789852	-	VNG0660H	-	-	hypothetical protein
+503953..504810	+	285	15789853	coxC	VNG0662G	-	COG1845C	cytochrome c oxidase subunit III
+504860..505708	+	282	15789854	birL	VNG0664G	-	COG0340H	biotin acetyl-CoA carboxylase ligase
+505709..506476	-	255	15789855	coxB1	VNG0665G	-	COG1622C	cytochrome c oxidase subunit II
+506634..507962	+	442	15789856	ctaB	VNG0666G	-	COG0109O	heme synthase
+507963..508619	+	218	15789857	trp4	VNG0667G	-	-	ABC transporter ATP-binding protein
+508660..509556	+	298	15789858	-	VNG0668C	-	COG1131V	hypothetical protein
+509553..510302	+	249	15789859	-	VNG0669H	-	COG0842V	hypothetical protein
+510308..510787	-	159	15789860	-	VNG0670H	-	-	hypothetical protein
+510805..511413	-	202	15789861	-	VNG0671H	-	COG2322S	hypothetical protein
+511535..511951	+	138	15789862	mcmA2	VNG0673G	-	COG2185I	methylmalonyl-CoA mutase
+511953..512927	+	324	15789863	-	VNG0674C	-	COG1703E	hypothetical protein
+512985..513917	+	310	15789864	-	VNG0675C	-	COG0596R	hypothetical protein
+513894..514277	-	127	15789865	-	VNG0676C	-	COG1545R	hypothetical protein
+514274..515461	-	395	15789866	acaB1	VNG0678G	-	COG0183I	3-ketoacyl-CoA thiolase
+515503..515790	-	95	15789867	-	VNG0677H	-	-	hypothetical protein
+515836..517029	-	397	15789868	acd4	VNG0679G	-	COG1960I	acyl-CoA dehydrogenase
+516984..518156	+	390	15789869	fdfT	VNG0680G	-	COG1562I	farnesyl-diphosphate farnesyltransferase
+518183..519043	-	286	15789870	hbd1	VNG0681G	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+518991..519815	+	274	15789871	-	VNG0682C	-	-	hypothetical protein
+519914..520705	+	263	15789872	-	VNG0683C	-	COG1830G	hypothetical protein
+520705..521568	+	287	15789873	fbp	VNG0684G	-	COG0158G	fructose-1,6-bisphosphatase
+521594..522283	+	229	15789874	-	VNG0686C	-	COG2135S	hypothetical protein
+522644..523456	+	270	15789875	-	VNG0688H	-	-	hypothetical protein
+523515..524378	+	287	15789876	trp5	VNG0689G	-	COG1131V	ABC transporter ATP-binding protein
+524375..526114	+	579	15789877	-	VNG0690C	-	COG1668CP	hypothetical protein
+526686..527156	+	156	15789878	-	VNG0692C	-	COG1668CP	hypothetical protein
+527209..527625	+	138	15789879	nthB	VNG0694G	-	COG1833S	hypothetical protein
+527663..527779	-	38	15789880	-	VNG0697H	-	-	hypothetical protein
+527835..528500	-	221	15789881	-	VNG0698H	-	COG0467T	hypothetical protein
+528770..531343	+	857	15789882	yvgX	VNG0700G	-	COG2217P	molybdenum-binding protein
+531405..531611	+	68	15789883	-	VNG0702H	-	COG2608P	hypothetical protein
+531750..532034	+	94	15789884	-	VNG0703H	-	COG2390K	hypothetical protein
+532038..532409	-	123	15789885	-	VNG0704C	-	COG1733K	hypothetical protein
+532495..534006	-	503	15789886	-	VNG0705C	-	COG3046R	hypothetical protein
+534180..534779	+	199	15789887	-	VNG0707C	-	COG1573L	hypothetical protein
+534840..535388	+	182	15789888	-	VNG0708H	-	-	hypothetical protein
+535522..536508	+	328	15789889	-	VNG0709C	-	COG0491R	hypothetical protein
+536584..537165	+	193	15789890	-	VNG0711C	-	COG1225O	hypothetical protein
+537212..537907	+	231	15789891	-	VNG0713C	-	COG4122R	hypothetical protein
+537985..539415	+	476	15789892	thiC	VNG0715G	-	COG0422H	thiamine biosynthesis protein ThiC
+539412..541040	-	542	15789893	afsQ2	VNG0716G	-	COG0642T	sensory histidine protein kinase-like protein
+541134..541460	+	108	15789894	-	VNG0717H	-	-	hypothetical protein
+541473..542150	-	225	15789895	-	VNG0718C	-	COG0561R	hypothetical protein
+542178..543044	+	288	15789896	araL	VNG0719G	-	COG0647G	L-arabinose operon protein
+543049..544518	-	489	15789897	dip2	VNG0720G	-	COG0534V	DNA damage-inducible protein
+544564..545673	-	369	15789898	pepQ1	VNG0723G	-	COG0006E	peptidase
+545760..546020	+	86	15789899	-	VNG0724H	-	-	hypothetical protein
+546070..546978	+	302	15789900	-	VNG0725H	-	COG0640K	hypothetical protein
+546988..547578	-	196	15789901	-	VNG0726C	-	COG1309K	hypothetical protein
+547992..549476	+	494	15789902	-	VNG0727C	-	COG0534V	hypothetical protein
+549641..550258	+	205	15789903	-	VNG0729H	-	-	hypothetical protein
+550255..551166	-	303	15789904	-	VNG0730C	-	COG1893H	hypothetical protein
+551252..551722	+	156	15789905	-	VNG0731H	-	-	hypothetical protein
+551723..552859	-	378	15789906	tpc	VNG0732G	-	COG0430A	RNA 3'-terminal-phosphate cyclase
+552804..553373	+	189	15789907	-	VNG0733H	-	COG3358S	hypothetical protein
+553409..554386	-	325	15789908	tfbB	VNG0734G	-	COG1405K	transcription initiation factor IIB
+554704..555291	+	195	15789909	hlx2	VNG0735G	-	COG2204T	Hlx2
+555295..557208	+	637	15789910	kinA2	VNG0736G	-	COG0642T	signal-transducing histidine kinase-like protein
+557214..557657	-	147	15789911	-	VNG0738H	-	-	hypothetical protein
+557749..557973	+	74	15789912	-	VNG0737H	-	-	hypothetical protein
+557985..558617	-	210	15789913	-	VNG0740C	-	COG1878R	hypothetical protein
+558704..559006	+	100	15789914	-	VNG0741H	-	-	hypothetical protein
+559020..559724	-	234	15789915	-	VNG0742H	-	COG4250T	hypothetical protein
+559752..560261	+	169	15789916	-	VNG0743H	-	COG0589T	hypothetical protein
+560272..562254	-	660	15789917	spoVR	VNG0745G	-	COG2719S	hypothetical protein
+562241..563569	-	442	15789918	-	VNG0746C	-	COG2718S	hypothetical protein
+563560..565773	-	737	15789919	prkA	VNG0748G	-	COG2766T	hypothetical protein
+565827..567884	-	685	15789920	prk	VNG0749G	-	COG2766T	serine protein kinase
+568228..568947	+	239	15789921	-	VNG0750C	-	COG1956T	hypothetical protein
+569022..569336	+	104	15789922	-	VNG0751C	-	COG1695K	hypothetical protein
+569376..570320	-	314	15789923	galE1	VNG0752G	-	COG0451MG	UDP-glucose 4-epimerase
+570402..571580	-	392	15789924	ylnA	VNG0753G	-	COG0306P	anion permease
+571614..572417	-	267	15789925	-	VNG0754C	-	COG5271R	hypothetical protein
+572416..573042	+	208	15789926	-	VNG0755C	-	COG1303S	tRNA 2'-O-methylase
+573224..573769	+	181	15789927	tfeA	VNG0757G	-	COG1675K	transcription initiation factor IIE alpha subunit
+573769..574440	+	223	15789928	-	VNG0758C	-	COG4044S	hypothetical protein
+574437..575162	+	241	15789929	-	VNG0759H	-	-	hypothetical protein
+575197..575892	+	231	15789930	dip3	VNG0761G	-	COG1058R	competence-damage protein CinA-like
+575902..576015	-	37	15789931	-	VNG0762H	-	-	hypothetical protein
+576121..576747	+	208	15789932	ybjG	VNG0763G	-	COG0671I	hypothetical protein
+576838..577914	+	358	15789933	-	VNG0764C	-	COG3199S	hypothetical protein
+577924..578100	-	58	15789934	-	VNG0765H	-	-	hypothetical protein
+578203..579231	+	342	15789935	prp2	VNG0766G	-	COG0704P	phosphate regulatory protein-like protein
+579298..579477	+	59	15789936	-	VNG0767H	-	-	hypothetical protein
+579518..579742	+	74	15789937	-	VNG0768H	-	-	hypothetical protein
+579788..580198	+	136	15789938	-	VNG0769H	-	COG3427S	hypothetical protein
+580451..581962	-	503	15789939	aldY2	VNG0771G	-	COG1012C	AldY2
+582038..583024	-	328	16554472	-	VNG0772a	-	COG3642T	hypothetical protein
+583046..584185	+	379	15789941	acd2	VNG0775G	-	COG1960I	acyl-CoA dehydrogenase
+584205..584645	-	146	15789942	taqD	VNG0777G	-	COG0615MI	glycerol-3-phosphate cytidyltransferase
+584642..585127	-	161	15789943	-	VNG0778C	-	COG1310R	hypothetical protein
+585235..587049	+	604	15789944	-	VNG0779C	-	COG1107L	hypothetical protein
+586952..587128	+	58	15789945	-	VNG0780H	-	COG1107L	hypothetical protein
+588702..590003	-	433	15789946	-	VNG0782H	-	COG1413C	hypothetical protein
+590056..590733	-	225	15789947	pssA	VNG0784G	-	COG1183I	CDP-diacylglycerol-serine O-phosphatidyltransferase
+590830..591279	+	149	15789948	pcy	VNG0786G	-	COG3794C	plastocyanin-like protein
+591340..591960	-	206	15789949	rps3e	VNG0787G	-	COG1890J	30S ribosomal protein S3
+591957..592118	-	53	15789950	-	VNG0788H	-	-	hypothetical protein
+592199..593302	-	367	15789951	-	VNG0789C	-	-	hypothetical protein
+593307..593774	-	155	15789952	rps15p	VNG0790G	-	COG0184J	30S ribosomal protein S15
+594361..596730	-	789	15789953	htr6	VNG0793G	-	COG0840NT	Htr6
+596727..597695	-	322	15789954	yufN	VNG0794G	-	COG1744R	ABC transporter lipoprotein
+598271..598744	+	157	15789955	hcpC	VNG0795G	-	COG3794C	halocyanin-like protein
+598879..600096	+	405	15789956	cgs	VNG0796G	-	COG0626E	cystathionine gamma-synthase
+600156..601424	+	422	15789957	-	VNG0798H	-	COG2837P	hypothetical protein
+601488..602189	+	233	15789958	-	VNG0799C	-	COG1136V	hypothetical protein
+602186..602782	+	198	15789959	-	VNG0800H	-	COG4591M	hypothetical protein
+603037..603327	-	96	15789960	-	VNG0801C	-	COG1826U	hypothetical protein
+603453..604346	+	297	15789961	-	VNG0804C	-	COG3294S	hypothetical protein
+604372..606708	-	778	15789962	htr4	VNG0806G	-	COG0840NT	Htr4
+606864..608225	-	453	15789963	gabD	VNG0808G	-	COG1012C	succinate-semialdehyde dehydrogenase
+608215..608895	+	226	15789964	-	VNG0810H	-	-	hypothetical protein
+608896..609288	-	130	15789965	-	VNG0811H	-	-	hypothetical protein
+609588..611960	+	790	15789966	htr18	VNG0812G	-	COG0840NT	Htr18
+611957..613207	+	416	15789967	potD	VNG0813G	-	COG0687E	spermidine/putrescine-binding protein
+613227..613859	-	210	15789968	-	VNG0814C	-	COG0451MG	hypothetical protein
+613864..615006	+	380	15789969	yfmJ	VNG0815G	-	COG2130R	quinone oxidoreductase
+615200..616840	+	546	15789970	chi	VNG0816G	-	COG3325G	chitinase
+616933..618651	+	572	15789971	-	VNG0818C	-	COG3325G	hypothetical protein
+618648..620333	+	561	15789972	-	VNG0819C	-	COG3979R	hypothetical protein
+620587..621240	-	217	15789973	-	VNG0821C	-	COG2226H	hypothetical protein
+621237..622844	-	535	15789974	-	VNG0822C	-	COG2064NU	hypothetical protein
+623369..625054	-	561	15789975	gspE2	VNG0823G	-	COG0630NU	type II secretion system protein
+625085..625786	-	233	15789976	gdb	VNG0824G	-	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein A
+625866..626312	-	148	15789977	-	VNG0825C	-	COG1763H	hypothetical protein
+626458..627132	+	224	15789978	-	VNG0826C	-	COG3413R	hypothetical protein
+627213..627452	+	79	15789979	-	VNG0828H	-	-	hypothetical protein
+627445..629958	+	837	15789980	dmsA	VNG0829G	-	COG0243C	dimethylsulfoxide reductase
+629955..630743	+	262	15789981	hmoA	VNG0830G	-	COG0437C	HmoA
+630743..632050	+	435	15789982	moz	VNG0831G	-	COG5557C	molybdopterin oxidoreductase
+632047..632625	+	192	15789983	-	VNG0832C	-	COG3381R	hypothetical protein
+632698..633588	+	296	15789984	-	VNG0834C	-	COG1422S	hypothetical protein
+633600..633962	-	120	15789985	idr2	VNG0835G	-	COG1321K	iron-dependent repressor-like protein
+635667..636047	+	126	15789986	-	VNG0836H	-	-	hypothetical protein
+636909..637199	+	96	15789987	-	VNG0837H	-	-	hypothetical protein
+637192..638265	+	357	15789988	ssrA	VNG0838G	-	COG4974L	integrase/recombinase
+638529..638633	-	34	15789989	-	VNG0840H	-	-	hypothetical protein
+638908..639570	-	220	15789990	icfA	VNG0841G	-	COG0288P	IcfA
+639672..640481	-	269	15789991	-	VNG0845C	-	COG2226H	hypothetical protein
+640617..642092	+	491	15789992	-	VNG0846C	-	-	hypothetical protein
+642117..643022	-	301	15789993	-	VNG0847H	-	-	hypothetical protein
+643071..644420	-	449	15789994	-	VNG0849C	-	COG1196D	hypothetical protein
+644507..645466	-	319	15789995	-	VNG0851C	-	COG2220R	hypothetical protein
+645426..646076	+	216	15789996	-	VNG0852C	-	COG3413R	hypothetical protein
+646085..646483	-	132	15789997	-	VNG0853C	-	COG3679S	hypothetical protein
+646591..647625	+	344	15789998	-	VNG0854C	-	COG0411E	hypothetical protein
+647674..648294	+	206	16554473	-	VNG0857Cm	-	COG2263J	RNA methylase
+648285..650081	-	598	15790000	-	VNG0858C	-	COG0705R	hypothetical protein
+650181..650465	+	94	15790001	rpoL	VNG0860G	-	COG1761K	DNA-directed RNA polymerase subunit L
+650472..651293	-	273	15790002	hisF	VNG0862G	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+651537..651836	+	99	15790003	-	VNG0861H	-	-	hypothetical protein
+651889..652026	+	45	15790004	-	VNG0863H	-	-	hypothetical protein
+652034..654136	-	700	15790005	purL	VNG0864G	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+654315..654935	+	206	15790006	-	VNG0865C	-	COG0613R	hypothetical protein
+654935..656017	+	360	15790007	asnA	VNG0867G	-	COG0367E	asparagine synthetase
+656033..656506	-	157	15790008	-	VNG0868H	-	COG1051F	hypothetical protein
+656539..657525	-	328	15790009	tfbD	VNG0869G	-	COG1405K	transcription initiation factor IIB
+657575..657961	+	128	15790010	gatC	VNG0870G	-	COG0721J	hypothetical protein
+657961..659232	+	423	15790011	gatA	VNG0872G	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+659240..659707	-	155	15790012	ykhA	VNG0873G	-	COG1607I	acyl-CoA hydrolase
+659810..661324	+	504	15790013	traB	VNG0874G	-	COG1916S	hypothetical protein
+661336..661929	+	197	16554474	-	VNG0875Cm	-	COG1994R	Zn-dependent protease
+661987..662982	+	331	15790015	purM	VNG0876G	-	COG0150F	phosphoribosylaminoimidazole synthetase
+663068..663607	-	179	16554475	-	VNG0878Gm	-	COG3620K	transcription regulator
+663648..664013	-	121	15790017	-	VNG0879C	-	COG1885S	hypothetical protein
+664212..664979	+	255	15790018	psmA	VNG0880G	-	COG0638O	proteasome subunit alpha
+665121..666806	+	561	15790019	lig	VNG0881G	-	COG1793L	DNA ligase
+666861..667634	+	257	16554476	PHO2	VNG0882Gm	-	COG0647G	p-nitrophenyl phosphatase
+667700..668494	+	264	15790021	-	VNG0883H	-	COG2220R	hypothetical protein
+668445..669545	-	366	15790022	top6A	VNG0884G	-	COG1697L	DNA topoisomerase VI subunit A
+669542..671956	-	804	15790023	top6B	VNG0885G	-	COG1389L	DNA topoisomerase VI subunit B
+672176..674011	+	611	15790024	gyrB	VNG0887G	-	COG0187L	DNA gyrase subunit B
+674013..676487	+	824	15790025	gyrA	VNG0889G	-	COG0188L	DNA gyrase subunit A
+676676..677209	+	177	15790026	imd2	VNG0890G	-	COG2524K	inosine-5'-monophosphate dehydrogenase
+677255..678424	+	389	15790027	yjlD	VNG0891G	-	COG1252C	NADH dehydrogenase
+678467..678622	+	51	15790028	-	VNG0892H	-	-	hypothetical protein
+678619..679143	+	174	16554477	-	VNG0892a	-	COG2320S	hypothetical protein
+679140..679961	-	273	15790029	udp2	VNG0893G	-	COG2820F	uridine phosphorylase
+680015..680419	-	134	15790030	cda	VNG0896G	-	COG0295F	cytidine deaminase
+680470..681555	-	361	15790031	rbsC1	VNG0897G	-	COG1079R	ribose ABC transporter permease
+681548..682771	-	407	15790032	rbsC2	VNG0898G	-	COG4603R	ribose ABC transporter permease
+682768..684288	-	506	15790033	rbsA	VNG0901G	-	COG3845R	ribose ABC transporter ATP-binding
+684313..685362	-	349	15790034	-	VNG0903C	-	COG1744R	hypothetical protein
+685465..686847	-	460	15790035	pmu2	VNG0905G	-	COG1109G	phosphomannomutase
+686893..687372	-	159	15790036	-	VNG0906H	-	-	hypothetical protein
+687546..687692	+	48	15790037	-	VNG0907H	-	-	hypothetical protein
+687787..689355	+	522	15790038	putP	VNG0908G	-	COG0591ER	hypothetical protein
+689345..689866	+	173	15790039	-	VNG0909H	-	-	hypothetical protein
+689936..690208	+	90	15790040	-	VNG0911H	-	-	hypothetical protein
+690192..691643	+	483	15790041	-	VNG0913H	-	-	hypothetical protein
+691613..692713	-	366	15790042	-	VNG0914H	-	-	hypothetical protein
+692869..694062	+	397	15790043	hakA	VNG0915G	-	COG3844E	atrazine chlorohydrolase
+694068..696365	-	765	15790044	ark	VNG0916G	-	COG0642T	adaptive-response sensory-kinase
+696355..696996	-	213	15790045	hrg	VNG0917G	-	COG2204T	Hrg
+697055..697939	-	294	15790046	-	VNG0918H	-	COG3676L	hypothetical protein
+698097..698786	+	229	15790047	gst	VNG0919G	-	COG0463M	hypothetical protein
+698755..700821	-	688	15790048	-	VNG0920H	-	COG1807M	hypothetical protein
+700821..701954	-	377	15790049	potA1	VNG0921G	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+701947..703560	-	537	15790050	sfuB	VNG0923G	-	COG1178P	iron transporter-like protein
+703563..704714	-	383	15790051	ibp	VNG0924G	-	COG1840P	Ibp
+704811..705812	-	333	15790052	-	VNG0925C	-	-	hypothetical protein
+705811..705990	+	59	15790053	-	VNG0926H	-	-	hypothetical protein
+706028..706747	-	239	15790054	-	VNG0927C	-	-	hypothetical protein
+706744..708309	-	521	15790055	mak	VNG0928G	-	COG0515RTKL	MAPK-activated protein kinase
+708396..709412	+	338	15790056	yvbT	VNG0930G	-	COG2141C	alkanal monooxygenase-like protein
+709490..710641	+	383	15790057	acaB2	VNG0931G	-	COG0183I	3-ketoacyl-CoA thiolase
+710638..711030	+	130	15790058	-	VNG0932C	-	COG1545R	hypothetical protein
+711047..712147	-	366	15790059	yqjM	VNG0933G	-	COG1902C	NADH-dependent flavin oxidoreductase
+712274..712447	-	57	15790060	-	VNG0934H	-	-	hypothetical protein
+712502..713143	-	213	15790061	noxC	VNG0935G	-	COG0778C	NADH oxidase
+713283..714095	-	270	15790062	-	VNG0936C	-	COG0388R	hypothetical protein
+714164..715606	+	480	15790063	gap	VNG0937G	-	COG1012C	glyceraldehyde-3-phosphate dehydrogenase
+715619..716419	-	266	15790064	gufA	VNG0938G	-	COG0428P	GufA protein
+716669..718771	+	700	16554478	ACS3	VNG0940Gm	-	COG1042C	Acetyl-CoA synthetase
+718768..719832	+	354	15790066	-	VNG0941C	-	COG0857R	hypothetical protein
+719845..720243	-	132	15790067	cheW2	VNG0942G	-	COG0835NT	hypothetical protein
+720331..720678	+	115	15790068	-	VNG0943C	-	COG2345K	hypothetical protein
+720747..721028	+	93	15790069	-	VNG0945H	-	-	hypothetical protein
+721030..722001	-	323	15790070	minD1	VNG0946G	-	COG0455D	cell division inhibitor
+722046..723791	-	581	15790071	fapJ	VNG0947G	-	COG1955NU	flagellar assembly protein J
+723798..725687	-	629	15790072	gspE3	VNG0949G	-	COG0630NU	type II secretion system protein
+725699..726469	-	256	16554479	flaH	VNG0950Gm	-	COG2874NU	ATPase
+726466..726921	-	151	16554480	-	VNG0950a	-	COG3354N	flagellar protein G
+726922..727359	-	145	15790074	-	VNG0953C	-	COG3353N	hypothetical protein
+727343..728857	-	504	15790075	-	VNG0954C	-	COG3351N	hypothetical protein
+728962..729432	-	156	15790076	fapE	VNG0955G	-	COG3351N	flagella-like protein E
+729429..731339	-	636	15790077	htr15	VNG0958G	-	COG0840NT	Htr15
+731395..731634	-	79	15790078	-	VNG0959H	-	-	hypothetical protein
+731799..732380	+	193	15790079	flaB1	VNG0960G	-	COG1681N	flagellin B1
+732464..732982	+	172	15790080	flaB2	VNG0961G	-	COG1681N	flagellin B2
+733066..733575	+	169	15790081	flaB3	VNG0962G	-	COG1681N	flagellin B3
+733804..734865	+	353	15790082	cpcE	VNG0963G	-	COG1413C	phycocyanin alpha phycocyanobilin lyase-like protein
+735009..735881	+	290	15790083	-	VNG0964C	-	COG2469S	hypothetical protein
+735910..736773	-	287	15790084	-	VNG0965C	-	COG2469S	hypothetical protein
+736840..737544	-	234	15790085	cheR	VNG0966G	-	COG1352NT	hypothetical protein
+737643..738110	-	155	16554481	cheD	VNG0967Gm	-	COG1871NT	chemotaxis protein
+738107..739246	-	379	15790087	-	VNG0969H	-	COG1776NT	hypothetical protein
+739248..739835	-	195	15790088	cheC1	VNG0970G	-	COG1776NT	chemotaxis protein
+739838..741844	-	668	15790089	cheA	VNG0971G	-	COG0643NT	hypothetical protein
+741846..742889	-	347	15790090	cheB	VNG0973G	-	COG2201NT	hypothetical protein
+742886..743248	-	120	15790091	cheY	VNG0974G	-	COG4753T	hypothetical protein
+743295..743831	-	178	15790092	cheW1	VNG0976G	-	COG0835NT	chemotaxis protein
+743896..744489	-	197	15790093	-	VNG0978H	-	-	hypothetical protein
+744606..745511	+	301	15790094	-	VNG0979H	-	-	hypothetical protein
+745648..746763	+	371	15790095	-	VNG0981C	-	COG0436E	hypothetical protein
+746843..747133	+	96	15790096	-	VNG0982C	-	COG1873S	hypothetical protein
+747151..748605	-	484	15790097	-	VNG0983C	-	COG0618R	hypothetical protein
+749392..751398	+	668	15790098	-	VNG0985H	-	COG1378K	hypothetical protein
+752276..752803	+	175	15790099	-	VNG0986H	-	-	hypothetical protein
+753131..753547	+	138	15790100	-	VNG0987H	-	-	hypothetical protein
+754149..754391	+	80	15790101	-	VNG0988H	-	COG3815S	hypothetical protein
+754459..755481	-	340	15790102	-	VNG0989C	-	COG4974L	hypothetical protein
+756010..756183	+	57	15790103	-	VNG0990H	-	-	hypothetical protein
+756675..757016	-	113	15790104	-	VNG0991H	-	-	hypothetical protein
+757409..758119	-	236	15790105	-	VNG0992H	-	-	hypothetical protein
+758465..759277	+	270	15790106	-	VNG0993H	-	-	hypothetical protein
+759667..759870	-	67	15790107	-	VNG0994H	-	COG0864K	hypothetical protein
+760365..760553	+	62	15790108	-	VNG0995H	-	-	hypothetical protein
+760682..762487	+	601	15790109	boa4	VNG0996G	-	COG3413R	bacterio-opsin activator-like protein
+762609..764612	+	667	15790110	acs2	VNG0997G	-	COG0365I	acetyl-CoA synthetase
+764619..765629	-	336	15790111	yajO2	VNG0998G	-	COG0667C	oxidoreductase
+765775..766044	-	89	15790112	-	VNG0999H	-	-	hypothetical protein
+766603..766812	+	69	15790113	-	VNG1000H	-	COG3205S	hypothetical protein
+766955..768538	-	527	15790114	guaB	VNG1001G	-	COG0516F	hypothetical protein
+768965..769882	+	305	15790115	-	VNG1002H	-	-	hypothetical protein
+769965..770189	+	74	15790116	-	VNG1003H	-	-	hypothetical protein
+770194..770406	-	70	15790117	-	VNG1005H	-	-	hypothetical protein
+770827..771546	+	239	15790118	-	VNG1006H	-	-	hypothetical protein
+771722..771925	-	67	15790119	-	VNG1007H	-	COG0864K	hypothetical protein
+773360..773950	+	196	15790120	flaA1a	VNG1008G	-	COG1681N	flagellin A1
+774034..774546	+	170	15790121	flaA2	VNG1009G	-	COG1681N	flagellin A2
+774736..775503	+	255	16554482	-	VNG1011Cm	-	COG2429S	GTP cyclohydrolase III
+775533..775805	+	90	15790123	-	VNG1012H	-	COG0695O	hypothetical protein
+775802..777073	-	423	15790124	htr13	VNG1013G	-	COG0840NT	Htr13
+777110..778453	+	447	15790125	yqjH	VNG1014G	-	COG0389L	trans lesion repair
+778446..778820	-	124	15790126	-	VNG1015H	-	-	hypothetical protein
+778857..779960	-	367	15790127	-	VNG1017H	-	COG0438M	hypothetical protein
+780246..782048	+	600	15790128	adh3	VNG1018G	-	COG0656R	alcohol dehydrogenase
+782045..782896	+	283	15790129	-	VNG1020C	-	COG0558I	hypothetical protein
+782934..783695	+	253	15790130	-	VNG1021C	-	COG2429S	GTP cyclohydrolase III
+783700..784716	+	338	15790131	-	VNG1023C	-	COG1063ER	hypothetical protein
+784713..785120	+	135	15790132	-	VNG1024C	-	COG0720H	hypothetical protein
+785117..785962	+	281	15790133	-	VNG1025H	-	-	hypothetical protein
+785972..786526	+	184	15790134	-	VNG1026H	-	-	hypothetical protein
+786530..787174	-	214	15790135	tpiA	VNG1027G	-	COG0149G	triosephosphate isomerase
+787221..787760	-	179	15790136	-	VNG1029C	-	COG1813K	hypothetical protein
+787803..788402	-	199	15790137	pgsA	VNG1030G	-	COG0558I	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+788399..788908	-	169	15790138	-	VNG1031C	-	COG1936F	hypothetical protein
+788905..790092	-	395	15790139	hisC1	VNG1033G	-	COG0079E	histidinol-phosphate aminotransferase
+790091..790531	+	146	15790140	-	VNG1034H	-	-	hypothetical protein
+790599..792188	-	529	15790141	-	VNG1035C	-	COG2303E	hypothetical protein
+792185..792703	-	172	15790142	-	VNG1036H	-	-	hypothetical protein
+792760..793494	-	244	15790143	hpcE	VNG1037G	-	COG0179Q	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+793607..794329	+	240	15790144	-	VNG1038C	-	COG2220R	hypothetical protein
+794483..795025	+	180	15790145	-	VNG1039H	-	-	hypothetical protein
+795133..795747	-	204	15790146	-	VNG1041H	-	-	hypothetical protein
+795777..796229	+	150	15790147	-	VNG1042H	-	-	hypothetical protein
+796243..796467	-	74	15790148	-	VNG1047H	-	-	hypothetical protein
+796466..796759	+	97	15790149	-	VNG1046H	-	-	hypothetical protein
+796773..798053	-	426	15790150	udg1	VNG1048G	-	COG1004M	UDP-glucose dehydrogenase
+798126..798476	-	116	15790151	-	VNG1050H	-	COG3269R	hypothetical protein
+798683..799369	+	228	15790152	-	VNG1052H	-	-	hypothetical protein
+799383..800300	-	305	15790153	gtl	VNG1053G	-	COG0463M	glycosyl transferase-like protein
+800415..801842	+	475	15790154	ptp	VNG1054G	-	COG2244R	polysaccharide biosynthesis protein
+801935..802657	+	240	15790155	graD4	VNG1055G	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+802721..803701	+	326	15790156	-	VNG1056C	-	-	hypothetical protein
+803726..805084	-	452	15790157	-	VNG1057C	-	COG3119P	hypothetical protein
+805308..806426	+	372	15790158	-	VNG1058H	-	COG1331O	hypothetical protein
+806499..807695	-	398	15790159	-	VNG1059C	-	COG0438M	hypothetical protein
+807925..808710	+	261	15790160	-	VNG1060H	-	-	hypothetical protein
+808831..809730	+	299	15790161	rfbQ	VNG1062G	-	COG1215M	rhamnosyl transferase
+809745..810761	-	338	15790162	-	VNG1063H	-	-	hypothetical protein
+811152..812492	-	446	15790163	-	VNG1064H	-	-	hypothetical protein
+812621..813382	+	253	15790164	-	VNG1065C	-	COG2265J	hypothetical protein
+813372..814280	+	302	15790165	-	VNG1066C	-	COG1215M	hypothetical protein
+814270..815256	-	328	15790166	exoM	VNG1067G	-	COG1215M	succinoglycan biosynthesis protein
+815317..818580	+	1087	15790167	tot	VNG1068G	-	COG1287R	transmembrane oligosaccharyl transferase
+818634..819524	+	296	15790168	-	VNG1069C	-	COG2035S	hypothetical protein
+819545..820756	-	403	16554483	gpdA1	VNG1070Gm	-	COG0578C	glycerol-3-phosphate dehydrogenase chain A
+820841..821197	-	118	15790170	cinR	VNG1071G	-	COG2512S	transcription repressor
+821245..822726	-	493	15790171	lfl1	VNG1073G	-	COG0318IQ	Lfl1
+822719..823564	-	281	15790172	ykfB2	VNG1074G	-	COG4948MR	chloromuconate cycloisomerase
+823711..824646	-	311	15790173	menA	VNG1075G	-	COG1575H	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+824703..826337	-	544	15790174	opuD	VNG1077G	-	COG1292M	glycine betaine transporter
+826509..827423	-	304	15790175	menB	VNG1079G	-	COG0447H	naphthoate synthase
+827496..829250	-	584	15790176	menD	VNG1081G	-	COG1165H	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+829247..830572	-	441	15790177	menF	VNG1083G	-	COG1169HQ	isochorismate synthase
+830618..831214	-	198	15790178	yuiH	VNG1084G	-	COG2041R	sulfite oxidase-like protein
+831377..831595	+	72	15790179	-	VNG1085H	-	-	hypothetical protein
+831651..831929	+	92	15790180	-	VNG1086C	-	COG1745R	hypothetical protein
+832010..833953	+	647	15790181	-	VNG1087C	-	COG1579R	hypothetical protein
+833972..834178	-	68	15790182	-	VNG1088C	-	COG3388S	hypothetical protein
+834481..835803	+	440	15790183	purA	VNG1089G	-	COG0104F	adenylosuccinate synthetase
+835854..836057	+	67	15790184	-	VNG1090H	-	COG2835S	hypothetical protein
+836666..837766	-	366	15790185	-	VNG1092C	-	-	hypothetical protein
+837766..838644	-	292	15790186	-	VNG1093C	-	COG2138S	hypothetical protein
+838735..839919	+	394	15790187	-	VNG1094H	-	COG2834M	hypothetical protein
+839927..840118	-	63	15790188	-	VNG1095H	-	-	hypothetical protein
+840223..840531	-	102	15790189	-	VNG1096H	-	-	hypothetical protein
+840757..842241	+	494	15790190	cysS	VNG1097G	-	COG0215J	hypothetical protein
+842300..843136	+	278	15790191	-	VNG1099C	-	COG3403S	hypothetical protein
+843129..843680	+	183	15790192	-	VNG1100C	-	COG1335Q	hypothetical protein
+843690..844934	-	414	15790193	-	VNG1101C	-	COG1784S	hypothetical protein
+845055..845399	-	114	15790194	rpl12p	VNG1103G	-	COG2058J	50S ribosomal protein L12
+845405..846463	-	352	15790195	rplP0	VNG1104G	-	COG0244J	acidic ribosomal protein P0
+846465..847103	-	212	15790196	rpl1P	VNG1105G	-	COG0081J	50S ribosomal protein L1
+847304..847795	-	163	15790197	rpl11p	VNG1108G	-	COG0080J	50S ribosomal protein L17
+847866..848072	-	68	15790198	-	VNG1110C	-	-	hypothetical protein
+848173..849285	+	370	15790199	drg	VNG1111G	-	COG1163R	GTP-binding protein DRG
+849289..849699	+	136	15790200	-	VNG1112H	-	-	hypothetical protein
+849749..850534	+	261	15790201	glo1	VNG1114G	-	COG0346E	glyoxalase
+850650..851024	+	124	15790202	-	VNG1115H	-	COG1720S	hypothetical protein
+851026..851874	-	282	15790203	lds	VNG1118G	-	COG1798J	diphthine synthase
+851896..852879	+	327	15790204	-	VNG1117C	-	COG2520R	hypothetical protein
+853114..853365	+	83	15790205	-	VNG1119H	-	-	hypothetical protein
+853418..853894	-	158	15790206	-	VNG1120H	-	COG4276S	hypothetical protein
+853986..855161	+	391	15790207	aspC2	VNG1121G	-	COG0436E	aspartate aminotransferase
+855154..855582	-	142	16554484	TRH7	VNG1123Gm	-	COG1522K	transcription regulator
+855719..856657	-	312	15790209	korB	VNG1125G	-	COG1013C	2-ketoglutarate ferredoxin oxidoreductase (beta)
+856660..858582	-	640	15790210	korA	VNG1128G	-	COG0674C	2-ketoglutarate ferredoxin oxidoreductase (alpha)
+858687..858911	-	74	15790211	-	VNG1130H	-	-	hypothetical protein
+858908..859939	-	343	15790212	mrp	VNG1131G	-	COG0489D	hypothetical protein
+860275..860790	+	171	15790213	rps13p	VNG1132G	-	COG0099J	30S ribosomal protein S13
+860790..861302	+	170	15790214	rps4p	VNG1133G	-	COG0522J	30S ribosomal protein S4
+861309..861692	+	127	161349982	rps11p	VNG1134G	-	COG0100J	30S ribosomal protein S11
+861696..862442	+	248	15790216	rpb3	VNG1136G	-	COG0202K	DNA-directed RNA polymerase II
+862694..863047	+	117	15790217	rpl18e	VNG1137G	-	COG1727J	50S ribosomal protein L18
+863044..863481	+	145	15790218	rpl13p	VNG1138G	-	COG0102J	50S ribosomal protein L13
+863475..863873	+	132	16554485	rps9p	VNG1139Gm	-	COG0103J	30S ribosomal protein S9
+863886..864086	+	66	15790220	rpoN	VNG1140G	-	COG1644K	DNA-directed RNA polymerase subunit N
+864089..864271	+	60	15790221	rpoK	VNG1141G	-	COG1758K	DNA-directed RNA polymerase subunit K
+864273..865469	+	398	15790222	eno	VNG1142G	-	COG0148G	phosphopyruvate hydratase
+865466..866215	+	249	15790223	rps2P	VNG1143G	-	COG0052J	30S ribosomal protein S2
+866282..867124	-	280	15790224	-	VNG1144H	-	-	hypothetical protein
+867210..868202	+	330	15790225	mvk	VNG1145G	-	COG1577I	mevalonate kinase
+868199..868936	+	245	15790226	argB	VNG1148G	-	COG1608R	hypothetical protein
+869155..870501	+	448	16554486	-	VNG1149Cm	-	COG0595R	metallo-beta-lactamase superfamily hydrolase
+870501..871544	+	347	15790228	idsA	VNG1150G	-	COG0142H	IdsA
+871623..871844	+	73	15790229	-	VNG1151H	-	-	hypothetical protein
+871960..873720	+	586	15790230	gltX	VNG1153G	-	COG0008J	glutamyl-tRNA synthetase
+873734..874207	-	157	15790231	-	VNG1154H	-	-	hypothetical protein
+874233..876539	-	768	15790232	hsp3	VNG1156G	-	COG1444R	Hsp3
+876667..877029	+	120	15790233	rpl7ae	VNG1157G	-	COG1358J	50S ribosomal protein L7
+877036..877260	+	74	161349981	rps28e	VNG1158G	-	COG2053J	30S ribosomal protein S28
+877260..877448	+	62	15790235	rpl24e	VNG1159G	-	COG2075J	50S ribosomal protein L24
+877445..877930	+	161	15790236	ndk	VNG1160G	-	COG0105F	nucleoside diphosphate kinase
+877978..878925	-	315	15790237	-	VNG1162H	-	COG0620E	hypothetical protein
+878982..879557	-	191	15790238	hemK	VNG1163G	-	COG2890J	hypothetical protein
+879550..880452	-	300	15790239	-	VNG1164C	-	COG0668M	hypothetical protein
+880623..881471	-	282	15790240	ksgA	VNG1165G	-	COG0030J	dimethyladenosine transferase
+881509..882102	-	197	15790241	-	VNG1168C	-	COG1491J	hypothetical protein
+882144..882503	-	119	15790242	-	VNG1169C	-	COG1460S	hypothetical protein
+882503..882802	-	99	15790243	rpl21e	VNG1170G	-	COG2139J	50S ribosomal protein L21
+883195..884376	+	393	15790244	metB	VNG1172G	-	COG0626E	cystathionine alpha synthase
+884446..884745	-	99	15790245	ef1B	VNG1173G	-	COG2092J	elongation factor 1-beta
+884715..884888	-	57	16554487	-	VNG1173a	-	COG2888J	Zn-ribbon RNA-binding protein with a function in translation
+884967..886922	-	651	15790246	phoR	VNG1175G	-	COG0642T	PhoR protein-like protein
+886911..887744	+	277	15790247	nop56/58	VNG1174G	-	COG1498J	nucleolar protein-like protein
+887741..888373	+	210	15790248	fib	VNG1176G	-	COG1889J	fibrillarin
+888387..888617	-	76	15790249	-	VNG1178H	-	-	hypothetical protein
+888617..889327	-	236	15790250	-	VNG1179C	-	COG1522K	hypothetical protein
+889326..889859	+	177	15790251	msrA	VNG1180G	-	COG0225O	methionine sulfoxide reductase A
+889903..890526	+	207	15790252	flaA1b	VNG1181G	-	COG1681N	flagellin A1
+890603..891091	+	162	15790253	-	VNG1182H	-	COG3467R	hypothetical protein
+891125..892330	-	401	16554488	nirJ	VNG1184Gm	-	COG0535R	Fe-S oxidoreductase
+892327..892578	-	83	15790255	-	VNG1183H	-	COG3460Q	hypothetical protein
+892721..893791	+	356	15790256	pqqE	VNG1185G	-	COG0535R	coenzyme PQQ synthesis protein
+893923..895062	+	379	15790257	pan1	VNG1187G	-	COG2132Q	hypothetical protein
+895069..895686	+	205	15790258	hcpD	VNG1188G	-	COG3794C	halocyanin-like protein
+895707..896105	-	132	15790259	-	VNG1189H	-	-	hypothetical protein
+896255..896857	-	200	15790260	sod1	VNG1190G	-	COG0605P	superoxide dismutase
+896996..898141	+	381	16554489	ACD3	VNG1191Gm	-	COG1960I	acyl-CoA dehydrogenase
+898154..899398	-	414	15790262	-	VNG1193C	-	COG0642T	hypothetical protein
+899522..899731	-	69	15790263	-	VNG1194H	-	-	hypothetical protein
+899768..899878	-	36	15790264	-	VNG1196H	-	-	hypothetical protein
+900160..900624	-	154	15790265	bcp	VNG1197G	-	COG1225O	hypothetical protein
+900703..902079	-	458	15790266	-	VNG1198C	-	COG0644C	hypothetical protein
+902216..902422	+	68	15790267	-	VNG1200H	-	-	hypothetical protein
+902438..903073	-	211	15790268	fucA	VNG1201G	-	COG0235G	fuculose-1-phosphate aldolase
+903076..903774	-	232	15790269	-	VNG1202C	-	COG1011R	hypothetical protein
+903818..905068	-	416	15790270	gdhA2	VNG1204G	-	COG0334E	hypothetical protein
+905173..906468	-	431	15790271	-	VNG1205C	-	COG0402FR	N-ethylammeline chlorohydrolase
+907027..907659	-	210	15790272	-	VNG1207C	-	COG3413R	hypothetical protein
+907743..909509	+	588	15790273	hutU	VNG1208G	-	COG2987E	urocanate hydratase
+909509..910429	+	306	15790274	hutG	VNG1209G	-	COG0010E	formiminoglutamate hydrolase
+910426..911679	+	417	15790275	hutI	VNG1211G	-	COG1228Q	imidazolonepropionase
+911697..913253	+	518	16554490	hutH	VNG1212Gm	-	COG2986E	histidine ammonia-lyase
+913341..914321	+	326	15790277	-	VNG1213C	-	COG3359L	hypothetical protein
+914979..916109	+	376	15790278	-	VNG1214H	-	-	hypothetical protein
+916393..916875	-	160	15790279	pai1	VNG1215G	-	COG0456R	sporulation regulator-like protein
+916872..918068	-	398	15790280	pgk	VNG1216G	-	COG0126G	phosphoglycerate kinase
+918171..918887	-	238	15790281	-	VNG1218C	-	COG0517R	hypothetical protein
+918850..919596	+	248	15790282	urk	VNG1219G	-	COG0572F	uridine kinase
+919654..919977	-	107	15790283	-	VNG1220H	-	-	hypothetical protein
+920669..921862	+	397	15790284	orc8	VNG1224G	-	COG1474LO	orc / cell division control protein 6
+922015..922776	-	253	15790285	-	VNG1227H	-	-	hypothetical protein
+922865..923065	+	66	15790286	-	VNG1226H	-	-	hypothetical protein
+923079..923711	-	210	15790287	-	VNG1228C	-	COG1573L	hypothetical protein
+923886..924092	+	68	15790288	-	VNG1229H	-	-	hypothetical protein
+924127..925311	-	394	15790289	aroC	VNG1230G	-	COG0082E	chorismate synthase
+925560..926879	-	439	15790290	psc	VNG1232G	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+926974..928149	+	391	15790291	pepQ2	VNG1233G	-	COG0006E	X-pro aminopeptidase-like protein
+928165..929535	-	456	15790292	-	VNG1234C	-	COG0642T	hypothetical protein
+929643..930380	+	245	15790293	-	VNG1235C	-	COG0287E	hypothetical protein
+930370..931761	+	463	15790294	-	VNG1236C	-	-	hypothetical protein
+931821..932303	+	160	15790295	-	VNG1237C	-	COG1522K	hypothetical protein
+932347..932466	-	39	15790296	-	VNG1239H	-	-	hypothetical protein
+932654..932875	+	73	15790297	-	VNG1238C	-	COG0569P	hypothetical protein
+932862..935048	+	728	15790298	yhdG	VNG1240G	-	COG0531E	amino acid transporter
+935124..935900	+	258	15790299	surE	VNG1241G	-	COG0496R	hypothetical protein
+936143..936409	-	88	15790300	-	VNG1244C	-	COG1605E	hypothetical protein
+936406..937260	-	284	15790301	-	VNG1245C	-	COG1685EH	shikimate kinase
+937348..937776	+	142	15790302	-	VNG1246H	-	-	hypothetical protein
+937934..938593	-	219	15790303	ybhF	VNG1247G	-	COG1131V	ABC-type transport protein
+938596..939666	-	356	15790304	-	VNG1249C	-	-	hypothetical protein
+939667..940758	-	363	15790305	-	VNG1250H	-	-	hypothetical protein
+940842..943682	-	946	15790306	helA	VNG1251G	-	COG1201R	ATP-dependent helicase
+943743..944486	-	247	15790307	yhcR	VNG1252G	-	COG1407R	phosphoesterase
+944486..945883	-	465	15790308	-	VNG1253C	-	COG3390S	hypothetical protein
+945880..947262	-	460	15790309	-	VNG1255C	-	COG1599L	replication factor A
+947257..947919	+	220	15790310	ribG	VNG1256G	-	COG1985H	5-amino-6-(5-phosphoribosylamino)uracil reductase
+947927..948211	-	94	15790311	-	VNG1257H	-	-	hypothetical protein
+948260..949348	-	362	15790312	trxB2	VNG1259G	-	COG0492O	hypothetical protein
+949462..949746	+	94	15790313	-	VNG1260C	-	COG1849S	hypothetical protein
+949891..950073	+	60	15790314	-	VNG1261H	-	-	hypothetical protein
+950078..950476	-	132	15790315	eif2b	VNG1262G	-	COG1601J	translation initiation factor IF-2 subunit beta
+950618..950860	+	80	15790316	-	VNG1263C	-	COG1745R	hypothetical protein
+950936..951319	-	127	15790317	-	VNG1264C	-	COG1885S	hypothetical protein
+951404..952309	+	301	15790318	ogg	VNG1266G	-	COG0122L	8-oxoguanine DNA glycosylase
+952374..953267	+	297	15790319	-	VNG1268H	-	-	hypothetical protein
+953515..954315	-	266	15790320	-	VNG1270H	-	-	hypothetical protein
+954746..955255	+	169	15790321	-	VNG1271H	-	-	hypothetical protein
+955464..956882	+	472	15790322	-	VNG1272C	-	COG0063G	hypothetical protein
+956875..957366	+	163	15790323	moaC	VNG1273G	-	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+957376..958683	-	435	16554491	hflX2	VNG1275Gm	-	COG2262R	GTPase
+958732..959457	-	241	15790325	-	VNG1276C	-	COG1500J	RNA-associated protein
+959518..960012	-	164	15790326	-	VNG1279H	-	COG1369J	hypothetical protein
+960009..960611	-	200	15790327	-	VNG1280C	-	COG2226H	hypothetical protein
+960595..960975	-	126	15790328	-	VNG1281H	-	COG1603J	hypothetical protein
+961406..962074	-	222	15790329	trkA5	VNG1282G	-	COG0569P	TRK potassium uptake system protein
+962119..962319	-	66	15790330	-	VNG1283H	-	-	hypothetical protein
+962319..963932	-	537	15790331	trkH1	VNG1284G	-	COG0168P	TRK potassium uptake system protein
+964009..964770	-	253	15790332	trh2	VNG1285G	-	COG1522K	transcription regulator
+964835..965257	-	140	15790333	-	VNG1287C	-	COG1325J	hypothetical protein
+965294..965509	-	71	15790334	-	VNG1289H	-	-	hypothetical protein
+965562..966389	-	275	15790335	-	VNG1291H	-	-	hypothetical protein
+966430..966543	-	37	15790336	-	VNG1292H	-	-	hypothetical protein
+966623..967534	-	303	15790337	slyD	VNG1294G	-	COG1047O	peptidyl-prolyl cis-trans isomerase
+967595..967786	-	63	15790338	-	VNG1295H	-	-	hypothetical protein
+967899..968510	+	203	15790339	-	VNG1296C	-	COG1437F	hypothetical protein
+968577..969803	+	408	15790340	-	VNG1297C	-	COG1812E	S-adenosylmethionine synthetase
+969880..971058	+	392	15790341	-	VNG1299C	-	COG0301H	hypothetical protein
+971265..971507	+	80	15790342	-	VNG1300H	-	-	hypothetical protein
+971521..972504	-	327	15790343	cysK	VNG1301G	-	COG0031E	hypothetical protein
+972633..972983	+	116	15790344	-	VNG1302H	-	COG0526OC	hypothetical protein
+972973..975201	-	742	15790345	-	VNG1303C	-	COG1331O	hypothetical protein
+975273..976565	+	430	15790346	purD	VNG1305G	-	COG0151F	hypothetical protein
+976559..978406	-	615	15790347	sdhA	VNG1306G	-	COG1053C	hypothetical protein
+978413..979291	-	292	15790348	sdhB	VNG1308G	-	COG0479C	hypothetical protein
+979298..979660	-	120	15790349	sdhD	VNG1309G	-	COG2142C	hypothetical protein
+979662..980084	-	140	15790350	sdhC	VNG1310G	-	COG2009C	hypothetical protein
+980201..980776	-	191	15790351	alkA	VNG1311G	-	COG0122L	3-methyladenine DNA glycosylase
+980918..982897	+	659	15790352	hbd2	VNG1313G	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+983197..983418	+	73	15790353	-	VNG1314H	-	-	hypothetical protein
+983324..983818	+	164	15790354	-	VNG1315H	-	-	hypothetical protein
+983914..984111	-	65	15790355	-	VNG1317H	-	-	hypothetical protein
+984228..984569	+	113	15790356	-	VNG1318H	-	-	hypothetical protein
+984584..986269	-	561	15790357	-	VNG1319H	-	-	hypothetical protein
+986348..987505	+	385	15790358	cbp	VNG1320G	-	-	calcium-binding protein
+987502..989949	+	815	15790359	-	VNG1323C	-	-	hypothetical protein
+989961..990395	-	144	15790360	-	VNG1324C	-	COG2246S	hypothetical protein
+990944..991744	-	266	15790361	-	VNG1325C	-	COG1351F	hypothetical protein
+991743..992111	+	122	15790362	-	VNG1326H	-	COG2140GR	hypothetical protein
+992165..992743	+	192	15790363	fprA	VNG1327G	-	COG0491R	flavoprotein
+992751..993020	-	89	15790364	-	VNG1329H	-	-	hypothetical protein
+993093..993569	+	158	15790365	-	VNG1330H	-	-	hypothetical protein
+993598..994200	-	200	15790366	sod2	VNG1332G	-	COG0605P	superoxide dismutase
+994265..995734	-	489	15790367	phr2	VNG1335G	-	COG0415L	photolyase/cryptochrome
+995751..996206	-	151	15790368	-	VNG1336C	-	COG2050Q	hypothetical protein
+996308..997666	+	452	15790369	-	VNG1337C	-	COG3119P	hypothetical protein
+997742..999307	+	521	15790370	-	VNG1339C	-	COG0318IQ	hypothetical protein
+999323..1000228	-	301	15790371	-	VNG1340C	-	COG0491R	hypothetical protein
+1000227..1000994	+	255	15790372	fabG	VNG1341G	-	COG1028IQR	3-oxoacyl-ACP reductase
+1000991..1002007	+	338	16554492	-	VNG1342Gm	-	COG2141C	flavin-dependent oxidoreductase
+1002024..1002701	-	225	15790374	-	VNG1343C	-	COG1634R	hypothetical protein
+1002833..1003978	-	381	15790375	dchpS	VNG1344G	-	COG0294H	DchpS
+1004042..1004611	+	189	15790376	-	VNG1345H	-	-	hypothetical protein
+1004568..1005329	+	253	15790377	-	VNG1347C	-	COG0565J	hypothetical protein
+1005333..1005794	-	153	16554493	-	VNG1349Cm	-	COG2030I	acyl dehydratase
+1005848..1006789	-	313	15790379	-	VNG1350C	-	COG0697GER	hypothetical protein
+1006932..1007417	+	161	15790380	trh6	VNG1351G	-	COG1522K	transcription regulator
+1007425..1009293	-	622	15790381	gatB1	VNG1352G	-	COG2511J	glutamyl-tRNA(Gln) amidotransferase subunit E
+1009330..1010874	-	514	15790382	-	VNG1353C	-	COG3428S	hypothetical protein
+1010871..1011350	-	159	15790383	-	VNG1355H	-	COG3402S	hypothetical protein
+1011395..1012807	-	470	15790384	fumC	VNG1356G	-	COG0114C	fumarate hydratase
+1013011..1013259	-	82	15790385	-	VNG1357C	-	COG0271T	hypothetical protein
+1013308..1014291	-	327	15790386	rad2	VNG1359G	-	COG0258L	flap endonuclease-1
+1014340..1014834	-	164	15790387	-	VNG1360H	-	-	hypothetical protein
+1015011..1015412	+	133	15790388	-	VNG1362H	-	-	hypothetical protein
+1015496..1016482	+	328	15790389	ocd2	VNG1364G	-	COG2423E	ornithine cyclodeaminase
+1016483..1017439	-	318	15790390	-	VNG1365C	-	COG3389S	hypothetical protein
+1017495..1017722	-	75	15790391	-	VNG1366H	-	COG3277J	H/ACA RNA-protein complex component Gar1
+1017722..1018000	-	92	15790392	srp19	VNG1367G	-	COG1400U	signal recognition particle
+1018040..1019149	-	369	15790393	btuF	VNG1369G	-	COG0614P	corrinoid ABC transporter substrate-binding protein
+1019209..1020318	+	369	15790394	btuC	VNG1370G	-	COG0609P	corrinoid ABC transporter permease
+1020315..1021511	+	398	16554494	btuD	VNG1371Gm	-	COG1120PH	corrinoid ABC transporter ATPase
+1021561..1022991	+	476	15790396	-	VNG1372C	-	COG3975R	hypothetical protein
+1023071..1024891	+	606	15790397	kinA1	VNG1374G	-	COG0642T	signal-transducing histidine kinase-like protein
+1025206..1026540	+	444	15790398	-	VNG1375C	-	COG0642T	hypothetical protein
+1026595..1026759	-	54	15790399	-	VNG1376H	-	-	hypothetical protein
+1026961..1027410	-	149	15790400	asnC	VNG1377G	-	COG1522K	transcription regulator
+1027447..1028247	-	266	15790401	suhB	VNG1379G	-	COG0483G	hypothetical protein
+1028559..1029209	+	216	15790402	-	VNG1380H	-	-	hypothetical protein
+1029784..1030257	+	157	15790403	-	VNG1381H	-	-	hypothetical protein
+1030300..1030734	+	144	15790404	-	VNG1382H	-	-	hypothetical protein
+1030786..1033188	+	800	15790405	rad3a	VNG1383G	-	COG1199KL	helicase
+1033228..1033419	+	63	15790406	-	VNG1384H	-	-	hypothetical protein
+1033416..1033934	+	172	15790407	yvoF	VNG1385G	-	COG0110R	acetyltransferase-like protein
+1033931..1034509	-	192	15790408	-	VNG1387H	-	-	hypothetical protein
+1034506..1035285	-	259	15790409	-	VNG1388H	-	COG3264M	hypothetical protein
+1035287..1036099	-	270	15790410	-	VNG1389C	-	COG1624S	hypothetical protein
+1036408..1036719	+	103	15790411	-	VNG1390H	-	COG1405K	hypothetical protein
+1036721..1037209	-	162	16554495	-	VNG1390a	-	COG1019R	phosphopantetheine adenylyltransferase
+1037249..1037746	-	165	15790412	-	VNG1394H	-	COG3355K	hypothetical protein
+1037808..1039253	-	481	15790413	htr9	VNG1395G	-	COG0840NT	Htr9
+1039323..1040405	-	360	15790414	-	VNG1397C	-	COG2170S	carboxylate-amine ligase
+1040466..1040909	-	147	15790415	-	VNG1398C	-	COG2153R	hypothetical protein
+1040976..1041458	-	160	15790416	-	VNG1402H	-	COG1547S	hypothetical protein
+1041502..1041948	-	148	15790417	-	VNG1401C	-	COG1860S	hypothetical protein
+1041974..1042369	-	131	15790418	-	VNG1403H	-	-	hypothetical protein
+1042533..1042907	-	124	15790419	-	VNG1405C	-	COG1733K	hypothetical protein
+1043067..1043468	+	133	15790420	trh1	VNG1404G	-	COG0229O	transcription regulator
+1043980..1045554	+	524	16554496	-	VNG1406Gm	-	COG1061KL	helicase
+1045627..1046025	+	132	15790422	-	VNG1407C	-	COG0824R	hypothetical protein
+1046073..1048121	-	682	15790423	ush	VNG1408G	-	COG0737F	UDP-sugar hydrolase
+1048271..1049413	+	380	15790424	-	VNG1409C	-	COG1967S	hypothetical protein
+1049424..1050434	-	336	15790425	-	VNG1410H	-	COG1944S	hypothetical protein
+1051252..1052118	-	288	15790426	-	VNG1412H	-	-	hypothetical protein
+1052148..1053737	-	529	15790427	-	VNG1413H	-	-	hypothetical protein
+1053950..1055224	+	424	15790428	glyA	VNG1414G	-	COG0112E	serine hydroxymethyltransferase
+1055397..1056290	+	297	15790429	folD	VNG1416G	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1056325..1057122	-	265	15790430	-	VNG1417H	-	-	hypothetical protein
+1057123..1058421	+	432	15790431	-	VNG1418C	-	COG0412Q	hypothetical protein
+1058589..1059044	+	151	15790432	-	VNG1420H	-	-	hypothetical protein
+1059075..1059986	+	303	15790433	-	VNG1422H	-	COG3342S	hypothetical protein
+1060045..1060191	+	48	15790434	-	VNG1423H	-	-	hypothetical protein
+1060402..1060698	-	98	15790435	-	VNG1425H	-	-	hypothetical protein
+1060839..1061117	+	92	15790436	-	VNG1426H	-	COG1695K	hypothetical protein
+1061121..1061363	+	80	15790437	-	VNG1427H	-	-	hypothetical protein
+1061360..1062508	-	382	15790438	htlA	VNG1428G	-	COG0628R	HtlA
+1062600..1063610	+	336	15790439	-	VNG1429C	-	COG0391S	2-phospho-L-lactate transferase
+1063672..1064343	+	223	15790440	-	VNG1431C	-	COG0042J	hypothetical protein
+1064474..1065466	+	330	15790441	dhs	VNG1432G	-	COG1899O	deoxyhypusine synthase
+1065552..1065731	+	59	15790442	rps17E	VNG1433G	-	COG1383J	30S ribosomal protein S17
+1065778..1066809	+	343	15790443	asd	VNG1435G	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1067076..1067780	-	234	15790444	serA2	VNG1437G	-	COG0111HE	hypothetical protein
+1068124..1068375	+	83	15790445	-	VNG1438H	-	-	hypothetical protein
+1068714..1069064	-	116	15790446	-	VNG1440H	-	-	hypothetical protein
+1069113..1070375	-	420	15790447	htr12	VNG1442G	-	COG0840NT	Htr12
+1070493..1071770	+	425	15790448	hisD	VNG1444G	-	COG0141E	histidinol dehydrogenase
+1071909..1072142	-	77	15790449	-	VNG1446H	-	COG3360S	hypothetical protein
+1072166..1073080	-	304	15790450	-	VNG1447H	-	-	hypothetical protein
+1073153..1073392	-	79	15790451	-	VNG1448H	-	-	hypothetical protein
+1073658..1074833	+	391	15790452	yfkN	VNG1450G	-	COG0737F	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+1074878..1075960	+	360	15790453	-	VNG1451C	-	COG1378K	hypothetical protein
+1075969..1076835	-	288	15790454	eif2bd	VNG1452G	-	COG1184J	translation initiation factor eIF-2B subunit delta
+1076841..1077320	+	159	15790455	-	VNG1453H	-	-	hypothetical protein
+1077321..1078823	-	500	15790456	-	VNG1454C	-	COG1690S	hypothetical protein
+1078862..1079908	-	348	15790457	-	VNG1455H	-	-	hypothetical protein
+1079946..1080326	-	126	15790458	-	VNG1456H	-	COG1371S	hypothetical protein
+1080325..1081038	+	237	15790459	-	VNG1457C	-	COG0456R	hypothetical protein
+1081040..1082008	-	322	15790460	crtB1	VNG1458G	-	COG1562I	phytoene synthase
+1082119..1082265	-	48	15790461	-	VNG1459H	-	-	hypothetical protein
+1082555..1082767	-	70	15790462	-	VNG1461H	-	-	hypothetical protein
+1082767..1084842	-	691	15790463	cdc48a	VNG1462G	-	COG0464O	cell division cycle protein
+1085033..1085461	+	142	15790464	blp	VNG1463G	-	-	bacterio-opsin linked protein
+1085495..1087519	-	674	15790465	bat	VNG1464G	-	COG3413R	bacterio-opsin activator
+1087516..1088622	-	368	15790466	brp	VNG1465G	-	-	bacteriorhodopsin-like protein
+1088744..1088878	+	44	15790467	-	VNG1466H	-	-	hypothetical protein
+1089122..1089910	+	262	15790468	bop	VNG1467G	-	COG5524R	bacterio-opsin
+1089962..1090231	+	89	15790469	-	VNG1468H	-	-	hypothetical protein
+1090362..1091636	+	424	15790470	pri	VNG1470G	-	COG1467L	DNA primase small subunit
+1091633..1092457	+	274	15790471	-	VNG1471C	-	COG1711S	hypothetical protein
+1092551..1094830	-	759	15790472	cdc48b	VNG1472G	-	COG0464O	cell division cycle protein
+1094827..1095075	-	82	15790473	-	VNG1473H	-	-	hypothetical protein
+1095190..1096014	+	274	15790474	est	VNG1474G	-	COG0596R	carboxylesterase
+1096286..1097941	+	551	15790475	-	VNG1475C	-	COG1361M	hypothetical protein
+1097962..1100202	+	746	15790476	-	VNG1476C	-	COG1033R	hypothetical protein
+1100204..1101028	-	274	15790477	panB	VNG1478G	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1101172..1101351	+	59	15790478	-	VNG1479H	-	-	hypothetical protein
+1101355..1101738	-	127	15790479	-	VNG1480C	-	COG0546R	hypothetical protein
+1102027..1102542	+	171	15790480	sat	VNG1481G	-	COG1045E	serine acetyltransferase
+1102552..1103676	-	374	15790481	acd5	VNG1482G	-	COG1960I	acyl-CoA dehydrogenase
+1103741..1104244	-	167	15790482	-	VNG1483C	-	COG1813K	hypothetical protein
+1104331..1105599	+	422	15790483	-	VNG1484H	-	-	hypothetical protein
+1105679..1105840	+	53	15790484	-	VNG1486H	-	-	hypothetical protein
+1105936..1106394	+	152	15790485	-	VNG1487H	-	COG3467R	hypothetical protein
+1106448..1107095	+	215	15790486	boa2	VNG1488G	-	COG3413R	bacterio-opsin activator-like protein
+1107155..1107559	+	134	15790487	-	VNG1490H	-	COG1522K	hypothetical protein
+1107931..1108500	+	189	15790488	-	VNG1492C	-	COG2322S	hypothetical protein
+1108559..1110031	-	490	15790489	purF	VNG1493G	-	COG0034F	hypothetical protein
+1110237..1110413	-	58	15790490	rpl37e	VNG1494G	-	COG2126J	50S ribosomal protein L37
+1110410..1110619	-	69	15790491	snp	VNG1496G	-	COG1958K	snRNP-like protein
+1110649..1111710	-	353	15790492	celM	VNG1498G	-	COG1363G	endoglucanase
+1112065..1113018	+	317	15790493	-	VNG1497C	-	COG5282S	hypothetical protein
+1113019..1113681	-	220	15790494	-	VNG1500H	-	-	hypothetical protein
+1113845..1116310	+	821	15790495	hel	VNG1501G	-	COG1112L	DNA helicase
+1116360..1117103	+	247	15790496	-	VNG1503C	-	COG1234R	hypothetical protein
+1117100..1118569	-	489	15790497	htr10	VNG1505G	-	COG0840NT	Htr10
+1118630..1119703	-	357	15790498	pelA	VNG1506G	-	COG1537R	cell division protein pelota
+1119763..1121874	-	703	15790499	-	VNG1508C	-	COG1293K	hypothetical protein
+1121952..1123601	-	549	15790500	-	VNG1510C	-	COG1243KB	hypothetical protein
+1123649..1125703	-	684	15790501	-	VNG1511C	-	COG1107L	hypothetical protein
+1125749..1125985	-	78	15790502	-	VNG1513H	-	-	hypothetical protein
+1126036..1126644	-	202	15790503	-	VNG1514H	-	COG2881S	hypothetical protein
+1126648..1127235	-	195	15790504	tdk	VNG1515G	-	COG1435F	thymidine kinase
+1127342..1127782	+	146	15790505	-	VNG1518H	-	COG0589T	hypothetical protein
+1127799..1128008	-	69	15790506	-	VNG1519H	-	-	hypothetical protein
+1128085..1129023	-	312	15790507	mutY	VNG1520G	-	COG1194L	A/G specific adenine glycosylase, repair protein
+1129509..1131440	+	643	15790508	htr8	VNG1523G	-	COG0840NT	Htr8
+1131444..1132820	-	458	15790509	-	VNG1524C	-	COG0160E	hypothetical protein
+1132953..1134599	-	548	15790510	-	VNG1525C	-	COG3174S	hypothetical protein
+1134520..1135863	+	447	15790511	trp6	VNG1526G	-	COG0733R	daunorubicin resistance ABC transporter ATP-binding protein
+1136003..1137436	+	477	15790512	nac	VNG1528G	-	COG0733R	sodium- and chloride-dependent transporter
+1137505..1139055	+	516	15790513	mmdA	VNG1529G	-	COG4799I	methylmalonyl-CoA decarboxylase subunit alpha
+1139055..1139312	+	85	15790514	-	VNG1530H	-	-	hypothetical protein
+1139423..1141255	+	610	15790515	acc	VNG1532G	-	COG4770I	carbamoyl phosphate synthase subunit L
+1141390..1143534	+	714	15790516	-	VNG1533H	-	-	hypothetical protein
+1143583..1143726	-	47	15790517	-	VNG1534H	-	-	hypothetical protein
+1143881..1144840	+	319	16554497	birA	VNG1534a	-	COG0340H	biotin operon repressor and biotin-(acetyl-CoA carboxylase) ligase
+1144847..1145290	-	147	15790518	-	VNG1536C	-	COG0589T	hypothetical protein
+1145342..1146571	-	409	15790519	-	VNG1537C	-	COG1078R	hypothetical protein
+1146674..1147519	+	281	15790520	-	VNG1538H	-	COG1621G	hypothetical protein
+1147554..1148264	-	236	15790521	ywfD	VNG1540G	-	COG1028IQR	glucose 1-dehydrogenase
+1148259..1149530	+	423	15790522	sucC	VNG1541G	-	COG0045C	succinyl-CoA synthetase subunit beta
+1149527..1150396	+	289	15790523	sucD	VNG1542G	-	COG0074C	hypothetical protein
+1150451..1151497	+	348	15790524	zim	VNG1543G	-	COG0863L	CTAG modification methylase
+1151507..1153885	-	792	15790525	clc	VNG1544G	-	COG0038P	chloride channel
+1154318..1154809	-	163	15790526	-	VNG1547C	-	COG2096S	hypothetical protein
+1154857..1155096	-	79	15790527	-	VNG1546H	-	COG0695O	hypothetical protein
+1155952..1156764	-	270	15790528	-	VNG1548C	-	COG1497K	hypothetical protein
+1156903..1157466	+	187	15790529	cbiT	VNG1550G	-	COG2242H	cobalamin biosynthesis protein
+1157463..1158167	+	234	15790530	cbiL	VNG1551G	-	COG2243H	cobalt-precorrin-2 C(20)-methyltransferase
+1158160..1159026	+	288	15790531	cbiF	VNG1553G	-	COG2875H	cobalamin biosynthesis protein
+1159023..1160000	+	325	15790532	cbiG	VNG1554G	-	COG2073H	cobalamin biosynthesis protein CbiG
+1159997..1160827	+	276	15790533	cobH	VNG1555G	-	COG1010H	hypothetical protein
+1160827..1161834	+	335	15790534	cbiH	VNG1557G	-	COG1010H	cobalamin biosynthesis protein
+1161834..1162082	+	82	15790535	-	VNG1558H	-	COG1141C	hypothetical protein
+1162079..1162777	+	232	15790536	-	VNG1559H	-	-	hypothetical protein
+1162804..1163997	+	397	16554498	-	VNG1561Cm	-	COG2138S	ferredoxin
+1163994..1164365	+	123	15790538	-	VNG1562H	-	COG1692S	hypothetical protein
+1164343..1165566	+	407	15790539	-	VNG1564H	-	COG1520S	hypothetical protein
+1165595..1167667	-	690	15790540	hmcA	VNG1565G	-	COG1239H	HmcA
+1167897..1171601	+	1234	15790541	cobN	VNG1566G	-	COG1429H	hypothetical protein
+1171591..1172304	+	237	15790542	cbiC	VNG1567G	-	COG2082H	precorrin isomerase
+1172301..1173053	+	250	15790543	cbiJ	VNG1568G	-	COG2241H	cobalt-precorrin-6Y C(5)-methyltransferase
+1173050..1173820	-	256	15790544	-	VNG1570H	-	COG2138S	hypothetical protein
+1174064..1174966	+	300	15790545	-	VNG1572C	-	COG2038H	hypothetical protein
+1174953..1176278	+	441	15790546	cbiA	VNG1573G	-	COG1797H	cobyrinic acid a,c-diamide synthase
+1176275..1176952	+	225	15790547	cobI	VNG1574G	-	COG2109H	cobalamin adenosyltransferase
+1176954..1178492	+	512	15790548	cbiP	VNG1576G	-	COG1492H	cobyric acid synthase
+1178690..1179148	+	152	15790549	-	VNG1577C	-	COG1011R	hypothetical protein
+1179145..1180071	+	308	15790550	-	VNG1578H	-	COG1270H	hypothetical protein
+1180212..1180811	+	199	15790551	-	VNG1580H	-	COG0368H	hypothetical protein
+1180811..1181380	+	189	15790552	-	VNG1581C	-	COG2266H	hypothetical protein
+1181398..1182408	+	336	15790553	hisC2	VNG1582G	-	COG0079E	hypothetical protein
+1182401..1183096	+	231	15790554	-	VNG1583C	-	COG1865S	hypothetical protein
+1183163..1184704	-	513	16554499	-	VNG1585Cm	-	-	hypothetical protein
+1184767..1185759	+	330	15790556	-	VNG1587H	-	-	hypothetical protein
+1188524..1188937	+	137	15790557	-	VNG1589C	-	COG3889R	hypothetical protein
+1189410..1189679	-	89	15790558	-	VNG1590H	-	-	hypothetical protein
+1189961..1190134	+	57	15790559	-	VNG1591H	-	-	hypothetical protein
+1190152..1190961	-	269	15790560	cysT2	VNG1592G	-	COG0555O	sulfate transport system permease
+1190958..1191887	-	309	15790561	-	VNG1595C	-	COG0725P	hypothetical protein
+1191948..1192379	+	143	16554500	tfx	VNG1598a	-	COG1356S	transcriptional regulator
+1192390..1193811	-	473	15790563	gcvP2	VNG1601G	-	COG1003E	glycine dehydrogenase subunit 2
+1193811..1195136	-	441	15790564	gcvP1	VNG1603G	-	COG0403E	glycine dehydrogenase subunit 1
+1195419..1195793	-	124	15790565	gdcH	VNG1605G	-	COG0509E	glycine cleavage system protein H
+1195790..1196881	-	363	228915427	gcvT	VNG1606G	-	COG0404E	glycine cleavage system aminomethyltransferase T
+1197028..1197618	-	196	15790567	cheC2	VNG1607G	-	COG1776NT	hypothetical protein
+1197636..1198199	+	187	15790568	-	VNG1608C	-	COG1432S	hypothetical protein
+1198223..1198930	-	235	15790569	-	VNG1609C	-	COG2013S	hypothetical protein
+1199058..1199903	+	281	15790570	-	VNG1610C	-	COG1831R	hypothetical protein
+1199977..1200564	+	195	15790571	-	VNG1611C	-	COG4749S	hypothetical protein
+1201805..1202614	+	269	15790572	-	VNG1613H	-	-	hypothetical protein
+1202684..1204021	+	445	15790573	mvaB	VNG1615G	-	COG3425I	3-hydroxy-3-methylglutaryl-coenzyme A synthase
+1204023..1204607	-	194	15790574	-	VNG1618H	-	COG0431R	hypothetical protein
+1204670..1205479	-	269	15790575	-	VNG1616C	-	COG1709K	hypothetical protein
+1205478..1205966	+	162	15790576	-	VNG1617H	-	COG0456R	hypothetical protein
+1205963..1206535	-	190	15790577	-	VNG1619H	-	-	hypothetical protein
+1206584..1207039	-	151	15790578	-	VNG1621H	-	COG3467R	hypothetical protein
+1207038..1208543	+	501	15790579	rfcB	VNG1622G	-	COG0470L	replication factor C large subunit
+1208540..1209373	-	277	15790580	ccp	VNG1623G	-	COG1612O	heme A synthase
+1209504..1211756	+	750	15790581	mdh	VNG1624G	-	COG0281C	malic enzyme
+1211764..1212387	-	207	15790582	-	VNG1625H	-	COG0328L	hypothetical protein
+1212650..1213414	+	254	15790583	-	VNG1626C	-	COG0697GER	hypothetical protein
+1213427..1214401	-	324	15790584	aad	VNG1628G	-	COG0667C	aryl-alcohol dehydrogenase
+1214457..1214690	-	77	15790585	-	VNG1630H	-	-	hypothetical protein
+1214890..1215618	-	242	15790586	cbiO2	VNG1631G	-	COG1122P	hypothetical protein
+1215673..1216401	-	242	15790587	cbiQ	VNG1632G	-	COG0619P	hypothetical protein
+1216405..1216695	-	96	15790588	cbiN	VNG1634G	-	COG1930P	cobalt transport protein CbiN
+1216692..1217354	-	220	15790589	cbiM	VNG1635G	-	COG0310P	cobalt transport protein CbiM
+1217584..1218441	+	285	15790590	hcpA	VNG1637G	-	COG3794C	halocyanin-like protein
+1218759..1219889	+	376	15790591	-	VNG1638H	-	COG1344N	hypothetical protein
+1219873..1220253	-	126	15790592	-	VNG1640H	-	-	hypothetical protein
+1220349..1220975	+	208	15790593	-	VNG1641H	-	COG0398S	hypothetical protein
+1220972..1221094	-	40	15790594	-	VNG1642H	-	-	hypothetical protein
+1221158..1224313	-	1051	15790595	nrdB2	VNG1644G	-	COG0209F	ribonucleoside reductase large chain
+1224647..1224832	+	61	15790596	-	VNG1645H	-	-	hypothetical protein
+1224838..1225434	-	198	15790597	trpG1	VNG1646G	-	COG0512EH	anthranilate synthase subunit beta
+1225431..1227014	-	527	15790598	trpE1	VNG1647G	-	COG0147EH	anthranilate synthase component I
+1227011..1227667	-	218	15790599	trpF	VNG1648G	-	COG0135E	hypothetical protein
+1227664..1228674	-	336	15790600	trpD	VNG1649G	-	COG0547E	anthranilate phosphoribosyltransferase
+1229492..1230340	-	282	15790601	-	VNG1650H	-	-	hypothetical protein
+1230496..1230699	-	67	15790602	-	VNG1651H	-	COG0864K	hypothetical protein
+1231161..1232435	+	424	15790603	-	VNG1653H	-	COG3385L	hypothetical protein
+1232639..1233823	-	394	15790604	cdc48e	VNG1654G	-	COG1222O	cell division cycle protein
+1234475..1234831	-	118	15790605	-	VNG1655H	-	-	hypothetical protein
+1234828..1235829	-	333	15790606	-	VNG1657H	-	COG4885S	hypothetical protein
+1235959..1236402	+	147	15790607	-	VNG1656H	-	-	hypothetical protein
+1236404..1236835	-	143	15790608	-	VNG1658C	-	COG0589T	hypothetical protein
+1237084..1238694	+	536	15790609	htr1	VNG1659G	-	COG0840NT	Htr1
+1238694..1239413	+	239	15790610	sop1	VNG1660G	-	COG5524R	sensory rhodopsin I
+1239515..1240657	+	380	15790611	-	VNG1663C	-	COG3448T	hypothetical protein
+1240710..1240901	+	63	15790612	-	VNG1664H	-	-	hypothetical protein
+1240909..1241619	-	236	15790613	radB	VNG1665G	-	COG0468L	DNA repair and recombination protein RadB
+1241720..1242487	-	255	15790614	-	VNG1666H	-	COG1091M	hypothetical protein
+1242669..1244897	+	742	15790615	cdc48c	VNG1667G	-	COG0464O	cell division cycle protein
+1244981..1245355	-	124	15790616	rps8e	VNG1668G	-	COG2007J	30S ribosomal protein S8
+1245442..1245897	+	151	15790617	-	VNG1670C	-	COG3612S	hypothetical protein
+1245887..1246270	+	127	15790618	-	VNG1672H	-	-	hypothetical protein
+1246366..1247169	+	267	15790619	pyrF	VNG1673G	-	COG0284F	hypothetical protein
+1247170..1247331	-	53	15790620	-	VNG1674H	-	-	hypothetical protein
+1247384..1247893	+	169	15790621	-	VNG1675H	-	COG0484O	hypothetical protein
+1247923..1248534	+	203	16554501	-	VNG1675a	-	COG1011R	HAD superfamily hydrolase
+1248609..1250231	+	540	15790622	gbp2	VNG1676G	-	COG5258R	GTP-binding protein
+1250266..1250634	+	122	15790623	-	VNG1678H	-	COG0150F	hypothetical protein
+1250640..1251131	-	163	15790624	-	VNG1679H	-	-	hypothetical protein
+1251280..1252248	+	322	15790625	crtB2	VNG1680G	-	COG1562I	phytoene synthase
+1252256..1253095	-	279	15790626	-	VNG1681C	-	COG2324S	hypothetical protein
+1253088..1253915	-	275	15790627	ubiA	VNG1682C	-	COG0382H	prenyltransferase
+1253922..1255460	-	512	15790628	crtI1	VNG1684G	-	COG1233Q	phytoene dehydrogenase
+1255507..1256442	-	311	15790629	mch	VNG1686G	-	COG3252H	N5,N10-methenyltetrahydromethanopterin cyclohydrolase
+1256502..1257755	-	417	15790630	-	VNG1687C	-	-	hypothetical protein
+1258177..1259028	+	283	15790631	-	VNG1688C	-	COG2106S	hypothetical protein
+1259033..1260040	+	335	15790632	rpl3p	VNG1689G	-	COG0087J	50S ribosomal protein L3P
+1260044..1260796	+	250	15790633	rpl4lp	VNG1690G	-	COG0088J	50S ribosomal protein L4
+1260793..1261047	+	84	15790634	rplW	VNG1691G	-	COG0089J	50S ribosomal protein L23
+1261050..1261772	+	240	15790635	rpl2p	VNG1692G	-	COG0090J	50S ribosomal protein L2
+1261776..1262198	+	140	15790636	rps19p	VNG1693G	-	COG0185J	30S ribosomal protein S19
+1262202..1262672	+	156	15790637	rpl22p	VNG1695G	-	COG0091J	50S ribosomal protein L22
+1262672..1263580	+	302	15790638	rps3p	VNG1697G	-	COG0092J	30S ribosomal protein S3
+1263580..1263795	+	71	15790639	rpmC	VNG1698G	-	COG0255J	50S ribosomal protein L29
+1263804..1264175	+	123	15790640	-	VNG1699C	-	COG1588J	ribonuclease P protein component 1
+1264166..1264495	+	109	15790641	rps17p	VNG1700G	-	COG0186J	30S ribosomal protein S17
+1264495..1264893	+	132	15790642	rpl14p	VNG1701G	-	COG0093J	50S ribosomal protein L14
+1264898..1265254	+	118	15790643	rpl24p	VNG1702G	-	COG0198J	50S ribosomal protein L24
+1265251..1265952	+	233	15790644	rps4e	VNG1703G	-	COG1471J	30S ribosomal protein S4
+1265949..1266476	+	175	15790645	rpl5p	VNG1705G	-	COG0094J	50S ribosomal protein L5
+1266473..1266631	+	52	15790646	rps14P	VNG1706G	-	COG0199J	30S ribosomal protein S14
+1266634..1267026	+	130	161349980	rps8p	VNG1707G	-	COG0096J	30S ribosomal protein S8
+1267030..1267566	+	178	15790648	rpl6p	VNG1709G	-	COG0097J	50S ribosomal protein L6
+1267570..1268289	+	239	15790649	rpl32e	VNG1711G	-	COG1717J	50S ribosomal protein L32
+1268282..1268731	+	149	15790650	rpl19e	VNG1713G	-	COG2147J	50S ribosomal protein L19
+1268731..1269282	+	183	15790651	rpl18p	VNG1714G	-	COG0256J	50S ribosomal protein L18
+1269286..1269924	+	212	15790652	rps5p	VNG1715G	-	COG0098J	30S ribosomal protein S5
+1269924..1270388	+	154	15790653	rpl30p	VNG1716G	-	COG1841J	50S ribosomal protein L30
+1270394..1270855	+	153	15790654	rpl15p	VNG1718G	-	COG0200J	50S ribosomal protein L15
+1270859..1272334	+	491	15790655	secY	VNG1719G	-	COG0201U	preprotein translocase subunit SecY
+1272410..1273573	+	387	15790656	-	VNG1720H	-	COG0614P	hypothetical protein
+1273771..1275447	-	558	15790657	trkH2	VNG1721G	-	COG0168P	TRK potassium uptake system protein
+1275550..1275960	-	136	15790658	-	VNG1723H	-	-	hypothetical protein
+1276049..1276699	+	216	15790659	adk	VNG1724G	-	COG0563F	adenylate kinase
+1276763..1277635	+	290	15790660	htlB	VNG1726G	-	COG1422S	HtlB
+1277691..1278269	+	192	15790661	cmk	VNG1727G	-	COG1102F	cytidylate kinase
+1278244..1279176	+	310	161349979	sus	VNG1729G	-	COG0130J	H/ACA RNA-protein complex component Cbf5p
+1279783..1281537	-	584	15790663	-	VNG1732C	-	COG1357S	hypothetical protein
+1281743..1283353	-	536	15790664	htr17	VNG1733G	-	COG0840NT	Htr17
+1283350..1283685	-	111	15790665	-	VNG1734H	-	-	hypothetical protein
+1283837..1284622	+	261	15790666	-	VNG1735C	-	COG3217R	hypothetical protein
+1284679..1285650	+	323	15790667	-	VNG1737H	-	COG1819GC	hypothetical protein
+1285676..1286515	+	279	15790668	htlC	VNG1739G	-	COG0467T	HtlC
+1286560..1287537	+	325	15790669	-	VNG1740C	-	COG1196D	hypothetical protein
+1287622..1288281	+	219	15790670	-	VNG1743C	-	COG1594K	hypothetical protein
+1288323..1289183	-	286	15790671	-	VNG1744H	-	COG0428P	hypothetical protein
+1289265..1289954	+	229	15790672	-	VNG1746C	-	COG3361S	hypothetical protein
+1289955..1290629	-	224	15790673	-	VNG1748C	-	COG4221R	hypothetical protein
+1290751..1291941	+	396	15790674	gbp1	VNG1749G	-	COG0012J	translation-associated GTPase
+1291955..1292908	-	317	15790675	-	VNG1751H	-	-	hypothetical protein
+1292962..1293393	-	143	15790676	-	VNG1752C	-	COG0589T	hypothetical protein
+1293457..1294845	-	462	15790677	phr1	VNG1754G	-	COG0415L	photolyase/cryptochrome
+1294848..1296458	-	536	15790678	crtI2	VNG1755G	-	COG1233Q	phytoene dehydrogenase
+1296538..1296789	+	83	15790679	eif1a2	VNG1756G	-	COG0361J	translation initiation factor IF-1A
+1296996..1297283	+	95	15790680	-	VNG1758H	-	-	hypothetical protein
+1297280..1298917	+	545	15790681	htr7	VNG1759G	-	COG0840NT	Htr7
+1298933..1301365	-	810	15790682	htr5	VNG1760G	-	COG0840NT	Htr5
+1301370..1302374	-	334	15790683	proX	VNG1762G	-	COG1732M	ABC transporter
+1304168..1304881	-	237	15790684	sop2	VNG1764G	-	COG5524R	sensory rhodopsin II
+1304883..1307177	-	764	15790685	htr2	VNG1765G	-	COG0840NT	Htr2
+1307267..1308028	-	253	15790686	-	VNG1766C	-	COG0327S	hypothetical protein
+1308056..1308874	-	272	15790687	speB	VNG1767G	-	COG0010E	hypothetical protein
+1308878..1309261	-	127	15790688	eif5a	VNG1768G	-	COG0231J	translation initiation factor IF-5A
+1309363..1310190	-	275	16554502	-	VNG1769Cm	-	COG1402R	amidase
+1310187..1311800	-	537	15790690	-	VNG1770C	-	COG0661R	hypothetical protein
+1311933..1312283	-	116	15790691	-	VNG1771C	-	COG0071O	hypothetical protein
+1312357..1313013	-	218	15790692	pgp	VNG1772G	-	COG0546R	3-phosphoglycerate kinase
+1313067..1313342	-	91	15790693	phhB	VNG1773G	-	COG2154H	pterin-4a-carbinolamine dehydratase
+1313406..1314716	-	436	15790694	hemA	VNG1774G	-	COG0373H	glutamyl-tRNA reductase
+1314713..1315375	-	220	15790695	-	VNG1775C	-	COG1648H	hypothetical protein
+1315383..1316441	-	352	15790696	nirH	VNG1776G	-	COG1522K	heme biosynthesis protein
+1316499..1316915	-	138	15790697	-	VNG1777H	-	-	hypothetical protein
+1317052..1317960	+	302	15790698	-	VNG1779C	-	COG0020I	hypothetical protein
+1317980..1318960	-	326	15790699	-	VNG1781C	-	COG0020I	hypothetical protein
+1319025..1319999	+	324	15790700	-	VNG1782C	-	COG1836S	hypothetical protein
+1320001..1321353	-	450	15790701	-	VNG1784C	-	COG0358L	DNA primase
+1321352..1321564	+	70	15790702	-	VNG1783H	-	-	hypothetical protein
+1321603..1323051	+	482	15790703	panF	VNG1785G	-	COG0591ER	hypothetical protein
+1323053..1323331	-	92	15790704	-	VNG1786H	-	COG1695K	hypothetical protein
+1323330..1324298	+	322	15790705	-	VNG1787H	-	-	hypothetical protein
+1324332..1325255	+	307	15790706	-	VNG1788C	-	-	hypothetical protein
+1325295..1325654	+	119	15790707	-	VNG1790H	-	COG1416S	hypothetical protein
+1325656..1326372	-	238	15790708	-	VNG1791C	-	COG4347S	hypothetical protein
+1326538..1327446	+	302	15790709	-	VNG1793C	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+1327456..1329540	-	694	15790710	-	VNG1794C	-	COG1525L	hypothetical protein
+1329752..1330657	-	301	15790711	thrB	VNG1797G	-	COG0083E	homoserine kinase
+1330778..1332094	+	438	15790712	-	VNG1795C	-	COG1232H	hypothetical protein
+1332167..1332484	+	105	15790713	-	VNG1796H	-	-	hypothetical protein
+1332857..1333429	-	190	15790714	-	VNG1798H	-	COG0272L	hypothetical protein
+1333485..1333676	-	63	15790715	-	VNG1800H	-	-	hypothetical protein
+1333815..1334330	-	171	15790716	hsp1	VNG1801G	-	COG0071O	Hsp1
+1334327..1335148	-	273	15790717	-	VNG1802H	-	-	hypothetical protein
+1335461..1336714	+	417	15790718	noxA	VNG1804G	-	COG1251C	NADH oxidase
+1336842..1337075	+	77	15790719	-	VNG1806H	-	-	hypothetical protein
+1337141..1337560	+	139	15790720	-	VNG1807H	-	COG5271R	hypothetical protein
+1337618..1338166	+	182	15790721	-	VNG1809H	-	-	hypothetical protein
+1338204..1339508	-	434	15790722	eye	VNG1811G	-	COG2312R	succinoglycan biosynthesis
+1339799..1342927	+	1042	15790723	carB	VNG1814G	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1342998..1344059	-	353	15790724	carA	VNG1815G	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1344157..1344570	+	137	15790725	trh3	VNG1816G	-	COG1522K	transcription regulator
+1344598..1345239	+	213	15790726	idi	VNG1818G	-	COG1443I	Idi
+1345287..1345697	+	136	16554503	-	VNG1818a	-	COG1310R	hypothetical protein
+1345750..1345983	-	77	15790727	-	VNG1820H	-	-	hypothetical protein
+1345983..1347026	-	347	15790728	adh4	VNG1821G	-	COG0604CR	alcohol dehydrogenase
+1347117..1347734	+	205	15790729	moaB	VNG1822G	-	COG0521H	hypothetical protein
+1347731..1348438	+	235	15790730	-	VNG1823C	-	COG0212H	hypothetical protein
+1348491..1348718	+	75	15790731	-	VNG1826H	-	-	hypothetical protein
+1348757..1349077	-	106	15790732	-	VNG1827H	-	-	hypothetical protein
+1349130..1350047	-	305	15790733	guaAb	VNG1829G	-	COG0519F	GMP synthase subunit B
+1350047..1351708	-	553	15790734	pyrG	VNG1830G	-	COG0504F	CTP synthase
+1351798..1352415	-	205	15790735	-	VNG1831H	-	-	hypothetical protein
+1352444..1352584	-	46	15790736	-	VNG1832H	-	-	hypothetical protein
+1352827..1353444	-	205	15790737	-	VNG1833C	-	COG2945R	hypothetical protein
+1353443..1354081	+	212	15790738	hyrA	VNG1834G	-	COG1225O	HyrA
+1354112..1356064	-	650	15790739	thrS	VNG1835G	-	COG0441J	threonyl-tRNA synthetase
+1356243..1356452	+	69	15790740	cspD2	VNG1836G	-	COG1278K	cold shock protein
+1356582..1357613	-	343	15790741	ykfB1	VNG1837G	-	COG4948MR	chloromuconate cycloisomerase
+1357610..1358623	-	337	15790742	-	VNG1839H	-	COG3367S	hypothetical protein
+1358783..1358941	+	52	15790743	-	VNG1838H	-	-	hypothetical protein
+1358949..1360250	-	433	15790744	-	VNG1842H	-	COG1503J	hypothetical protein
+1360326..1360982	+	218	15790745	-	VNG1843C	-	COG1777K	hypothetical protein
+1361018..1362301	+	427	15790746	ansA	VNG1844G	-	COG0252EJ	glutamyl-tRNA(Gln) amidotransferase subunit D
+1362289..1363230	+	313	15790747	-	VNG1845C	-	-	hypothetical protein
+1363231..1363962	-	243	15790748	-	VNG1846C	-	COG0584C	hypothetical protein
+1363962..1364264	-	100	15790749	-	VNG1848H	-	COG1977H	hypothetical protein
+1364265..1365500	+	411	15790750	pchA	VNG1847G	-	COG0569P	potassium channel-like protein
+1365510..1366691	-	393	15790751	-	VNG1849H	-	-	hypothetical protein
+1367036..1367812	-	258	15790752	udp1	VNG1850G	-	COG2820F	uridine phosphorylase
+1367861..1368748	-	295	15790753	suk	VNG1851G	-	COG0524G	sugar kinase
+1368773..1369606	-	277	15790754	-	VNG1852H	-	COG1967S	hypothetical protein
+1369650..1370594	-	314	15790755	eif2ba	VNG1853G	-	COG1184J	translation initiation factor IF-2B subunit delta
+1370637..1372538	-	633	15790756	htr3	VNG1856G	-	COG0840NT	Htr3
+1373051..1374292	-	413	15790757	-	VNG1857C	-	COG0683E	hypothetical protein
+1374390..1375028	+	212	15790758	deoC	VNG1859G	-	COG0274F	hypothetical protein
+1375087..1376385	+	432	15790759	-	VNG1861C	-	COG0621J	hypothetical protein
+1376404..1377303	-	299	15790760	cef	VNG1862G	-	COG0053P	cation efflux system protein
+1377344..1377889	-	181	15790761	hit2	VNG1864G	-	COG0537FGR	Hit2
+1378010..1378210	+	66	15790762	-	VNG1865H	-	-	hypothetical protein
+1378248..1379138	-	296	15790763	map	VNG1866G	-	COG0024J	methionine aminopeptidase
+1379187..1380002	-	271	15790764	potC	VNG1867G	-	COG1177E	spermidine/putrescine ABC transporter permease
+1380002..1380895	-	297	15790765	potB	VNG1868G	-	COG1176E	spermidine/putrescine ABC transporter permease
+1380897..1382075	-	392	15790766	-	VNG1869C	-	COG0687E	hypothetical protein
+1382218..1383342	+	374	15790767	potA2	VNG1871G	-	COG3842E	spermidine/putrescine ABC transporter
+1383349..1384233	-	294	15790768	-	VNG1872C	-	COG1446E	hypothetical protein
+1384332..1385600	+	422	15790769	icd	VNG1873G	-	COG0538C	hypothetical protein
+1385685..1386209	+	174	15790770	-	VNG1874C	-	-	hypothetical protein
+1386216..1387433	-	405	15790771	mvaA	VNG1875G	-	COG1257I	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1387529..1387846	+	105	15790772	-	VNG1877C	-	COG0011S	hypothetical protein
+1387843..1388991	+	382	15790773	thb	VNG1879G	-	COG4143H	thiamin-binding periplasmic protein-like protein
+1389042..1390562	+	506	15790774	-	VNG1880C	-	COG1574R	hypothetical protein
+1390684..1391808	+	374	15790775	nadA	VNG1882G	-	COG0379H	quinolinate synthetase
+1391811..1393340	+	509	15790776	nadB	VNG1883G	-	COG0029H	L-aspartate oxidase
+1393327..1394133	+	268	15790777	nadC	VNG1884G	-	COG0157H	hypothetical protein
+1394134..1394925	-	263	15790778	-	VNG1886C	-	COG1378K	hypothetical protein
+1395028..1395366	+	112	16554504	ebrB	VNG1886a	-	COG2076P	membrane transporter
+1395369..1396895	-	508	15790779	gpm	VNG1887G	-	COG0696G	phosphoglyceromutase
+1397013..1397267	-	84	15790780	-	VNG1889H	-	-	hypothetical protein
+1397374..1397820	-	148	15790781	-	VNG1890H	-	-	hypothetical protein
+1398710..1399948	+	412	15790782	-	VNG1891H	-	-	hypothetical protein
+1399992..1400741	+	249	15790783	trp2	VNG1893G	-	COG1131V	ABC transport protein
+1400742..1402349	+	535	15790784	-	VNG1894C	-	-	hypothetical protein
+1402357..1402704	-	115	15790785	-	VNG1895H	-	-	hypothetical protein
+1402807..1404606	+	599	15790786	-	VNG1896C	-	COG0433R	hypothetical protein
+1404628..1405080	+	150	15790787	-	VNG1898C	-	COG0589T	hypothetical protein
+1405118..1405774	-	218	15790788	kaiC	VNG1899G	-	COG0467T	KaiC
+1406440..1407288	+	282	15790789	-	VNG1900C	-	COG0061G	hypothetical protein
+1407337..1408272	+	311	15790790	-	VNG1901C	-	COG1469S	GTP cyclohydrolase
+1408320..1408535	-	71	15790791	-	VNG1902H	-	-	hypothetical protein
+1409286..1410086	-	266	16554505	-	VNG1903Cm	-	COG1378K	transcription regulator
+1410174..1410275	-	33	15790793	-	VNG1904H	-	-	hypothetical protein
+1410377..1412059	-	560	15790794	-	VNG1905C	-	COG1331O	hypothetical protein
+1412058..1412615	+	185	15790795	fxsA	VNG1906H	-	COG3030R	FxsA
+1412832..1413275	+	147	15790796	-	VNG1907H	-	-	hypothetical protein
+1413751..1414017	+	88	15790797	-	VNG1910H	-	-	hypothetical protein
+1414027..1415064	-	345	15790798	nirD	VNG1911G	-	COG1522K	heme biosynthesis protein
+1415175..1416233	+	352	15790799	trpD2	VNG1912G	-	COG0547E	phosphoribosyl transferase
+1416274..1416843	+	189	15790800	ppiA	VNG1914G	-	COG0652O	peptidyl-prolyl isomerase
+1416890..1417231	+	113	15790801	-	VNG1916H	-	-	hypothetical protein
+1417462..1417815	+	117	15790802	-	VNG1917H	-	COG4538S	hypothetical protein
+1417818..1418579	-	253	15790803	-	VNG1918C	-	COG1646R	geranylgeranylglyceryl phosphate synthase-like protein
+1418630..1418989	-	119	15790804	-	VNG1919H	-	COG0239D	hypothetical protein
+1418986..1419372	-	128	15790805	-	VNG1921H	-	COG0239D	hypothetical protein
+1419466..1419942	+	158	15790806	-	VNG1920H	-	-	hypothetical protein
+1419958..1420185	-	75	15790807	trh5	VNG1922G	-	COG1522K	transcription regulator
+1420186..1420965	-	259	15790808	trkA6	VNG1924G	-	COG0569P	TRK potassium uptake system protein
+1421025..1421192	+	55	15790809	-	VNG1925H	-	-	hypothetical protein
+1421211..1422179	-	322	15790810	pdhA1	VNG1926G	-	COG1071C	pyruvate dehydrogenase alpha subunit
+1422323..1422649	+	108	15790811	-	VNG1927H	-	-	hypothetical protein
+1422660..1423259	-	199	15790812	tmk	VNG1929G	-	COG0125F	thymidylate kinase
+1423334..1424245	+	303	15790813	nolA	VNG1932G	-	COG0702MG	NADH dehydrogenase/oxidoreductase-like protein
+1424535..1425587	+	350	15790814	ftsZ3	VNG1933G	-	COG0206D	cell division protein
+1425565..1426359	+	264	15790815	-	VNG1934H	-	-	hypothetical protein
+1426359..1426988	+	209	15790816	-	VNG1935C	-	COG1920S	hypothetical protein
+1427126..1428148	+	340	161349978	cofG	VNG1937C	-	COG1060HR	FO synthase subunit 1
+1428155..1429516	-	453	161349977	-	VNG1938C	-	COG1060HR	FO synthase subunit 2
+1429637..1430680	+	347	15790819	hemH	VNG1939G	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1430826..1431071	+	81	15790820	-	VNG1940H	-	-	hypothetical protein
+1431151..1432230	+	359	15790821	-	VNG1941C	-	COG1244R	hypothetical protein
+1432237..1432575	-	112	15790822	-	VNG1942H	-	-	hypothetical protein
+1432621..1432788	-	55	15790823	-	VNG1943H	-	-	hypothetical protein
+1432842..1433516	-	224	15790824	purL2	VNG1945G	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+1433513..1433767	-	84	15790825	-	VNG1944C	-	COG1828F	hypothetical protein
+1433893..1434804	+	303	15790826	purU	VNG1946G	-	COG0788F	formyltetrahydrofolate deformylase
+1434889..1435803	+	304	15790827	-	VNG1948H	-	-	hypothetical protein
+1435809..1436222	-	137	15790828	gul2	VNG1949G	-	COG2905T	inosine-5'-monophosphate dehydrogenase
+1436310..1438067	-	585	15790829	sub	VNG1951G	-	COG1404O	subtilisin-like serine protease
+1438138..1438911	-	257	15790830	-	VNG1952H	-	COG3889R	hypothetical protein
+1438929..1443020	-	1363	15790831	-	VNG1953C	-	-	hypothetical protein
+1443227..1443508	-	93	15790832	-	VNG1954H	-	-	hypothetical protein
+1443507..1444004	+	165	15790833	-	VNG1956H	-	-	hypothetical protein
+1444126..1445883	-	585	15790834	tgtA2	VNG1957G	-	COG1549J	archaeosine tRNA-ribosyltransferase
+1445947..1447422	-	491	15790835	tgtA1	VNG1959G	-	COG0343J	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+1447469..1447639	-	56	15790836	-	VNG1960H	-	-	hypothetical protein
+1447671..1448213	-	180	15790837	-	VNG1962C	-	COG1051F	hypothetical protein
+1448212..1448781	+	189	15790838	-	VNG1963H	-	-	hypothetical protein
+1448260..1448799	-	179	16554506	-	VNG1964a	-	COG0645R	kinase
+1448861..1450033	-	390	15790839	-	VNG1964H	-	COG1474LO	hypothetical protein
+1450110..1451159	-	349	15790840	-	VNG1965H	-	-	hypothetical protein
+1451162..1452694	-	510	15790841	glpK	VNG1967G	-	COG0554C	hypothetical protein
+1452915..1454627	+	570	15790842	gpdA2	VNG1969G	-	COG0578C	glycerol-3-phosphate dehydrogenase chain A
+1454617..1455900	+	427	15790843	gpdB	VNG1971G	-	COG3075E	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+1455893..1457290	+	465	15790844	glpC	VNG1972G	-	COG0247C	glycerol-3-phosphate dehydrogenase chain C
+1457335..1457967	-	210	15790845	-	VNG1973H	-	-	hypothetical protein
+1458039..1458560	+	173	15790846	-	VNG1974H	-	COG3430S	hypothetical protein
+1458716..1458949	+	77	15790847	-	VNG1976H	-	-	hypothetical protein
+1459030..1459941	+	303	15790848	-	VNG1977H	-	COG2865K	hypothetical protein
+1459955..1460374	+	139	15790849	-	VNG1978H	-	-	hypothetical protein
+1461293..1461883	-	196	15790850	-	VNG1980C	-	COG1901S	hypothetical protein
+1461880..1463364	-	494	15790851	-	VNG1983H	-	-	hypothetical protein
+1463506..1464783	+	425	15790852	-	VNG1982C	-	COG1258J	pseudouridylate synthase
+1464785..1465423	+	212	15790853	rnhB	VNG1984G	-	COG0164L	ribonuclease HII
+1465420..1467030	-	536	15790854	-	VNG1985C	-	COG1757C	hypothetical protein
+1467161..1467913	+	250	15790855	-	VNG1986C	-	COG1637L	hypothetical protein
+1467921..1469450	-	509	15790856	secD	VNG1987G	-	COG0342U	preprotein translocase subunit SecD
+1469447..1470301	-	284	15790857	secF	VNG1988G	-	COG0341U	preprotein translocase subunit SecF
+1470434..1470907	-	157	15790858	-	VNG1989H	-	-	hypothetical protein
+1470955..1471497	-	180	15790859	-	VNG1991H	-	COG4395S	hypothetical protein
+1471603..1472883	+	426	15790860	pgi	VNG1992G	-	COG0166G	peroxidase / catalase
+1472892..1473941	+	349	15790861	-	VNG1993H	-	COG1266R	hypothetical protein
+1473943..1474272	-	109	15790862	-	VNG1994C	-	COG1439R	hypothetical protein
+1474404..1474643	-	79	15790863	-	VNG1995C	-	COG1873S	hypothetical protein
+1474858..1476660	+	600	15790864	infB	VNG1997G	-	COG0532J	translation initiation factor IF-2
+1476737..1477102	-	121	15790865	-	VNG1998H	-	-	hypothetical protein
+1477154..1477636	-	160	15790866	-	VNG1999H	-	COG1945S	hypothetical protein
+1477669..1478904	-	411	15790867	prrIV1	VNG2000G	-	COG1222O	proteasome-activating nucleotidase
+1479000..1480898	-	632	15790868	yjbG	VNG2001G	-	COG1164E	oligopeptidase
+1480897..1482222	+	441	15790869	-	VNG2002H	-	COG2234R	hypothetical protein
+1482219..1483019	-	266	15790870	truA	VNG2003G	-	COG0101J	tRNA pseudouridine synthase A
+1483024..1484322	-	432	15790871	hisS	VNG2005G	-	COG0124J	histidyl-tRNA synthetase
+1484374..1484964	-	196	15790872	-	VNG2006C	-	COG2117J	hypothetical protein
+1484968..1485321	-	117	15790873	-	VNG2008H	-	COG2118R	hypothetical protein
+1485424..1485879	-	151	15790874	rps19e	VNG2010G	-	COG2238J	30S ribosomal protein S19
+1486031..1486897	+	288	15790875	thiL	VNG2011G	-	COG0611H	hypothetical protein
+1486894..1488006	-	370	15790876	-	VNG2012C	-	COG0750M	hypothetical protein
+1488090..1488341	-	83	15790877	-	VNG2014H	-	-	hypothetical protein
+1488724..1489449	+	241	15790878	pyrH	VNG2015C	-	COG0528F	uridylate kinase
+1489454..1491100	+	548	15790879	lysS	VNG2017G	-	COG1384J	hypothetical protein
+1491180..1492982	+	600	15790880	-	VNG2019C	-	COG0750M	hypothetical protein
+1492979..1493509	-	176	15790881	-	VNG2020C	-	COG1695K	hypothetical protein
+1493620..1495098	+	492	15790882	-	VNG2021C	-	COG3253S	hypothetical protein
+1495368..1496426	-	352	15790883	gsp	VNG2023G	-	COG0667C	general stress protein 69
+1496425..1496691	+	88	15790884	-	VNG2024H	-	-	hypothetical protein
+1496766..1497680	+	304	15790885	yyaI	VNG2025G	-	COG0110R	acetyltransferase-like protein
+1497707..1497952	+	81	15790886	-	VNG2027H	-	-	hypothetical protein
+1498297..1498662	+	121	15790887	-	VNG2028H	-	-	hypothetical protein
+1498703..1499095	-	130	15790888	-	VNG2029H	-	-	hypothetical protein
+1499405..1500211	+	268	15790889	nadE	VNG2031G	-	COG0171H	NAD synthetase
+1500208..1500882	-	224	16554507	FAD1	VNG2032Gm	-	COG1024I	enoyl-CoA hydratase
+1500795..1501619	-	274	15790891	-	VNG2034H	-	-	hypothetical protein
+1501863..1502099	+	78	15790892	-	VNG2035H	-	-	hypothetical protein
+1502096..1502665	-	189	15790893	hlx1	VNG2036G	-	COG2204T	Hlx1
+1502692..1504212	-	506	15790894	-	VNG2037C	-	COG0642T	hypothetical protein
+1504536..1505333	+	265	15790895	-	VNG2039H	-	-	hypothetical protein
+1505291..1505692	-	133	15790896	-	VNG2041H	-	-	hypothetical protein
+1505691..1505888	+	65	15790897	-	VNG2042H	-	-	hypothetical protein
+1505903..1506457	-	184	15790898	ham1	VNG2043G	-	COG0127F	HAM1 protein
+1506498..1506779	-	93	15790899	-	VNG2044H	-	COG4194R	hypothetical protein
+1506828..1508426	-	532	161349976	gcp	VNG2045G	-	COG0533O	O-sialoglycoprotein endopeptidase/protein kinase
+1508435..1508569	-	44	15790901	rps27ae	VNG2047G	-	COG1998J	30S ribosomal protein S27
+1508571..1508879	-	102	15790902	rps24e	VNG2048G	-	COG2004J	30S ribosomal protein S24
+1508935..1509033	-	32	15790903	-	VNG2049C	-	-	hypothetical protein
+1509474..1509671	-	65	15790904	rpoE''	VNG2051G	-	COG2093K	DNA-directed RNA polymerase subunit E''
+1509672..1510244	-	190	15790905	rpoE'	VNG2053G	-	COG1095K	DNA-directed RNA polymerase subunit E'
+1510248..1510631	-	127	15790906	-	VNG2054H	-	COG1412R	hypothetical protein
+1510636..1511880	-	414	15790907	eif2g	VNG2056G	-	COG5257J	translation initiation factor IF-2 subunit gamma
+1512177..1512983	+	268	15790908	-	VNG2059H	-	-	hypothetical protein
+1512989..1513810	-	273	15790909	phnP	VNG2060G	-	COG1235R	ATP-binding protein
+1513807..1514916	-	369	15790910	atp	VNG2062G	-	COG0464O	ATPase AAA
+1515193..1516908	-	571	15790911	-	VNG2064H	-	COG4745O	hypothetical protein
+1516948..1518180	+	410	15790912	aca	VNG2063G	-	COG0183I	acetyl-CoA acetyltransferaseACA
+1518251..1519024	+	257	15790913	dgs	VNG2065G	-	COG1215M	dolichol-P-glucose transferase
+1519017..1519487	+	156	15790914	-	VNG2067H	-	COG2246S	hypothetical protein
+1519498..1521411	-	637	15790915	-	VNG2068C	-	COG0025P	hypothetical protein
+1521456..1523408	-	650	15790916	lfl2	VNG2071G	-	COG1022I	Lfl2
+1523420..1524328	-	302	15790917	-	VNG2073C	-	COG0491R	hypothetical protein
+1524446..1525828	+	460	161349975	serS	VNG2072G	-	COG0172J	seryl-tRNA synthetase
+1525893..1526222	-	109	15790919	-	VNG2074H	-	COG3631R	hypothetical protein
+1526221..1526802	+	193	15790920	-	VNG2075C	-	COG2042S	hypothetical protein
+1526849..1526992	+	47	15790921	rpl40e	VNG2076G	-	COG1552J	50S ribosomal protein L40
+1527060..1527386	-	108	15790922	mutT	VNG2079G	-	COG1051F	hypothetical protein
+1527488..1528024	-	178	15790923	hat2	VNG2078G	-	COG1670J	acetyltransferase
+1528082..1528699	-	205	15790924	-	VNG2080C	-	COG0491R	hypothetical protein
+1528776..1528961	+	61	15790925	-	VNG2081H	-	-	hypothetical protein
+1528958..1529506	+	182	16554508	-	VNG2081a	-	COG1628S	hypothetical protein
+1529534..1530145	+	203	15790926	polC	VNG2082G	-	COG1573L	DNA polymerase bacteriophage-type
+1530149..1531144	-	331	15790927	phnE	VNG2084G	-	COG3639P	transport protein
+1531141..1531983	-	280	15790928	phnC	VNG2085G	-	COG3638P	phosphonates transport ATP-binding protein
+1532071..1533033	-	320	15790929	hpb	VNG2086G	-	COG3221P	phosphate binding protein
+1533185..1533841	+	218	161349974	hisH	VNG2087G	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1534374..1535489	+	371	15790931	trm1	VNG2088G	-	COG1867J	N2,N2-dimethylguanosine tRNA methyltransferase
+1535505..1535945	+	146	15790932	-	VNG2089H	-	-	hypothetical protein
+1536131..1536769	+	212	15790933	-	VNG2091H	-	COG5283S	hypothetical protein
+1536751..1538115	-	454	15790934	glnA	VNG2093G	-	COG0174E	hypothetical protein
+1538241..1538705	+	154	15790935	trh4	VNG2094G	-	COG1522K	transcription regulator
+1538840..1540810	-	656	15790936	cctB	VNG2096G	-	COG0459O	thermosome subunit beta
+1540767..1541972	+	401	15790937	-	VNG2097C	-	COG2311S	hypothetical protein
+1542149..1542343	-	64	15790938	-	VNG2098H	-	-	hypothetical protein
+1542347..1542730	-	127	15790939	-	VNG2099C	-	COG0251J	hypothetical protein
+1542781..1544013	-	410	228915426	iluA	VNG2100G	-	COG1171E	threonine dehydratase
+1544296..1544730	+	144	15790941	-	VNG2101H	-	-	hypothetical protein
+1544781..1545911	-	376	15790942	citZ	VNG2102G	-	COG0372C	citrate synthase
+1546022..1547278	+	418	15790943	pchB	VNG2104G	-	COG3273S	potassium channel-like protein
+1547275..1547544	-	89	15790944	-	VNG2105H	-	-	hypothetical protein
+1547630..1548586	+	318	15790945	sdh	VNG2106G	-	COG3608R	succinate dehydrogenase subunit
+1548632..1549723	+	363	15790946	thrC3	VNG2108G	-	COG0498E	threonine synthase
+1549720..1549941	-	73	15790947	-	VNG2109H	-	-	hypothetical protein
+1550019..1551281	-	420	15790948	-	VNG2110C	-	COG1571R	hypothetical protein
+1551547..1552377	+	276	15790949	-	VNG2112C	-	COG1395K	hypothetical protein
+1552374..1553198	-	274	15790950	-	VNG2113C	-	COG0668M	hypothetical protein
+1553564..1553809	-	81	15790951	-	VNG2115H	-	COG0695O	hypothetical protein
+1553875..1555311	-	478	15790952	-	VNG2116C	-	COG2252R	hypothetical protein
+1555430..1556149	-	239	15790953	-	VNG2117C	-	COG0503F	adenine phosphoribosyltransferase
+1556228..1556755	-	175	15790954	pyrE2	VNG2118G	-	COG0461F	orotate phosphoribosyltransferase
+1556811..1557455	-	214	15790955	-	VNG2119C	-	COG0575I	hypothetical protein
+1557442..1558281	+	279	15790956	yusM	VNG2120G	-	COG0506E	proline dehydrogenase
+1558353..1558970	+	205	15790957	-	VNG2121C	-	COG2928S	hypothetical protein
+1559008..1559934	-	308	15790958	ilvE2	VNG2122G	-	COG0115EH	branched-chain amino acid aminotransferase
+1560066..1561541	+	491	15790959	nhaC2	VNG2123G	-	COG1757C	Na+/H+ antiporter
+1561543..1563291	-	582	15790960	-	VNG2124C	-	COG1757C	hypothetical protein
+1563368..1564036	-	222	16554509	ribB	VNG2125Gm	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+1564023..1564751	-	242	15790962	-	VNG2126C	-	COG1339KH	hypothetical protein
+1564788..1565765	-	325	15790963	-	VNG2128C	-	COG0731C	tRNA-modifying enzyme
+1565967..1566074	-	35	15790964	-	VNG2129H	-	-	hypothetical protein
+1566101..1567018	-	305	15790965	minD2	VNG2130G	-	COG0455D	hypothetical protein
+1567067..1568383	+	438	15790966	erf1	VNG2131G	-	COG1503J	peptide chain release factor eRF-1
+1568401..1569063	-	220	16554510	FER1	VNG2132Gm	-	COG0633C	ferredoxin
+1569140..1569532	-	130	15790968	-	VNG2133H	-	-	hypothetical protein
+1569547..1570221	-	224	15790969	atpD	VNG2135G	-	COG1394C	V-type ATP synthase subunit D
+1570278..1571132	-	284	15790970	blh	VNG2136G	-	-	Brp-like protein
+1571291..1571779	-	162	15790971	ggt	VNG2137G	-	-	geranylgeranyl-diphosphate geranylgeranyltransferase
+1572295..1573710	-	471	15790972	atpB	VNG2138G	-	COG1156C	V-type ATP synthase subunit B
+1573716..1575473	-	585	161349973	atpA	VNG2139G	-	COG1155C	V-type ATP synthase subunit A
+1575479..1575841	-	120	15790974	atpF	VNG2140G	-	COG1436C	V-type ATP synthase subunit F
+1575838..1576896	-	352	15790975	atpC	VNG2141G	-	COG1527C	V-type ATP synthase subunit C
+1576893..1577480	-	195	15790976	atpE	VNG2142G	-	COG1390C	V-type ATP synthase subunit E
+1577503..1577718	-	71	15790977	atpK	VNG2143G	-	-	H+-transporting ATP synthase subunit K
+1577784..1579952	-	722	15790978	atpI	VNG2144G	-	COG1269C	H+-transporting ATP synthase subunit I
+1579939..1580271	-	110	15790979	-	VNG2146H	-	COG2811C	hypothetical protein
+1580346..1581002	+	218	15790980	hmp	VNG2147G	-	COG2226H	Hmp
+1581505..1582740	-	411	15790981	-	VNG2148H	-	-	hypothetical protein
+1582844..1584007	+	387	15790982	-	VNG2149H	-	COG2512S	hypothetical protein
+1584077..1584877	+	266	15790983	etfB	VNG2150G	-	COG2086C	electron transfer flavoprotein subunit beta
+1584874..1585842	+	322	15790984	etfA	VNG2151G	-	COG2025C	electron transfer flavoprotein subunit alpha
+1585866..1586516	-	216	15790985	-	VNG2152C	-	COG1881R	hypothetical protein
+1586648..1587550	+	300	15790986	fps	VNG2153G	-	COG0142H	isopentenyl pyrophosphate isomerase
+1587552..1588637	-	361	15790987	-	VNG2154C	-	COG2237S	hypothetical protein
+1588750..1589757	+	335	15790988	-	VNG2155C	-	COG2108R	hypothetical protein
+1589811..1591382	-	523	15790989	-	VNG2156C	-	COG4745O	hypothetical protein
+1591620..1592105	+	161	15790990	-	VNG2157C	-	COG3269R	hypothetical protein
+1592154..1592939	+	261	15790991	oxrA	VNG2158G	-	COG1028IQR	oxidoreductase
+1592950..1593945	-	331	16554511	manC	VNG2159Gm	-	COG0836M	mannose-1-phosphate guanylyltransferase
+1593632..1595053	+	473	15790993	-	VNG2160C	-	COG1599L	hypothetical protein
+1595055..1595627	+	190	15790994	-	VNG2162C	-	COG3390S	hypothetical protein
+1595672..1596076	+	134	15790995	-	VNG2163H	-	-	hypothetical protein
+1596089..1596262	-	57	15790996	-	VNG2164C	-	COG1202R	hypothetical protein
+1596897..1597652	+	251	15790997	-	VNG2165H	-	-	hypothetical protein
+1597649..1598716	-	355	16554512	-	VNG2166Cm	-	COG3268S	hypothetical protein
+1598752..1601007	-	751	15790999	dbp	VNG2167G	-	COG1112L	DNA-binding protein -like
+1601058..1602230	-	390	15791000	-	VNG2168C	-	COG1994R	hypothetical protein
+1602287..1603492	-	401	15791001	adh1	VNG2171G	-	COG1454C	alcohol dehydrogenase
+1603520..1603987	+	155	15791002	-	VNG2170H	-	COG1917S	hypothetical protein
+1603994..1605088	-	364	15791003	-	VNG2172C	-	COG3173R	hypothetical protein
+1605490..1607268	+	592	15791004	rad24a	VNG2173G	-	COG1202R	DNA repair protein
+1607756..1607902	-	48	15791005	-	VNG2174H	-	-	hypothetical protein
+1608193..1609467	+	424	15791006	-	VNG2175H	-	COG3385L	hypothetical protein
+1609442..1609963	-	173	15791007	-	VNG2176H	-	-	hypothetical protein
+1609956..1610333	-	125	15791008	-	VNG2177H	-	-	hypothetical protein
+1610790..1611068	-	92	15791009	-	VNG2178H	-	-	hypothetical protein
+1611475..1611984	+	169	15791010	-	VNG2179H	-	COG3430S	hypothetical protein
+1611981..1613150	-	389	15791011	-	VNG2180C	-	COG0642T	hypothetical protein
+1613953..1616448	+	831	15791012	mcm	VNG2181G	-	COG1241L	MCM / cell division control protein 21
+1616518..1616856	+	112	15791013	-	VNG2182H	-	-	hypothetical protein
+1616853..1617650	+	265	15791014	-	VNG2183H	-	-	hypothetical protein
+1617647..1618510	-	287	15791015	tfbA	VNG2184G	-	COG1405K	transcription initiation factor IIB
+1618682..1619212	+	176	15791016	-	VNG2185H	-	-	hypothetical protein
+1619975..1620403	-	142	15791017	hit1	VNG2186G	-	COG0537FGR	Hit1
+1620447..1620665	-	72	15791018	-	VNG2187H	-	-	hypothetical protein
+1620746..1620976	+	76	15791019	-	VNG2189H	-	-	hypothetical protein
+1621029..1624241	+	1070	15791020	ileS	VNG2190G	-	COG0060J	isoleucyl-tRNA synthetase
+1624252..1624827	-	191	15791021	-	VNG2191H	-	-	hypothetical protein
+1624849..1626546	-	565	16554513	coxA1	VNG2193Gm	-	COG0843C	cytochrome c oxidase subunit I
+1626543..1626980	-	145	15791023	coxB2	VNG2195G	-	COG1622C	cytochrome c oxidase subunit II
+1627091..1627957	-	288	15791024	hcpB	VNG2196G	-	COG3794C	halocyanin-like protein
+1628164..1628355	+	63	15791025	-	VNG2197H	-	-	hypothetical protein
+1628491..1629180	+	229	15791026	-	VNG2199H	-	COG2836S	hypothetical protein
+1629182..1631587	+	801	15791027	cpx	VNG2201G	-	COG2217P	heavy-metal transporting CPx-type ATPase
+1631923..1632243	+	106	15791028	-	VNG2202H	-	-	hypothetical protein
+1632254..1633099	-	281	15791029	prsA	VNG2203G	-	COG0462FE	hypothetical protein
+1633922..1634779	-	285	15791030	-	VNG2204H	-	-	hypothetical protein
+1634861..1635313	+	150	15791031	-	VNG2205H	-	-	hypothetical protein
+1635310..1636677	+	455	15791032	pmu1	VNG2206G	-	COG1109G	phosphomannomutase
+1636674..1637807	-	377	15791033	-	VNG2207H	-	-	hypothetical protein
+1637859..1639400	-	513	15791034	trpS1	VNG2208G	-	COG0180J	tryptophanyl-tRNA synthetase
+1639397..1640428	-	343	15791035	endA	VNG2210G	-	COG1676J	tRNA splicing endonuclease
+1640451..1641179	-	242	15791036	-	VNG2211H	-	COG1637L	hypothetical protein
+1641218..1643557	-	779	15791037	brr2	VNG2213G	-	COG1204R	pre-mRNA splicing helicase
+1643594..1645003	-	469	15791038	dinF	VNG2214G	-	COG0534V	DNA damage-inducible protein
+1645123..1646058	+	311	15791039	lip	VNG2216G	-	COG0320H	lipoyl synthase
+1646140..1647399	+	419	15791040	pdhA2	VNG2217G	-	COG1071C	pyruvate dehydrogenase alpha subunit
+1647485..1648378	+	297	15791041	pdhB	VNG2218G	-	COG0022C	hypothetical protein
+1648380..1649816	+	478	15791042	dsa	VNG2219G	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+1649819..1651243	+	474	15791043	lpdA	VNG2220G	-	COG1249C	LpdA
+1651293..1652105	+	270	15791044	pheA	VNG2222G	-	COG0077E	hypothetical protein
+1652109..1654766	-	885	15791045	leuS	VNG2223G	-	COG0495J	leucyl-tRNA synthetase
+1654897..1655772	-	291	15791046	ocd1	VNG2224G	-	COG2423E	ornithine cyclodeaminase
+1656061..1657806	-	581	15791047	cctA	VNG2226G	-	COG0459O	thermosome subunit alpha
+1657929..1658480	-	183	15791048	-	VNG2227C	-	COG0415L	RNA-processing protein
+1658526..1659356	-	276	15791049	-	VNG2230H	-	COG3211R	hypothetical protein
+1659394..1660737	-	447	15791050	-	VNG2231C	-	COG2270R	hypothetical protein
+1660818..1661960	-	380	15791051	trpS2	VNG2232G	-	COG0180J	tryptophanyl-tRNA synthetase
+1662177..1662872	-	231	15791052	-	VNG2233C	-	COG1718TD	hypothetical protein
+1663129..1663416	-	95	15791053	eif1a1	VNG2234G	-	COG0361J	translation initiation factor IF-1A
+1663560..1663694	+	44	15791054	-	VNG2236H	-	-	hypothetical protein
+1663836..1664819	-	327	15791055	tyrS	VNG2237G	-	COG0162J	tyrosyl-tRNA synthetase
+1664886..1666880	-	664	15791056	-	VNG2238C	-	COG2433S	hypothetical protein
+1666899..1667825	-	308	15791057	-	VNG2239C	-	COG1234R	hypothetical protein
+1667940..1668944	+	334	15791058	rfcC	VNG2240G	-	COG0470L	replication factor C small subunit 2
+1668976..1669326	+	116	15791059	-	VNG2241H	-	-	hypothetical protein
+1669327..1669812	-	161	15791060	-	VNG2242C	-	COG1041L	hypothetical protein
+1670410..1670970	+	186	15791061	tbpE	VNG2243G	-	COG2101K	transcription factor
+1670977..1671342	+	121	15791062	-	VNG2244H	-	-	hypothetical protein
+1671383..1671772	+	129	15791063	-	VNG2246H	-	-	hypothetical protein
+1671775..1672623	-	282	15791064	hisG	VNG2247G	-	COG0040E	ATP phosphoribosyltransferase
+1672712..1673287	+	191	15791065	-	VNG2248H	-	-	hypothetical protein
+1673284..1674579	+	431	15791066	trzA	VNG2249G	-	COG0402FR	N-ethylammeline chlorohydrolase
+1674660..1675943	+	427	15791067	achY	VNG2251G	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+1676048..1676473	+	141	15791068	hjr	VNG2252G	-	COG1591L	Hjr
+1676537..1676740	+	67	15791069	-	VNG2253H	-	-	hypothetical protein
+1676737..1677819	-	360	15791070	-	VNG2254C	-	COG2219L	DNA primase large subunit
+1677818..1678495	+	225	15791071	-	VNG2255C	-	COG0688I	phosphatidylserine decarboxylase
+1678565..1679308	-	247	15791072	pcn	VNG2256G	-	COG0592L	DNA polymerase sliding clamp
+1679387..1680421	-	344	15791073	nce	VNG2257G	-	COG0530P	Na+/Ca2+-exchanging protein
+1680625..1682103	+	492	15791074	-	VNG2259C	-	COG1892S	phosphoenolpyruvate carboxylase
+1682108..1682893	-	261	15791075	-	VNG2260H	-	-	hypothetical protein
+1682974..1683393	+	139	15791076	-	VNG2262H	-	-	hypothetical protein
+1684061..1684840	+	259	15791077	ftsJ	VNG2263G	-	COG0293J	hypothetical protein
+1684849..1685562	-	237	15791078	-	VNG2264C	-	COG1738S	hypothetical protein
+1685552..1685743	-	63	15791079	-	VNG2268H	-	COG3609K	hypothetical protein
+1685806..1687980	-	724	15791080	tatC2	VNG2267G	-	COG0805U	protein export
+1688071..1689105	+	344	15791081	tatC1	VNG2269G	-	COG0805U	protein export
+1689152..1691161	+	669	15791082	mutS3	VNG2270G	-	COG1193L	hypothetical protein
+1691265..1692389	+	374	15791083	cdc6	VNG2271G	-	COG1474LO	cell division control protein 6
+1692434..1693111	+	225	15791084	rpi	VNG2272G	-	COG0120G	ribose-5-phosphate isomerase A
+1693173..1693340	-	55	15791085	-	VNG2273H	-	-	hypothetical protein
+1693780..1694013	+	77	15791086	-	VNG2274C	-	COG2827L	hypothetical protein
+1694075..1695448	+	457	15791087	pmm	VNG2276G	-	COG1109G	phosphoglucomutase/phospho-mannomutase
+1695463..1695795	-	110	15791088	-	VNG2277H	-	COG3153R	hypothetical protein
+1695860..1696384	-	174	15791089	-	VNG2279H	-	COG2104H	hypothetical protein
+1696383..1697351	+	322	15791090	rfc	VNG2280G	-	COG0470L	replication factor C small subunit
+1697360..1698343	-	327	15791091	-	VNG2281C	-	COG0435O	hypothetical protein
+1698333..1699142	+	269	15791092	-	VNG2282C	-	COG1651O	hypothetical protein
+1699204..1701993	+	929	15791093	alaS	VNG2283G	-	COG0013J	alanyl-tRNA synthetase
+1702009..1702398	-	129	15791094	hisI	VNG2284G	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+1702444..1703100	-	218	15791095	-	VNG2285C	-	COG1989NOU	hypothetical protein
+1703613..1704062	+	149	15791096	mamA	VNG2286G	-	COG2185I	methylaspartate mutase subunit S
+1704069..1705499	+	476	15791097	mamB	VNG2288G	-	COG4865E	methylaspartate mutase
+1705499..1706755	+	418	15791098	mal	VNG2289G	-	COG3799E	methylaspartate ammonia-lyase
+1706814..1707440	+	208	15791099	maoC1	VNG2290G	-	COG2030I	monoamine oxidase regulatory-like
+1707437..1708912	+	491	15791100	cat	VNG2291G	-	COG0427C	4-hydroxybutyrate CoA transferase
+1708941..1710236	-	431	15791101	-	VNG2292H	-	-	hypothetical protein
+1710444..1710833	-	129	15791102	fer2	VNG2293G	-	COG0633C	ferredoxin
+1710976..1711704	+	242	15791103	hisA	VNG2294G	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1711756..1712346	+	196	15791104	hisB	VNG2295G	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+1712375..1712872	-	165	15791105	-	VNG2297H	-	-	hypothetical protein
+1713014..1713502	+	162	15791106	-	VNG2296C	-	COG2150R	hypothetical protein
+1713499..1714152	-	217	15791107	-	VNG2298H	-	-	hypothetical protein
+1713943..1714563	+	206	16554514	-	VNG2298a	-	COG1739S	hypothetical protein
+1714614..1714823	+	69	15791108	-	VNG2299H	-	-	hypothetical protein
+1714837..1715721	+	294	15791109	txrB3	VNG2301G	-	COG0492O	thioredoxin reductase
+1715785..1717809	+	674	15791110	yuxL	VNG2302G	-	COG1506E	acylaminoacyl peptidase
+1717821..1718060	-	79	15791111	-	VNG2304H	-	-	hypothetical protein
+1718107..1718790	-	227	15791112	upp	VNG2305C	-	COG0035F	uracil phosphoribosyltransferase
+1718884..1719567	+	227	15791113	-	VNG2306H	-	-	hypothetical protein
+1719630..1720811	+	393	15791114	-	VNG2307C	-	COG0306P	hypothetical protein
+1720826..1722199	-	457	15791115	hlp	VNG2308G	-	COG1253R	Hlp
+1722306..1722596	+	96	15791116	-	VNG2310H	-	COG0695O	hypothetical protein
+1722596..1723111	+	171	15791117	-	VNG2311H	-	COG1225O	hypothetical protein
+1723198..1723794	+	198	15791118	-	VNG2312C	-	COG0009J	hypothetical protein
+1724502..1725077	-	191	15791119	-	VNG2313H	-	-	hypothetical protein
+1725128..1725775	-	215	15791120	-	VNG2314H	-	-	hypothetical protein
+1725842..1726606	-	254	15791121	-	VNG2315H	-	-	hypothetical protein
+1726551..1727159	+	202	15791122	-	VNG2316C	-	COG1268R	hypothetical protein
+1727159..1727857	+	232	15791123	cbiO1	VNG2317G	-	COG1122P	cobalt transport ATP-binding protein
+1728729..1730762	+	677	15791124	hdrD	VNG2320G	-	COG0247C	heterodisulfide reductase
+1730838..1731404	-	188	15791125	ydaJ	VNG2321G	-	COG1670J	acetyltransferase
+1731824..1732804	+	326	15791126	hem2	VNG2322G	-	COG0113H	delta-aminolevulinic acid dehydratase
+1732811..1733473	+	220	15791127	-	VNG2323H	-	-	hypothetical protein
+1733850..1734221	+	123	15791128	-	VNG2324H	-	COG1266R	hypothetical protein
+1734261..1735598	+	445	15791129	hemL	VNG2326G	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+1735647..1736165	+	172	15791130	-	VNG2328H	-	COG1296E	hypothetical protein
+1736162..1736689	+	175	15791131	-	VNG2329C	-	-	hypothetical protein
+1736746..1737936	+	396	15791132	hem3	VNG2330G	-	COG0181H	porphobilinogen deaminase
+1737938..1738678	+	246	15791133	uroM	VNG2331G	-	COG0007H	S-adenosyl-L-methionine:uroporphyrinogen III methyltransferase
+1738675..1739391	+	238	161349972	hemD	VNG2332G	-	COG1587H	uroporphyrinogen-III synthase
+1739430..1740857	+	475	15791135	-	VNG2333C	-	COG0608L	hypothetical protein
+1740866..1744771	-	1301	15791136	-	VNG2334C	-	COG0642T	hypothetical protein
+1744977..1745762	+	261	15791137	-	VNG2335H	-	-	hypothetical protein
+1745788..1746138	+	116	15791138	-	VNG2337C	-	COG0694O	hypothetical protein
+1746166..1750278	-	1370	15791139	polA2	VNG2338G	-	COG1933L	DNA polymerase II large subunit
+1750278..1750697	-	139	15791140	-	VNG2339C	-	COG1661R	hypothetical protein
+1750823..1751614	+	263	15791141	-	VNG2340H	-	-	hypothetical protein
+1751629..1751850	-	73	15791142	-	VNG2341H	-	-	hypothetical protein
+1751873..1752277	-	134	15791143	-	VNG2342H	-	-	hypothetical protein
+1752286..1753623	-	445	15791144	ykfD	VNG2343G	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+1753620..1754711	-	363	15791145	oppD2	VNG2344G	-	COG0444EP	oligopeptide ABC transporter
+1754712..1756292	-	526	15791146	dppC2	VNG2346G	-	COG1173EP	hypothetical protein
+1756297..1757388	-	363	15791147	dppB1	VNG2347G	-	COG0601EP	dipeptide ABC transporter permease
+1757520..1759496	-	658	15791148	dppA	VNG2349G	-	COG0747E	hypothetical protein
+1759702..1760559	+	285	15791149	-	VNG2351C	-	COG2524K	hypothetical protein
+1760552..1762282	+	576	15791150	glyS	VNG2352G	-	COG0423J	glycyl-tRNA synthetase
+1762507..1762836	+	109	15791151	-	VNG2353H	-	COG0170I	hypothetical protein
+1762885..1765239	+	784	15791152	eif4a	VNG2356G	-	COG1111L	Hef nuclease
+1765447..1767408	+	653	15791153	appA	VNG2358G	-	COG0747E	oligopeptide binding protein
+1767435..1768415	+	326	15791154	appB	VNG2359G	-	COG0601EP	oligopeptide ABC permease
+1768417..1769577	+	386	15791155	appC	VNG2361G	-	COG1173EP	oligopeptide transport permease
+1769595..1770602	+	335	16554515	oppD1	VNG2363Gm	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+1770599..1771921	+	440	15791157	appF	VNG2365G	-	COG1123R	oligopeptide ABC transporter ATP-binding protein
+1771918..1772466	-	182	15791158	-	VNG2366C	-	COG1645R	hypothetical protein
+1772642..1773556	+	304	15791159	mdhA	VNG2367G	-	COG0039C	malate dehydrogenase
+1773582..1773830	-	82	15791160	-	VNG2370C	-	COG1141C	hypothetical protein
+1773915..1776266	+	783	15791161	rad24b	VNG2368G	-	COG1204R	ski2-like helicase
+1776263..1776760	+	165	297616199	-	VNG2369C	-	COG1617S	hypothetical protein
+1777089..1777673	+	194	15791163	-	VNG2371C	-	COG3363F	IMP cyclohydrolase
+1777719..1778402	+	227	15791164	rad24c	VNG2372G	-	COG0622R	DNA repair protein
+1778408..1779871	-	487	15791165	tnaA	VNG2373G	-	COG3033E	tryptophanase
+1779843..1781027	-	394	16554516	lysC	VNG2374Gm	-	COG0527E	aspartate kinase
+1781166..1781561	+	131	15791167	-	VNG2376H	-	-	hypothetical protein
+1781563..1782360	-	265	15791168	nosY	VNG2377G	-	COG1277R	hypothetical protein
+1782357..1783271	-	304	15791169	nosF1	VNG2378G	-	COG1131V	copper transport ATP-binding protein
+1783339..1783593	-	84	15791170	-	VNG2379H	-	-	hypothetical protein
+1783654..1784313	-	219	15791171	-	VNG2380H	-	-	hypothetical protein
+1784408..1786180	+	590	15791172	uvrC	VNG2381G	-	COG0322L	excinuclease ABC subunit C
+1786190..1787185	-	331	15791173	nrdA	VNG2383G	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1787185..1789599	-	804	15791174	nrdB1	VNG2384G	-	COG0209F	ribonucleotide-diphosphate reductase alpha subunit
+1789808..1789984	+	58	15791175	-	VNG2385H	-	-	hypothetical protein
+1789985..1790326	-	113	15791176	-	VNG2386C	-	COG0589T	hypothetical protein
+1790325..1791011	+	228	15791177	-	VNG2387H	-	-	hypothetical protein
+1791684..1793753	-	689	15791178	uvrB	VNG2390G	-	COG0556L	excinuclease ABC subunit B
+1793801..1794433	-	210	15791179	-	VNG2392H	-	-	hypothetical protein
+1794527..1795408	-	293	15791180	tssA	VNG2393G	-	COG2897P	thiosulfate sulfurtransferase
+1795504..1796277	+	257	15791181	tssB	VNG2394G	-	COG2897P	thiosulfate sulfurtransferase
+1796340..1797398	+	352	15791182	-	VNG2395C	-	COG4143H	hypothetical protein
+1797395..1799215	+	606	15791183	cysT1	VNG2396G	-	COG1178P	sulfate transport system permease
+1799212..1800243	+	343	15791184	cysA	VNG2397G	-	COG3842E	hypothetical protein
+1800247..1800969	-	240	15791185	scm	VNG2398G	-	COG2226H	24-sterol C-methyltransferase
+1800999..1801430	+	143	15791186	-	VNG2399H	-	COG4711S	hypothetical protein
+1801477..1802088	+	203	15791187	-	VNG2400H	-	COG2874NU	hypothetical protein
+1802096..1802881	-	261	15791188	-	VNG2403H	-	-	hypothetical protein
+1802881..1802985	-	34	15791189	-	VNG2402H	-	-	hypothetical protein
+1803013..1804554	-	513	15791190	dip1	VNG2404G	-	COG0534V	DNA damage-inducible protein
+1804702..1805370	-	222	15791191	-	VNG2406C	-	COG3364R	hypothetical protein
+1805370..1805693	-	107	15791192	-	VNG2408C	-	COG3365S	hypothetical protein
+1805775..1806443	-	222	15791193	gbp3	VNG2410G	-	COG1100R	GTP-binding protein
+1807230..1808786	+	518	15791194	orc7	VNG2411G	-	COG1474LO	orc / cell division control protein 6
+1808793..1809071	-	92	15791195	-	VNG2412H	-	-	hypothetical protein
+1809086..1809604	-	172	15791196	-	VNG2413H	-	COG2259S	hypothetical protein
+1809646..1810137	+	163	15791197	-	VNG2414H	-	COG1414K	hypothetical protein
+1810134..1810406	+	90	15791198	-	VNG2415H	-	-	hypothetical protein
+1810411..1811130	-	239	15791199	sec11	VNG2416G	-	COG0681U	signal sequence peptidase
+1811590..1812768	+	392	15791200	polA1	VNG2417G	-	COG1311L	DNA polymerase II small subunit
+1812830..1814005	+	391	15791201	aspC1	VNG2418G	-	COG0075E	aspartate aminotransferase
+1814015..1815178	-	387	15791202	-	VNG2419C	-	COG2271G	hypothetical protein
+1815268..1816473	+	401	15791203	metA	VNG2420G	-	COG2021E	homoserine O-acetyltransferase
+1816543..1817838	+	431	15791204	hal	VNG2421G	-	COG2873E	O-acetyl homoserine
+1817907..1820945	+	1012	15791205	glcD	VNG2422G	-	COG0277C	hypothetical protein
+1820955..1821662	-	235	15791206	serB	VNG2423G	-	COG0560E	hypothetical protein
+1821747..1823330	+	527	15791207	serA1	VNG2424G	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+1823392..1823835	+	147	15791208	act	VNG2426G	-	COG1607I	acyl-CoA thioester hydrolase
+1824017..1825078	+	353	15791209	dld	VNG2429G	-	COG2814G	D-lactate dehydrogenase
+1825082..1826329	-	415	15791210	thrC1	VNG2430G	-	COG0498E	threonine synthase
+1826400..1826666	-	88	15791211	-	VNG2431C	-	-	hypothetical protein
+1826736..1827050	-	104	15791212	-	VNG2432C	-	COG0393S	hypothetical protein
+1827120..1827608	-	162	15791213	-	VNG2433H	-	-	hypothetical protein
+1827624..1829081	-	485	15791214	argH	VNG2436G	-	COG0165E	argininosuccinate lyase
+1829078..1830268	-	396	15791215	argG	VNG2437G	-	COG0137E	argininosuccinate synthase
+1830494..1830991	-	165	15791216	-	VNG2439H	-	-	hypothetical protein
+1831119..1831307	+	62	15791217	-	VNG2440H	-	-	hypothetical protein
+1831314..1833512	-	732	15791218	rad3b	VNG2441G	-	COG1199KL	helicase
+1833667..1833810	+	47	15791219	-	VNG2442H	-	-	hypothetical protein
+1833843..1834391	-	182	15791220	dpsA	VNG2443G	-	COG0783P	starvation induced DNA-binding protein
+1834499..1835107	+	202	15791221	-	VNG2444C	-	COG0622R	hypothetical protein
+1835158..1835790	-	210	15791222	-	VNG2445C	-	COG1777K	hypothetical protein
+1835869..1836027	+	52	15791223	-	VNG2446H	-	-	hypothetical protein
+1836024..1837097	-	357	15791224	lta	VNG2447G	-	COG2008E	threonine aldolase
+1837127..1838236	+	369	15791225	pepB2	VNG2449G	-	COG2309E	aminopeptidase
+1838406..1838513	+	35	15791226	-	VNG2451H	-	-	hypothetical protein
+1838756..1839328	+	190	15791227	-	VNG2452C	-	COG0237H	hypothetical protein
+1839321..1839737	+	138	15791228	-	VNG2454C	-	COG1931S	hypothetical protein
+1839744..1840484	-	246	15791229	-	VNG2455C	-	COG3366S	hypothetical protein
+1840774..1841331	-	185	16554517	-	VNG2456Cm	-	COG1824P	ABC transporter permease
+1841332..1841904	-	190	15791231	-	VNG2458C	-	COG1824P	hypothetical protein
+1841954..1843336	-	460	15791232	srp54	VNG2459G	-	COG0541U	signal recognition particle
+1843458..1843886	+	142	15791233	-	VNG2461H	-	-	hypothetical protein
+1843883..1845004	-	373	15791234	dpa	VNG2462G	-	COG0552U	signal recognition particle receptor
+1845012..1845476	-	154	15791235	-	VNG2465C	-	COG1730O	hypothetical protein
+1845619..1846281	-	220	16554518	EIF6	VNG2466a	-	COG1976J	translation initiation factor IF-6
+1846287..1846565	-	92	15791237	rpl31e	VNG2467G	-	COG2097J	50S ribosomal protein L31
+1846565..1846717	-	50	15791238	rpl39e	VNG2469G	-	COG2167J	50S ribosomal protein L39
+1846853..1847644	+	263	15791239	-	VNG2468C	-	COG3063NU	hypothetical protein
+1847641..1847949	+	102	15791240	-	VNG2470C	-	COG2412S	hypothetical protein
+1848020..1849267	+	415	15791241	nifS	VNG2471G	-	COG0520E	hypothetical protein
+1849321..1849749	+	142	15791242	nifU	VNG2472G	-	COG0822C	hypothetical protein
+1849762..1850922	-	386	15791243	radA	VNG2473G	-	COG0468L	DNA repair and recombination protein RadA
+1850921..1852024	+	367	15791244	-	VNG2474C	-	COG1499J	hypothetical protein
+1852017..1853057	+	346	15791245	-	VNG2475C	-	COG2520R	hypothetical protein
+1853446..1855077	-	543	15791246	-	VNG2476C	-	COG1199KL	hypothetical protein
+1855271..1855378	-	35	15791247	-	VNG2477H	-	-	hypothetical protein
+1855514..1856632	-	372	16554519	-	VNG2480Hm	-	COG0704P	hypothetical protein
+1856718..1857755	-	345	15791249	pstB1	VNG2482G	-	COG1117P	phosphate ABC transporter ATP-binding protein
+1857748..1859352	-	534	15791250	pstA1	VNG2483G	-	COG0581P	phosphate ABC transporter permease
+1859352..1860467	-	371	15791251	pstC1	VNG2484G	-	COG0573P	phosphate transporter permease
+1860511..1861650	-	379	15791252	yqgG	VNG2486G	-	COG0226P	phosphate ABC transporter binding protein
+1861805..1862707	+	300	15791253	-	VNG2488C	-	COG0702MG	hypothetical protein
+1862700..1863449	+	249	15791254	-	VNG2490H	-	-	hypothetical protein
+1864085..1864888	+	267	15791255	-	VNG2493C	-	COG0613R	hypothetical protein
+1864885..1865133	-	82	15791256	-	VNG2495H	-	-	hypothetical protein
+1865117..1865437	-	106	15791257	ferB	VNG2496G	-	COG1143C	ferredoxin
+1865502..1865996	+	164	15791258	-	VNG2497H	-	COG3837S	hypothetical protein
+1866003..1866383	+	126	15791259	-	VNG2498H	-	-	hypothetical protein
+1866390..1867403	-	337	15791260	gcdH	VNG2499G	-	COG1960I	glutaryl-CoA dehydrogenase
+1867590..1868285	-	231	15791261	-	VNG2501C	-	COG0518F	hypothetical protein
+1868371..1869552	+	393	15791262	-	VNG2502C	-	COG1078R	hypothetical protein
+1869757..1871265	+	502	15791263	pheS	VNG2504G	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1871265..1872968	+	567	15791264	pheT	VNG2505G	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1872969..1874018	-	349	15791265	pyrD	VNG2507G	-	COG0167F	dihydroorotate dehydrogenase 2
+1874236..1874547	+	103	15791266	-	VNG2508C	-	-	hypothetical protein
+1881134..1881790	+	218	15791267	-	VNG2509H	-	-	hypothetical protein
+1881839..1882036	+	65	15791268	-	VNG2510H	-	-	hypothetical protein
+1882189..1882320	-	43	15791269	-	VNG2511H	-	-	hypothetical protein
+1882378..1883610	-	410	15791270	epf1	VNG2512G	-	COG1236J	mRNA 3'-end processing factor-like protein
+1883735..1885204	+	489	15791271	aldY1	VNG2513G	-	COG1012C	AldY1
+1885376..1885771	+	131	15791272	rps6e	VNG2514G	-	COG2125J	30S ribosomal protein S6
+1886025..1886285	+	86	15791273	-	VNG2515H	-	-	hypothetical protein
+1886292..1887203	+	303	15791274	-	VNG2516C	-	COG0524G	hypothetical protein
+1887200..1888003	-	267	15791275	-	VNG2518C	-	COG0434R	hypothetical protein
+1888045..1889127	-	360	15791276	-	VNG2519H	-	COG2404R	hypothetical protein
+1889187..1889660	-	157	15791277	-	VNG2520C	-	COG0589T	hypothetical protein
+1889712..1890155	+	147	15791278	-	VNG2521H	-	COG0589T	hypothetical protein
+1890170..1890721	-	183	15791279	-	VNG2522C	-	COG0456R	hypothetical protein
+1890711..1891115	-	134	15791280	-	VNG2523H	-	COG0589T	hypothetical protein
+1891191..1891811	+	206	15791281	-	VNG2524H	-	-	hypothetical protein
+1891808..1892323	-	171	15791282	-	VNG2525H	-	-	hypothetical protein
+1892426..1895257	+	943	15791283	dppF	VNG2526G	-	COG4608E	hypothetical protein
+1895306..1897006	+	566	15791284	dppD	VNG2527G	-	COG0747E	hypothetical protein
+1897064..1898107	+	347	15791285	dppB2	VNG2529G	-	COG0601EP	hypothetical protein
+1898114..1899061	+	315	15791286	dppC1	VNG2531G	-	COG1173EP	dipeptide ABC transporter permease
+1899063..1899422	+	119	15791287	-	VNG2532H	-	-	hypothetical protein
+1899427..1900695	-	422	15791288	pyrC	VNG2533G	-	COG0044F	dihydroorotase
+1900720..1901403	-	227	15791289	-	VNG2536C	-	COG0095H	hypothetical protein
+1901458..1902318	+	286	15791290	-	VNG2534C	-	-	hypothetical protein
+1902361..1902801	+	146	15791291	-	VNG2535H	-	COG3431S	hypothetical protein
+1902806..1903378	-	190	15791292	entB	VNG2537G	-	COG1335Q	isochorismatase
+1903499..1905028	+	509	15791293	-	VNG2539H	-	-	hypothetical protein
+1905159..1906304	+	381	16554520	pncB	VNG2541Cm	-	COG1488H	nicotinate phosphoribosyltransferase
+1906294..1906926	-	210	15791295	-	VNG2543C	-	COG2078S	hypothetical protein
+1906993..1907088	-	31	15791296	-	VNG2544H	-	-	hypothetical protein
+1907681..1908784	-	367	15791297	pepB3	VNG2546G	-	COG2309E	aminopeptidase
+1908841..1911486	-	881	15791298	valS	VNG2547G	-	COG0525J	valyl-tRNA synthetase
+1911770..1912900	+	376	15791299	-	VNG2549C	-	COG0614P	hypothetical protein
+1912908..1914029	+	373	15791300	fhuG	VNG2551G	-	COG0609P	FhuG
+1914032..1914853	+	273	15791301	yfmF	VNG2552G	-	COG1120PH	ferrichrome ABC transporter ATP-binding protein
+1915106..1916023	+	305	15791302	yqeC	VNG2553G	-	COG1023G	6-phosphogluconate dehydrogenase
+1916020..1916601	-	193	15791303	-	VNG2554H	-	COG4977K	hypothetical protein
+1916695..1917273	+	192	15791304	-	VNG2555C	-	COG0633C	hypothetical protein
+1917494..1917904	-	136	15791305	-	VNG2556H	-	-	hypothetical protein
+1918048..1918968	-	306	15791306	fepC	VNG2558G	-	COG1120PH	hypothetical protein
+1918972..1920051	-	359	15791307	yfmD2	VNG2560G	-	COG0609P	ferrichrome ABC transporter permease
+1920058..1921212	-	384	15791308	-	VNG2562H	-	COG0614P	hypothetical protein
+1921302..1922165	-	287	15791309	-	VNG2563H	-	-	hypothetical protein
+1922429..1923976	+	515	15791310	trkH3	VNG2565G	-	COG0168P	TRK potassium uptake system protein
+1924311..1926428	+	705	15791311	-	VNG2566H	-	-	hypothetical protein
+1926895..1927356	-	153	15791312	-	VNG2567C	-	COG3354N	hypothetical protein
+1927515..1928057	+	180	15791313	-	VNG2569H	-	-	hypothetical protein
+1928058..1928555	-	165	15791314	dcd	VNG2570G	-	COG0717F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1928690..1930267	+	525	15791315	hly	VNG2573G	-	COG1404O	Hly
+1930439..1932424	+	661	15791316	can	VNG2574G	-	COG1048C	aconitate hydratase
+1932464..1933003	+	179	15791317	rimI	VNG2575G	-	COG0456R	Pab N-terminal acetyltransferase
+1933026..1933385	+	119	15791318	-	VNG2576H	-	-	hypothetical protein
+1933410..1933832	+	140	15791319	-	VNG2577C	-	-	hypothetical protein
+1933811..1934248	-	145	15791320	idr1	VNG2579G	-	COG1321K	iron-dependent repressor-like protein
+1934329..1934907	+	192	15791321	-	VNG2580C	-	-	hypothetical protein
+1935013..1935207	+	64	15791322	-	VNG2581H	-	COG2608P	hypothetical protein
+1935261..1935623	+	120	15791323	-	VNG2582H	-	COG0607P	hypothetical protein
+1935688..1935981	-	97	15791324	-	VNG2584C	-	COG0023J	translation initiation factor Sui1
+1936134..1936334	+	66	15791325	-	VNG2585H	-	-	hypothetical protein
+1936344..1937105	-	253	15791326	-	VNG2586C	-	COG1478S	F420-0--gamma-glutamyl ligase
+1937298..1937918	-	206	15791327	-	VNG2587C	-	COG0218R	GTP-binding protein
+1938030..1938773	+	247	15791328	-	VNG2589C	-	COG2968S	hypothetical protein
+1939254..1940129	+	291	15791329	-	VNG2591C	-	COG1808S	hypothetical protein
+1940155..1940475	+	106	15791330	-	VNG2593H	-	-	hypothetical protein
+1940522..1941505	-	327	15791331	gbp4	VNG2595G	-	COG1084R	GTP-binding protein
+1941587..1941940	+	117	15791332	-	VNG2594C	-	-	hypothetical protein
+1942002..1942289	-	95	15791333	hisI	VNG2596G	-	COG0140E	hypothetical protein
+1942282..1942740	-	152	15791334	-	VNG2597C	-	COG1259S	hypothetical protein
+1942737..1943348	-	203	15791335	hisH1	VNG2598G	-	COG0311H	glutamine amidotransferase subunit PdxT
+1943386..1943547	-	53	15791336	-	VNG2599H	-	COG4023U	preprotein translocase subunit SecG
+1943660..1943929	+	89	15791337	trxA2	VNG2600G	-	COG3118O	hypothetical protein
+1944035..1945891	+	618	15791338	arsB	VNG2602G	-	COG0471P	hypothetical protein
+1945888..1946232	-	114	15791339	-	VNG2603H	-	-	hypothetical protein
+1946319..1947251	+	310	16554521	THI1	VNG2604Gm	-	COG1635H	ribulose-1,5-biphosphate synthetase
+1947251..1948588	+	445	15791341	thiD	VNG2606G	-	COG0351H	hypothetical protein
+1948559..1949227	-	222	15791342	-	VNG2607C	-	COG2085R	hypothetical protein
+1949316..1950188	-	290	15791343	-	VNG2608C	-	COG0546R	hypothetical protein
+1950221..1950610	-	129	16554522	-	VNG2608a	-	COG1255S	hypothetical protein
+1950650..1951171	+	173	15791344	-	VNG2610C	-	COG1913R	archaemetzincin-like protein
+1951188..1952477	-	429	15791345	hflX1	VNG2611G	-	COG2262R	GTP-binding protein
+1952690..1954522	-	610	15791346	rli	VNG2612G	-	COG1245R	ATPase RIL
+1954525..1954824	-	99	15791347	-	VNG2613H	-	-	hypothetical protein
+1954955..1955227	+	90	15791348	-	VNG2614H	-	COG3711K	hypothetical protein
+1955274..1957133	-	619	15791349	-	VNG2615C	-	COG1855R	ATPase
+1957549..1959057	+	502	15791350	cxp	VNG2616G	-	COG2317E	carboxypeptidase
+1959213..1960256	+	347	15791351	adh2	VNG2617G	-	COG1063ER	alcohol dehydrogenase
+1960353..1960535	+	60	15791352	-	VNG2619H	-	-	hypothetical protein
+1960727..1962556	+	609	15791353	uvrD	VNG2620G	-	COG0210L	hypothetical protein
+1962562..1963569	+	335	15791354	-	VNG2622H	-	COG0006E	hypothetical protein
+1963879..1964535	+	218	15791355	ribC	VNG2624G	-	COG0307H	riboflavin synthase subunit alpha
+1964484..1965641	-	385	15791356	-	VNG2625C	-	COG2339S	hypothetical protein
+1965732..1965824	+	30	15791357	-	VNG2626H	-	-	hypothetical protein
+1965903..1967318	+	471	15791358	-	VNG2627C	-	COG1530J	hypothetical protein
+1967327..1967698	-	123	15791359	-	VNG2628H	-	COG0694O	hypothetical protein
+1967776..1968756	-	326	15791360	glcK	VNG2629G	-	COG1940KG	glucose kinase
+1968823..1969428	-	201	15791361	-	VNG2631H	-	COG2013S	hypothetical protein
+1969542..1970282	+	246	15791362	yusZ2	VNG2632G	-	COG1028IQR	oxidoreductase
+1970298..1970495	-	65	15791363	-	VNG2633H	-	-	hypothetical protein
+1970550..1971122	-	190	15791364	-	VNG2634H	-	COG4894S	hypothetical protein
+1971212..1974160	+	982	15791365	uvrA	VNG2636G	-	COG0178L	hypothetical protein
+1974232..1975149	+	305	15791366	-	VNG2637H	-	-	hypothetical protein
+1975213..1976295	+	360	15791367	bchP	VNG2638G	-	COG0644C	geranylgeranyl hydrogenase
+1976303..1977676	-	457	15791368	uae	VNG2639G	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+1977745..1978779	-	344	15791369	gcvT2	VNG2640G	-	COG0404E	glycine cleavage system protein T
+1978824..1979123	-	99	15791370	-	VNG2641H	-	-	hypothetical protein
+1979205..1980146	+	313	15791371	-	VNG2642H	-	COG5271R	hypothetical protein
+1980191..1980583	+	130	15791372	-	VNG2643H	-	-	hypothetical protein
+1980692..1981048	-	118	15791373	-	VNG2644C	-	COG2450S	hypothetical protein
+1981201..1981929	+	242	16554523	-	VNG2644a	-	COG3342S	hypothetical protein
+1981952..1982431	-	159	15791374	-	VNG2646C	-	COG2016J	RNA-binding protein
+1982514..1982789	+	91	15791375	-	VNG2645H	-	-	hypothetical protein
+1982832..1984121	+	429	15791376	vacB	VNG2647G	-	COG0557K	hypothetical protein
+1984401..1984709	-	102	15791377	rps10p	VNG2648G	-	COG0051J	30S ribosomal protein S10
+1984713..1985978	-	421	15791378	eef1a	VNG2649G	-	COG5256J	elongation factor 1-alpha
+1986133..1987086	-	317	15791379	hom	VNG2650G	-	COG0460E	Hom
+1987884..1989215	-	443	15791380	-	VNG2652H	-	COG0675L	hypothetical protein
+1989233..1989631	+	132	15791381	-	VNG2653C	-	COG1943L	hypothetical protein
+1989693..1991879	-	728	16554524	EEF2	VNG2654Gm	-	COG0480J	elongation factor EF-2
+1992072..1992836	+	254	15791383	-	VNG2656H	-	-	hypothetical protein
+1992911..1993543	-	210	15791384	rps7p	VNG2657G	-	COG0049J	30S ribosomal protein S7
+1993547..1993975	-	142	15791385	rps12P	VNG2658G	-	COG0048J	30S ribosomal protein S12
+1994139..1994558	-	139	15791386	nusA	VNG2661G	-	COG0195K	transcription elongation factor NusA-like protein
+1994558..1995751	-	397	15791387	rpoC	VNG2662G	-	COG0086K	DNA-directed RNA polymerase subunit A''
+1995744..1998659	-	971	16554525	rpoA1	VNG2664Gm	-	COG0086K	DNA-directed RNA polymerase subunit A'
+1998659..2000485	-	608	15791389	rpoB'	VNG2665G	-	COG0085K	DNA-directed RNA polymerase subunit B'
+2000487..2002058	-	523	15791390	rpoB''	VNG2666G	-	COG0085K	DNA-directed RNA polymerase subunit beta''
+2002059..2002286	-	75	15791391	rpoH	VNG2668G	-	COG2012K	DNA-directed RNA polymerase subunit H
+2002626..2003546	-	306	15791392	cyo	VNG2669G	-	COG4083S	cytochrome oxidase subunit I-like protein
+2006199..2006309	-	36	15791393	-	VNG2673H	-	-	hypothetical protein
+2006446..2006856	-	136	15791394	-	VNG2674H	-	-	hypothetical protein
+2006920..2007438	-	172	15791395	-	VNG2675C	-	COG1309K	hypothetical protein
+2007840..2009699	+	619	15791396	-	VNG2677H	-	COG3889R	hypothetical protein
+2009709..2011541	-	610	15791397	-	VNG2678H	-	-	hypothetical protein
+2011729..2014239	+	836	15791398	csg	VNG2679G	-	COG3889R	cell surface glycoprotein
