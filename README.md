@@ -27,7 +27,7 @@ Execution:
 2, Change the working directory to the location of the file.
 	cd path\to\the\file\location
 3, Run the script using the following command.
-	Assignment_3.py
+	operon_analyzer.py
 4, Once execution is complete check output.
 	
 Output Files:
